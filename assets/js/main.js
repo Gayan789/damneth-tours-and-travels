@@ -85,11 +85,11 @@
   }
 
   /* ---------- Hero background video ---------- */
-  // Each <source> has a media query: the full-size file for large screens, a lighter portrait
-  // crop for phones and tablets, neither for reduced motion. The inline script after the <video>
+  // Each <source> has a media query: the full-size file for large screens and sideways phones,
+  // 9:16 and 3:4 portrait cuts for upright phones and tablets, none for reduced motion. The inline script after the <video>
   // switches them all to "not all" on Save-Data or slow connections, so those visitors keep the
   // photo without downloading anything. This adds the fade-in once frames are playing, the right
-  // file when the window crosses between the two sizes, pausing while the hero is off screen, and
+  // file when the screen turns or the window changes size, pausing while the hero is off screen, and
   // the pause button.
   const heroVideo = $('.hero__video');
 
@@ -139,8 +139,8 @@
 
     heroVideo.addEventListener('playing', () => heroVideo.classList.add('is-ready'));
 
-    // Browsers choose a <source> once, on load. When the window crosses 64em (a tablet turned
-    // sideways, a resized desktop window), load again so the matching file plays.
+    // Browsers choose a <source> once, on load. When another one starts to match (a phone or tablet
+    // turned sideways, a resized desktop window), load again so the matching file plays.
     const onMediaChange = () => {
       if (allowed()) {
         const next = pick();

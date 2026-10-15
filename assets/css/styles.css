@@ -396,26 +396,23 @@ fieldset {
   height: var(--header-height);
 }
 
-/* Horizontal lockup, drawn as inline SVG on a transparent background: the island
-   mark, a hairline rule and the name set in Poppins. Its colours come from the
-   custom properties below. Over the dark hero (and the open mobile menu) it is
-   white and gold with a soft shadow; on the light scrolled bar it turns ocean.
-   It shrinks with a transform, so nothing around it moves. */
+/* Lockup: the round emblem (the company's own logo, on its white disc) beside the name
+   set in Poppins as inline SVG, so the name stays sharp and readable at header size.
+   --logo-h is the emblem's diameter; the name is sized from it. Over the dark hero (and
+   the open mobile menu) the name is white with a soft shadow; on the light scrolled bar
+   it turns ocean and the disc gets a fine ring. The lockup shrinks with a transform, so
+   nothing around it moves. */
 .logo {
-  --logo-h: 2.75rem;
+  --logo-h: 3.125rem;
   --logo-ink: var(--color-white);
   --logo-tag: var(--color-white);
-  --logo-rule: rgb(242 169 0 / 0.85);
-  --logo-mark-1: #fbd77a;
-  --logo-mark-2: var(--color-gold-500);
-  --logo-mark-3: var(--color-gold-600);
-  --logo-glint-mark: var(--color-white);
-  --logo-glint-word: var(--color-gold-300);
-  --logo-halo: var(--color-gold-500);
-  --logo-halo-opacity: 1;
+  --logo-glint: var(--color-gold-300);
   --logo-shadow:
     drop-shadow(0 1px 1px rgb(4 22 30 / 0.6))
     drop-shadow(0 2px 8px rgb(4 22 30 / 0.35));
+  --logo-seal-shadow:
+    0 0 0 1px rgb(255 255 255 / 0.5),
+    0 2px 10px rgb(4 22 30 / 0.4);
   position: relative;
   z-index: calc(var(--z-menu) + 1);
   display: inline-flex;
@@ -425,17 +422,33 @@ fieldset {
   text-decoration: none;
 }
 
+.logo__lockup {
+  display: inline-flex;
+  align-items: center;
+  gap: calc(var(--logo-h) * 0.22);
+  transform-origin: left center;
+  transition: transform var(--duration-base) var(--ease-out);
+}
+
+.logo__seal {
+  display: block;
+  flex: none;
+  width: var(--logo-h);
+  height: var(--logo-h);
+  border-radius: 50%;
+  background: var(--color-white);
+  box-shadow: var(--logo-seal-shadow);
+  transition: box-shadow var(--duration-base) var(--ease-out);
+}
+
 .logo__svg {
   display: block;
+  flex: none;
   width: auto;
-  height: var(--logo-h);
-  max-width: 100%;
+  height: calc(var(--logo-h) * 0.68);
   overflow: visible;
   filter: var(--logo-shadow);
-  transform-origin: left center;
-  transition:
-    transform var(--duration-base) var(--ease-out),
-    filter var(--duration-base) var(--ease-out);
+  transition: filter var(--duration-base) var(--ease-out);
 }
 
 .logo__name,
@@ -445,36 +458,19 @@ fieldset {
 }
 
 .logo__name {
-  font-size: 30px;
+  font-size: 23.3px;
   font-weight: var(--weight-semibold);
   fill: var(--logo-ink);
 }
 
 .logo__tag {
-  font-size: 10.5px;
+  font-size: 8.6px;
   font-weight: var(--weight-medium);
   fill: var(--logo-tag);
 }
 
-.logo__rule {
-  fill: var(--logo-rule);
-  transition: fill var(--duration-base) var(--ease-out);
-}
-
-.logo__stop {
-  transition: stop-color var(--duration-base) var(--ease-out);
-}
-
-.logo__stop--1 { stop-color: var(--logo-mark-1); }
-.logo__stop--2 { stop-color: var(--logo-mark-2); }
-.logo__stop--3 { stop-color: var(--logo-mark-3); }
-.logo__glint-stop--mark { stop-color: var(--logo-glint-mark); }
-.logo__glint-stop--word { stop-color: var(--logo-glint-word); }
-.logo__halo-stop { stop-color: var(--logo-halo); }
-
-.logo__halo {
-  opacity: calc(var(--logo-halo-opacity) * 0.55);
-  transition: opacity var(--duration-base) var(--ease-out);
+.logo__glint-stop {
+  stop-color: var(--logo-glint);
 }
 
 /* The light sweep rests off to the left until it runs */
@@ -484,34 +480,41 @@ fieldset {
 
 @media (min-width: 64em) {
   .logo--header {
-    --logo-h: 3.25rem;
+    --logo-h: 3.5rem;
   }
 }
 
-.site-header.is-scrolled .logo__svg {
+.site-header.is-scrolled .logo__lockup {
   transform: scale(0.86);
 }
 
 .site-header.is-scrolled:not(.menu-open) .logo--header {
   --logo-ink: var(--color-ocean-900);
   --logo-tag: var(--color-ocean-700);
-  --logo-rule: rgb(13 92 117 / 0.35);
-  --logo-mark-1: var(--color-ocean-600);
-  --logo-mark-2: var(--color-ocean-700);
-  --logo-mark-3: var(--color-ocean-900);
-  --logo-glint-mark: rgb(255 255 255 / 0.75);
-  --logo-glint-word: var(--color-gold-500);
-  --logo-halo-opacity: 0;
+  --logo-glint: var(--color-gold-500);
   --logo-shadow: drop-shadow(0 0 0 transparent);
+  --logo-seal-shadow:
+    0 0 0 1px rgb(13 92 117 / 0.2),
+    0 1px 4px rgb(4 22 30 / 0.12);
 }
 
+/* Footer: the emblem on its own, larger, on the dark band */
 .logo--footer {
-  --logo-h: 4.5rem;
+  --logo-h: 9rem;
 }
 
 .logo--footer .logo__img {
-  width: auto;
+  width: var(--logo-h);
   height: var(--logo-h);
+  border-radius: 50%;
+  background: var(--color-white);
+  box-shadow: 0 0 0 1px rgb(255 255 255 / 0.35), 0 6px 24px rgb(0 0 0 / 0.35);
+}
+
+@media (min-width: 48em) {
+  .logo--footer {
+    --logo-h: 10rem;
+  }
 }
 
 @media (forced-colors: active) {
@@ -520,27 +523,18 @@ fieldset {
   }
 
   .logo__name,
-  .logo__tag,
-  .logo__rule {
+  .logo__tag {
     fill: CanvasText;
+  }
+
+  .logo__glint {
+    display: none;
   }
 }
 
-/* Motion: the mark floats and its halo breathes on a slow two-second swell, and
-   a light sweep crosses the mark and the name shortly after load, again every
-   few seconds, and straight away on hover or keyboard focus. Transforms and
-   opacity only, inside a fixed-size box. */
+/* Motion: a light sweep crosses the name shortly after load, again every few seconds,
+   and straight away on hover or keyboard focus. Transform only, inside a fixed-size box. */
 @media (prefers-reduced-motion: no-preference) {
-  .logo__mark {
-    animation: logo-float 2s ease-in-out infinite alternate;
-  }
-
-  .logo__halo {
-    transform-box: fill-box;
-    transform-origin: center;
-    animation: logo-breathe 2s ease-in-out infinite alternate;
-  }
-
   .logo__glint {
     animation: logo-sweep 7s var(--ease-in-out) 0.6s infinite both;
   }
@@ -551,24 +545,14 @@ fieldset {
   }
 }
 
-@keyframes logo-float {
-  from { transform: translateY(0.9px); }
-  to { transform: translateY(-1.3px); }
-}
-
-@keyframes logo-breathe {
-  from { opacity: calc(var(--logo-halo-opacity) * 0.3); transform: scale(0.9); }
-  to { opacity: calc(var(--logo-halo-opacity) * 0.75); transform: scale(1.06); }
-}
-
 @keyframes logo-sweep {
   0% { transform: translateX(0) skewX(-18deg); }
-  32%, 100% { transform: translateX(250px) skewX(-18deg); }
+  32%, 100% { transform: translateX(170px) skewX(-18deg); }
 }
 
 @keyframes logo-sweep-now {
   from { transform: translateX(0) skewX(-18deg); }
-  to { transform: translateX(250px) skewX(-18deg); }
+  to { transform: translateX(170px) skewX(-18deg); }
 }
 
 .nav-toggle {
@@ -1103,6 +1087,32 @@ fieldset {
 @media (max-width: 63.99em) and (prefers-reduced-motion: no-preference) {
   .hero--video .hero__media::after {
     background: var(--overlay-hero-video-narrow);
+  }
+}
+
+/* Phones and tablets: the hero grows much taller than the screen to fit its text (about 1,550px
+   on a 390px phone). A video covering all of that would be blown up more than twofold and lose
+   two thirds of its width. So here it fills at most one screen height at the top, at a light
+   zoom, and fades into the hero's deep background, where the text sits. The photo steps aside
+   once the video plays, so the fade lands on that plain background. The phone and tablet files
+   are already cut to follow each scene's subject, so they are centred. lvh is the screen height
+   with the browser bars hidden: the box doesn't jump as they slide in and out. */
+@media (max-width: 63.99em) {
+  .hero__video {
+    inset: 0 0 auto;
+    height: min(100%, 100vh);
+    height: min(100%, 100lvh);
+    object-position: 50% 50%;
+    -webkit-mask-image: linear-gradient(180deg, #000 68%, transparent);
+    mask-image: linear-gradient(180deg, #000 68%, transparent);
+  }
+
+  .js .hero__media img {
+    transition: opacity 1.4s var(--ease-out);
+  }
+
+  .js .hero__media:has(.hero__video.is-ready) img {
+    opacity: 0;
   }
 }
 
@@ -3295,7 +3305,7 @@ textarea.field__input {
 
 @media (min-width: 64em) and (max-width: 74.99em) {
   .logo--header {
-    --logo-h: 2.875rem;
+    --logo-h: 3.125rem;
   }
 
   .site-nav {
@@ -6648,13 +6658,13 @@ a[href^="tel:"],
    Spacing and placement already follow the text direction (logical properties); these are the
    few things that need turning round by hand. */
 
-/* The lockup is an English wordmark drawn in SVG: it keeps its own direction and shrinks
-   towards its start */
+/* The name is an English wordmark drawn in SVG: it keeps its own direction. The lockup
+   (emblem first, then the name) shrinks towards its start */
 .logo__svg {
   direction: ltr;
 }
 
-[dir="rtl"] .logo__svg {
+[dir="rtl"] .logo__lockup {
   transform-origin: right center;
 }
 

@@ -24,7 +24,7 @@ backend:
 # display_url: https://YOUR-SITE.netlify.app
 
 logo:
-  src: /assets/images/logo-dark.png
+  src: /assets/images/logo-seal-288.webp
 
 locale: en
 
