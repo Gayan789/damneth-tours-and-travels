@@ -1,6 +1,6 @@
 {
   "currency": "$",
-  "multi_day_from": 80,
+  "multi_day_from": 78,
   "multi_day_to": 120,
   "transfer_from": 50
 }
