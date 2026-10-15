@@ -250,27 +250,38 @@
           alt="A small white van on a winding road through bright green tea plantations in Sri Lanka's hill country"
           fetchpriority="high" data-i18n-attr="alt=937ec259">
         <!-- Looping 24 s montage (beach, surfing, whale watching, Sigiriya, peacock, leopard) with soft
-             crossfades, for large screens only. The media query on
-             <source> means phones, tablets and reduced-motion visitors never download it and keep
-             the photo above. The script below also skips it on Save-Data or slow connections.
+             crossfades. Large screens get the 1280x720 file (5.5 MB). Phones and tablets get a
+             lighter 540x720 portrait crop of the same loop (1.8 MB): the browser takes the first
+             <source> whose media query matches. Reduced-motion visitors match neither, so they
+             download nothing and keep the photo above. The script below also skips the video on
+             Save-Data or slow connections.
+             muted + playsinline (webkit-playsinline for older iOS) are what let phones autoplay it
+             inline. Battery savers (iOS Low Power Mode, some Android power modes) can still refuse
+             autoplay: main.js then keeps the photo and shows the play button.
              Browsers fetch the poster even while the video is hidden, so it is a light (50 KB),
              slightly softened copy of the photo. With JS the video stays transparent until it is
              playing, so the full-size photo is what shows while it buffers. -->
-        <video class="hero__video" autoplay muted loop playsinline disablepictureinpicture disableremoteplayback
+        <video class="hero__video" autoplay loop muted playsinline webkit-playsinline preload="auto"
+          disablepictureinpicture disableremoteplayback
           poster="assets/images/hero-tea-country-road-poster.webp" width="1280" height="720" aria-hidden="true">
           <source src="assets/videos/hero-bg.mp4" type="video/mp4"
             media="(min-width: 64em) and (prefers-reduced-motion: no-preference)">
+          <source src="assets/videos/hero-bg-mobile.mp4" type="video/mp4"
+            media="(max-width: 63.99em) and (prefers-reduced-motion: no-preference)">
         </video>
         <script>
           // Inline so it runs before the browser picks a source: on Save-Data or a 2G/3G connection
-          // the download never starts. main.js then sees the source as unwanted and keeps the photo.
+          // the download never starts. main.js then sees the sources as unwanted and keeps the photo.
           // Wherever the video won't play, the poster goes too so it doesn't compete with the photo.
           (function (video, c) {
-            var source = video.querySelector('source');
-            if ((c && (c.saveData || /2g|3g/.test(c.effectiveType || ''))) || matchMedia('(prefers-reduced-data: reduce)').matches) {
-              source.media = 'not all';
+            var sources = video.querySelectorAll('source');
+            var skip = (c && (c.saveData || /2g|3g/.test(c.effectiveType || ''))) || matchMedia('(prefers-reduced-data: reduce)').matches;
+            var plays = false;
+            for (var i = 0; i < sources.length; i++) {
+              if (skip) sources[i].media = 'not all';
+              if (matchMedia(sources[i].media).matches) plays = true;
             }
-            if (!matchMedia(source.media).matches) video.removeAttribute('poster');
+            if (!plays) video.removeAttribute('poster');
           })(document.querySelector('.hero__video'), navigator.connection);
         </script>
       </div>

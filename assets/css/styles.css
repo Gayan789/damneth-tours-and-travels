@@ -1094,15 +1094,21 @@ fieldset {
   display: none;
 }
 
-@media (min-width: 64em) and (prefers-reduced-motion: no-preference) {
+@media (prefers-reduced-motion: no-preference) {
   .hero--video .hero__media::after {
     background: var(--overlay-hero-video);
   }
 }
 
-/* Phones, tablets, reduced motion and reduced data keep the photo only. The <source media>
-   query stops the download too; this just makes sure nothing of the video shows. */
-@media (max-width: 63.99em), (prefers-reduced-motion: reduce) {
+@media (max-width: 63.99em) and (prefers-reduced-motion: no-preference) {
+  .hero--video .hero__media::after {
+    background: var(--overlay-hero-video-narrow);
+  }
+}
+
+/* Reduced motion and reduced data keep the photo only. The <source media> queries stop the
+   download too; this just makes sure nothing of the video shows. */
+@media (prefers-reduced-motion: reduce) {
   .hero__video,
   .hero__video-toggle {
     display: none;

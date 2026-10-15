@@ -85,20 +85,27 @@
   }
 
   /* ---------- Hero background video ---------- */
-  // The <source media> query already keeps phones, tablets and reduced-motion visitors on the
-  // photo without downloading anything, and the inline script after the <video> switches it to
-  // "not all" on Save-Data or slow connections. This adds the fade-in once frames are playing,
-  // pausing while the hero is off screen, and the pause button.
+  // Each <source> has a media query: the full-size file for large screens, a lighter portrait
+  // crop for phones and tablets, neither for reduced motion. The inline script after the <video>
+  // switches them all to "not all" on Save-Data or slow connections, so those visitors keep the
+  // photo without downloading anything. This adds the fade-in once frames are playing, the right
+  // file when the window crosses between the two sizes, pausing while the hero is off screen, and
+  // the pause button.
   const heroVideo = $('.hero__video');
 
   if (heroVideo) {
     const hero = heroVideo.closest('.hero');
     const toggle = $('[data-video-toggle]', hero);
     const sources = $$('source', heroVideo);
-    const wanted = window.matchMedia(sources[0]?.media || 'all');
-    const allowed = () => wanted.matches;
+    const queries = sources.map((source) => window.matchMedia(source.media || 'all'));
+    const allowed = () => queries.some((query) => query.matches);
+    const pick = () => sources[queries.findIndex((query) => query.matches)];
+    let chosen = allowed() ? pick() : null; // the source the browser is playing
     let onScreen = true;
     let paused = false; // by the visitor
+
+    // Some mobile browsers only check the property, not the attribute, before allowing autoplay
+    heroVideo.muted = true;
 
     const setPaused = (value) => {
       paused = value;
@@ -119,7 +126,8 @@
       hero.classList.toggle('has-video', on);
       if (on && onScreen && !paused && !document.hidden) {
         heroVideo.play().catch((error) => {
-          // Autoplay refused (e.g. battery saver): keep the photo and let the button start it.
+          // Autoplay refused (iOS Low Power Mode, Android battery saver, browser settings): the
+          // video stays transparent, so the photo shows, and the play button starts it on a tap.
           if (error.name === 'NotAllowedError') setPaused(true);
         });
       } else {
@@ -131,14 +139,23 @@
 
     heroVideo.addEventListener('playing', () => heroVideo.classList.add('is-ready'));
 
-    wanted.addEventListener('change', () => {
-      // The window has grown into the video's media query: pick up the source now.
+    // Browsers choose a <source> once, on load. When the window crosses 64em (a tablet turned
+    // sideways, a resized desktop window), load again so the matching file plays.
+    const onMediaChange = () => {
       if (allowed()) {
-        if (sources[0]?.parentNode !== heroVideo) setSources(true);
-        else if (!heroVideo.currentSrc) heroVideo.load();
+        const next = pick();
+        if (sources[0].parentNode !== heroVideo) {
+          chosen = next;
+          setSources(true);
+        } else if (next !== chosen) {
+          chosen = next;
+          heroVideo.classList.remove('is-ready'); // fade in again once the new file plays
+          heroVideo.load();
+        }
       }
       sync();
-    });
+    };
+    queries.forEach((query) => query.addEventListener('change', onMediaChange));
 
     if (toggle) {
       toggle.addEventListener('click', () => {

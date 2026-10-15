@@ -69,6 +69,8 @@ Lists such as the route, "what's included" and the days are matched by position.
 
 **Videos.** MP4, ideally under a minute and under 20 MB (the limit is 25 MB). Choose a poster image too: the still shown before the video plays. Every upload stays in the repository's history for good, so large videos make it heavier over time.
 
+**Home page video.** The background video at the top of the home page is not in the content manager. It has two files in `assets/videos/`: `hero-bg.mp4` (1280×720) for large screens, and `hero-bg-mobile.mp4`, a lighter 540×720 portrait copy for phones and tablets. If you replace one, replace both. Visitors who have reduced motion or data saving turned on, or whose phone blocks autoplay to save battery (iOS Low Power Mode), see the photo instead. When autoplay is blocked, the round play button under the route list starts the video.
+
 **Deleting.** Deleting a gallery item removes it from the page. The uploaded file stays in the media library (the **Media** button at the top) until you delete it there as well. To take something off the site for a while, use **Hide from the site** instead.
 
 ## 4. Languages

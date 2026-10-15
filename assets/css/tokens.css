@@ -163,6 +163,9 @@
     linear-gradient(100deg, rgb(5 30 40 / 0.9) 0%, rgb(5 30 40 / 0.68) 42%, rgb(5 30 40 / 0.2) 80%),
     linear-gradient(0deg, rgb(5 30 40 / 0.6) 0%, rgb(5 30 40 / 0) 45%),
     linear-gradient(180deg, rgb(5 30 40 / 0.45) 0%, rgb(5 30 40 / 0) 28%);
+  /* Below 64em the hero text runs the full width of the video (white surf, sunlit stone), so the
+     scrim is an even veil instead of a left-to-right fade */
+  --overlay-hero-video-narrow: linear-gradient(180deg, rgb(5 30 40 / 0.66) 0%, rgb(5 30 40 / 0.72) 100%);
   --overlay-card: linear-gradient(180deg, rgb(5 30 40 / 0) 30%, rgb(5 30 40 / 0.86) 100%);
   --overlay-deep: linear-gradient(180deg, rgb(5 30 40 / 0.78) 0%, rgb(5 30 40 / 0.9) 100%);
   --overlay-header: linear-gradient(180deg, rgb(5 30 40 / 0.6) 0%, rgb(5 30 40 / 0) 100%);
