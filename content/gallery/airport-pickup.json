@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Airport pick-up",
+    "alt": "Two guests with their driver-guide on the pavement outside the airport, a luggage trolley behind them",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 90,
+    "image": "/assets/images/gallery/gal-airport-pickup-1200.webp"
+  },
+  "de": {
+    "title": "Abholung am Flughafen",
+    "alt": "Zwei Gäste mit ihrem Fahrer-Guide auf dem Gehweg vor dem Flughafen, hinter ihnen ein Gepäckwagen"
+  },
+  "fr": {
+    "title": "Accueil à l’aéroport",
+    "alt": "Deux voyageurs avec leur chauffeur-guide sur le trottoir devant l’aéroport, un chariot à bagages derrière eux"
+  },
+  "ru": {
+    "title": "Встреча в аэропорту",
+    "alt": "Двое гостей с водителем-гидом на тротуаре у аэропорта, позади них багажная тележка"
+  },
+  "he": {
+    "title": "איסוף משדה התעופה",
+    "alt": "שני אורחים עם הנהג־מדריך שלהם על המדרכה מחוץ לשדה התעופה, ועגלת מזוודות מאחוריהם"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "In the bamboo grove",
+    "alt": "Four guests and their driver-guide taking a selfie among tall bamboo",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 400,
+    "image": "/assets/images/gallery/gal-bamboo-grove-1600.webp"
+  },
+  "de": {
+    "title": "Im Bambushain",
+    "alt": "Vier Gäste und ihr Fahrer-Guide machen ein Selfie zwischen hohem Bambus"
+  },
+  "fr": {
+    "title": "Dans la bambouseraie",
+    "alt": "Quatre voyageurs et leur chauffeur-guide prenant un selfie au milieu de grands bambous"
+  },
+  "ru": {
+    "title": "В бамбуковой роще",
+    "alt": "Четверо гостей и их водитель-гид делают селфи среди высокого бамбука"
+  },
+  "he": {
+    "title": "בחורשת הבמבוק",
+    "alt": "ארבעה אורחים והנהג־מדריך שלהם מצטלמים בסלפי בין במבוקים גבוהים"
+  }
+}

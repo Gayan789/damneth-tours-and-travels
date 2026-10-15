@@ -1,0 +1,308 @@
+{
+  "52271258": {
+    "en": "Experiences",
+    "he": "חוויות"
+  },
+  "_meta": {
+    "language": "he",
+    "bundle": "common",
+    "status": "draft – needs native review",
+    "about": "Text that appears on more than one page (header, footer, shared buttons…). Translate the \"he\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "0a4470d6": {
+    "en": "Skip to content",
+    "he": "דילוג לתוכן"
+  },
+  "b7aa4928": {
+    "en": "Damneth Travels &amp; Tours, home",
+    "he": "Damneth Travels &amp; Tours, דף הבית"
+  },
+  "89b86ab0": {
+    "en": "Language",
+    "he": "שפה"
+  },
+  "197101e9": {
+    "en": "Open menu",
+    "he": "פתיחת התפריט"
+  },
+  "62bce942": {
+    "en": "Main",
+    "he": "תפריט ראשי"
+  },
+  "70f8bb9a": {
+    "en": "Home",
+    "he": "בית"
+  },
+  "0fc66bc4": {
+    "en": "Destinations",
+    "he": "יעדים"
+  },
+  "449ace79": {
+    "en": "Journeys",
+    "he": "מסלולים"
+  },
+  "57d7f743": {
+    "en": "Journal",
+    "he": "בלוג"
+  },
+  "9c30a348": {
+    "en": "Gallery",
+    "he": "גלריה"
+  },
+  "b37456c4": {
+    "en": "Contact",
+    "he": "צור קשר"
+  },
+  "c45b75a6": {
+    "en": "Free trip planning, 24/7 on WhatsApp",
+    "he": "תכנון טיול חינם, 24/7 בוואטסאפ"
+  },
+  "a488b0a4": {
+    "en": "WhatsApp us <1/>",
+    "he": "כתבו לנו בוואטסאפ <1/>"
+  },
+  "bf5b9903": {
+    "en": "(opens in a new tab)",
+    "he": "(נפתח בכרטיסייה חדשה)"
+  },
+  "f3f23951": {
+    "en": "Call<1/>",
+    "he": "התקשרו<1/>"
+  },
+  "d579c40b": {
+    "en": "Email<1/>",
+    "he": "אימייל<1/>"
+  },
+  "67f68a9d": {
+    "en": "<1/> Follow us on Instagram<2> (opens in a new tab)</2>",
+    "he": "<1/> עקבו אחרינו באינסטגרם<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "3a30bb70": {
+    "en": "Damneth on Instagram (opens in a new tab)",
+    "he": "Damneth באינסטגרם (נפתח בכרטיסייה חדשה)"
+  },
+  "3736c7d4": {
+    "en": "<1/> WhatsApp us<2> (opens in a new tab)</2>",
+    "he": "<1/> כתבו לנו<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "937ec259": {
+    "en": "A small white van on a winding road through bright green tea plantations in Sri Lanka's hill country",
+    "he": "ואן לבן קטן בדרך מתפתלת בין מטעי תה ירוקים ובוהקים בהרים של סרי לנקה"
+  },
+  "099f4b22": {
+    "en": "Get a free quote <1/>",
+    "he": "לקבלת הצעת מחיר חינם <1/>"
+  },
+  "006e192a": {
+    "en": "<1/>Free itinerary planning",
+    "he": "<1/>תכנון מסלול חינם"
+  },
+  "6461ab12": {
+    "en": "<1/>No hidden fuel or toll charges",
+    "he": "<1/>בלי חיובים נסתרים על דלק או כבישי אגרה"
+  },
+  "3a52ea49": {
+    "en": "Multi-day private tours<1>Vehicle + driver-guide</1>",
+    "he": "טיולים פרטיים של כמה ימים<1>רכב + נהג־מדריך</1>"
+  },
+  "0b1e95cf": {
+    "en": "from",
+    "he": "החל מ־"
+  },
+  "9613df14": {
+    "en": "/day",
+    "he": "/ליום"
+  },
+  "75f52718": {
+    "en": "Free",
+    "he": "חינם"
+  },
+  "dbd0d6c9": {
+    "en": "Get your fixed quote <1/>",
+    "he": "לקבלת מחיר קבוע <1/>"
+  },
+  "3c3f0afd": {
+    "en": "Aerial view of a winding road with hairpin bends through dense green forest",
+    "he": "מבט מלמעלה על כביש מתפתל בעיקולי סיכה דרך יער ירוק וסבוך"
+  },
+  "f48ab19b": {
+    "en": "A surfer holding a longboard on the beach, with waves rolling in behind",
+    "he": "גולש מחזיק לונגבורד על החוף, והגלים מתגלגלים מאחוריו"
+  },
+  "c9782af1": {
+    "en": "Colombo's Lotus Tower rising above Beira Lake and the city",
+    "he": "מגדל הלוטוס של קולומבו מתנשא מעל אגם בירה והעיר"
+  },
+  "b8dfa557": {
+    "en": "Add Colombo to my trip",
+    "he": "הוספת קולומבו לטיול שלי"
+  },
+  "75fc0fc9": {
+    "en": "Sigiriya Rock rising above the trees behind two men standing beside a small white car, with tuk-tuks parked nearby",
+    "he": "סלע סיגיריה מתנשא מעל העצים, ולפניו שני גברים עומדים ליד מכונית לבנה קטנה, וטוק־טוקים חונים בסמוך"
+  },
+  "3ae14163": {
+    "en": "Cultural Triangle",
+    "he": "המשולש התרבותי"
+  },
+  "79e4cbde": {
+    "en": "Sigiriya",
+    "he": "סיגיריה"
+  },
+  "7d9894cb": {
+    "en": "Add Sigiriya to my trip",
+    "he": "הוספת סיגיריה לטיול שלי"
+  },
+  "5abe97ac": {
+    "en": "The Temple of the Sacred Tooth Relic in Kandy, hung with Buddhist flags and reflected in the moat",
+    "he": "מקדש השן הקדושה בקנדי, מקושט בדגלים בודהיסטיים ומשתקף בתעלה"
+  },
+  "4b9a07fa": {
+    "en": "Hill country",
+    "he": "אזור ההרים"
+  },
+  "98e625b7": {
+    "en": "Kandy",
+    "he": "קנדי"
+  },
+  "0f203ebb": {
+    "en": "Add Kandy to my trip",
+    "he": "הוספת קנדי לטיול שלי"
+  },
+  "2db5c4dc": {
+    "en": "Looking down on the curving Nine Arches Bridge as the railway runs into a tunnel through the jungle, with people walking along the tracks",
+    "he": "מבט מלמעלה על גשר תשע הקשתות המתעקל, כשמסילת הרכבת נכנסת למנהרה בג׳ונגל ואנשים הולכים לאורך הפסים"
+  },
+  "f53e0f4c": {
+    "en": "Ella",
+    "he": "אלה"
+  },
+  "0cf0fc79": {
+    "en": "Add Ella to my trip",
+    "he": "הוספת אלה לטיול שלי"
+  },
+  "0a155926": {
+    "en": "A leopard walking along a sandy track in Yala",
+    "he": "נמר הולך בשביל חולי ביאלה"
+  },
+  "ccc26814": {
+    "en": "Yala",
+    "he": "יאלה"
+  },
+  "e226ee06": {
+    "en": "Add Yala to my trip",
+    "he": "הוספת יאלה לטיול שלי"
+  },
+  "5706c384": {
+    "en": "The lighthouse at Galle Fort framed by palm trees under a cloudy sky",
+    "he": "המגדלור במבצר גאלה ממוסגר בעצי דקל תחת שמיים מעוננים"
+  },
+  "edb0a574": {
+    "en": "Galle",
+    "he": "גאלה"
+  },
+  "5c2e8b1e": {
+    "en": "Add Galle to my trip",
+    "he": "הוספת גאלה לטיול שלי"
+  },
+  "6ce55cdf": {
+    "en": "Waves breaking against dark rocks beside a clear turquoise sea",
+    "he": "גלים נשברים על סלעים כהים לצד ים צלול בצבע טורקיז"
+  },
+  "ccb2d3ea": {
+    "en": "East Coast",
+    "he": "החוף המזרחי"
+  },
+  "003f022a": {
+    "en": "<1/>Leave us a review on Google<2> (opens in a new tab)</2>",
+    "he": "<1/>השאירו לנו ביקורת בגוגל<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "1c66ebb3": {
+    "en": "Plan your trip",
+    "he": "תכננו את הטיול שלכם"
+  },
+  "9138ec51": {
+    "en": "Your Sri Lanka road trip starts with a message.",
+    "he": "הטיול שלכם בסרי לנקה מתחיל בהודעה אחת."
+  },
+  "0a708342": {
+    "en": "Get a free quote",
+    "he": "לקבלת הצעת מחיר חינם"
+  },
+  "eda60813": {
+    "en": "Damneth Travels &amp; Tours",
+    "he": "Damneth Travels &amp; Tours"
+  },
+  "2ca053ab": {
+    "en": "A custom travel agency providing private driver tours, island transfers and tailored holiday itineraries across Sri Lanka.",
+    "he": "סוכנות נסיעות לטיולים בהתאמה אישית: טיולים פרטיים עם נהג, העברות ברחבי האי ומסלולי חופשה מותאמים בכל רחבי סרי לנקה."
+  },
+  "2a5384b9": {
+    "en": "<1/>Phone and WhatsApp",
+    "he": "<1/>טלפון ווואטסאפ"
+  },
+  "d0974b95": {
+    "en": "<1/>Email",
+    "he": "<1/>אימייל"
+  },
+  "baa37386": {
+    "en": "24/7 support via WhatsApp",
+    "he": "תמיכה 24/7 בוואטסאפ"
+  },
+  "3df2eab2": {
+    "en": "Based in Sri Lanka",
+    "he": "ממוקמים בסרי לנקה"
+  },
+  "b965ae66": {
+    "en": "Explore",
+    "he": "גלו"
+  },
+  "d2444325": {
+    "en": "Follow us",
+    "he": "עקבו אחרינו"
+  },
+  "b163d35b": {
+    "en": "© <1/> Damneth Tours &amp; Travels. All rights reserved.",
+    "he": "© <1/> Damneth Tours &amp; Travels. כל הזכויות שמורות."
+  },
+  "98e0acc7": {
+    "en": "Private driver tours and transfers across Sri Lanka",
+    "he": "טיולים פרטיים עם נהג והעברות בכל רחבי סרי לנקה"
+  },
+  "d67e4a8e": {
+    "en": "Quick contact",
+    "he": "יצירת קשר מהירה"
+  },
+  "be6ccbe2": {
+    "en": "Chat on WhatsApp<1> (opens in a new tab)</1>",
+    "he": "צ׳אט בוואטסאפ<1> (נפתח בכרטיסייה חדשה)</1>"
+  },
+  "25a9b23c": {
+    "en": "Call <1/>",
+    "he": "להתקשר: <1/>"
+  },
+  "3c46685a": {
+    "en": "Follow us on Instagram<1> (opens in a new tab)</1>",
+    "he": "עקבו אחרינו באינסטגרם<1> (נפתח בכרטיסייה חדשה)</1>"
+  },
+  "4dad1d54": {
+    "en": "<1/>Fixed price, no hidden fees",
+    "he": "<1/>מחיר קבוע, בלי עמלות נסתרות"
+  },
+  "1dd6a17c": {
+    "en": "How it works",
+    "he": "איך זה עובד"
+  },
+  "271a1540": {
+    "en": "See sample journeys <1/>",
+    "he": "לדוגמאות מסלולים <1/>"
+  },
+  "f1b35ec0": {
+    "en": "Two guests and their driver-guide taking a selfie by the Ambewela station sign, with a train waiting behind",
+    "he": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי ליד שלט תחנת אמבוולה, ורכבת ממתינה מאחוריהם"
+  },
+  "d557efd7": {
+    "en": "A tea picker in a headscarf plucking leaves on a green hillside",
+    "he": "קוטפת תה בכיסוי ראש קוטפת עלים על צלע גבעה ירוקה"
+  }
+}

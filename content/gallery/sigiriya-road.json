@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Sigiriya Rock",
+    "alt": "Sigiriya Rock rising above the trees behind two men standing beside a small white car, with tuk-tuks parked nearby",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 40,
+    "image": "/assets/images/gallery/gal-sigiriya-road-1200.webp"
+  },
+  "de": {
+    "title": "Der Sigiriya-Felsen",
+    "alt": "Der Sigiriya-Felsen ragt hinter den Bäumen auf, davor zwei Männer neben einem kleinen weißen Auto, in der Nähe parken Tuk-Tuks"
+  },
+  "fr": {
+    "title": "Le rocher de Sigiriya",
+    "alt": "Le rocher de Sigiriya se dressant au-dessus des arbres, derrière deux hommes debout près d’une petite voiture blanche, avec des tuk-tuks garés à côté"
+  },
+  "ru": {
+    "title": "Скала Сигирия",
+    "alt": "Скала Сигирия над деревьями, перед ней двое мужчин у небольшой белой машины, рядом припаркованы тук-туки"
+  },
+  "he": {
+    "title": "סלע סיגיריה",
+    "alt": "סלע סיגיריה מתנשא מעל העצים, ולפניו שני גברים עומדים ליד מכונית לבנה קטנה, וטוק־טוקים חונים בסמוך"
+  }
+}

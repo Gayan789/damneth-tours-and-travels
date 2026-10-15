@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Selfie time",
+    "alt": "Two guests and their driver-guide taking a selfie outdoors",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 500,
+    "image": "/assets/images/gallery/gal-trio-selfie-1600.webp"
+  },
+  "de": {
+    "title": "Zeit für ein Selfie",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide machen draußen ein Selfie"
+  },
+  "fr": {
+    "title": "L’heure du selfie",
+    "alt": "Deux voyageurs et leur chauffeur-guide prenant un selfie en plein air"
+  },
+  "ru": {
+    "title": "Время селфи",
+    "alt": "Двое гостей и их водитель-гид делают селфи на улице"
+  },
+  "he": {
+    "title": "זמן סלפי",
+    "alt": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי בחוץ"
+  }
+}

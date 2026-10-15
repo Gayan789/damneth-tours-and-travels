@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "A village spread",
+    "alt": "Two guests seated in a thatched hut with dishes laid out in clay bowls on the floor, and their driver-guide in front",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 260,
+    "image": "/assets/images/gallery/gal-village-cooking-1600.webp"
+  },
+  "de": {
+    "title": "Ein Festmahl im Dorf",
+    "alt": "Zwei Gäste sitzen in einer strohgedeckten Hütte, auf dem Boden Gerichte in Tonschalen, vorne ihr Fahrer-Guide"
+  },
+  "fr": {
+    "title": "Un festin au village",
+    "alt": "Deux voyageurs assis dans une hutte au toit de chaume, des plats servis dans des bols en terre posés au sol, et leur chauffeur-guide au premier plan"
+  },
+  "ru": {
+    "title": "Деревенское угощение",
+    "alt": "Двое гостей сидят в хижине с соломенной крышей, на полу блюда в глиняных мисках, впереди их водитель-гид"
+  },
+  "he": {
+    "title": "שולחן כפרי עמוס",
+    "alt": "שני אורחים יושבים בבקתת קש, מנות בקערות חרס פרושות על הרצפה, והנהג־מדריך שלהם מלפנים"
+  }
+}

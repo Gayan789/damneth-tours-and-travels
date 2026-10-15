@@ -1,0 +1,308 @@
+{
+  "52271258": {
+    "en": "Experiences",
+    "ru": "Впечатления"
+  },
+  "_meta": {
+    "language": "ru",
+    "bundle": "common",
+    "status": "draft – needs native review",
+    "about": "Text that appears on more than one page (header, footer, shared buttons…). Translate the \"ru\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "0a4470d6": {
+    "en": "Skip to content",
+    "ru": "Перейти к содержанию"
+  },
+  "b7aa4928": {
+    "en": "Damneth Travels &amp; Tours, home",
+    "ru": "Damneth Travels &amp; Tours, главная"
+  },
+  "89b86ab0": {
+    "en": "Language",
+    "ru": "Язык"
+  },
+  "197101e9": {
+    "en": "Open menu",
+    "ru": "Открыть меню"
+  },
+  "62bce942": {
+    "en": "Main",
+    "ru": "Основное меню"
+  },
+  "70f8bb9a": {
+    "en": "Home",
+    "ru": "Главная"
+  },
+  "0fc66bc4": {
+    "en": "Destinations",
+    "ru": "Направления"
+  },
+  "449ace79": {
+    "en": "Journeys",
+    "ru": "Туры"
+  },
+  "57d7f743": {
+    "en": "Journal",
+    "ru": "Блог"
+  },
+  "9c30a348": {
+    "en": "Gallery",
+    "ru": "Галерея"
+  },
+  "b37456c4": {
+    "en": "Contact",
+    "ru": "Контакты"
+  },
+  "c45b75a6": {
+    "en": "Free trip planning, 24/7 on WhatsApp",
+    "ru": "Бесплатное планирование поездки, круглосуточно в WhatsApp"
+  },
+  "a488b0a4": {
+    "en": "WhatsApp us <1/>",
+    "ru": "Написать в WhatsApp <1/>"
+  },
+  "bf5b9903": {
+    "en": "(opens in a new tab)",
+    "ru": "(откроется в новой вкладке)"
+  },
+  "f3f23951": {
+    "en": "Call<1/>",
+    "ru": "Позвонить<1/>"
+  },
+  "d579c40b": {
+    "en": "Email<1/>",
+    "ru": "Почта<1/>"
+  },
+  "67f68a9d": {
+    "en": "<1/> Follow us on Instagram<2> (opens in a new tab)</2>",
+    "ru": "<1/> Мы в Instagram<2> (откроется в новой вкладке)</2>"
+  },
+  "3a30bb70": {
+    "en": "Damneth on Instagram (opens in a new tab)",
+    "ru": "Damneth в Instagram (откроется в новой вкладке)"
+  },
+  "3736c7d4": {
+    "en": "<1/> WhatsApp us<2> (opens in a new tab)</2>",
+    "ru": "<1/> Написать нам<2> (откроется в новой вкладке)</2>"
+  },
+  "937ec259": {
+    "en": "A small white van on a winding road through bright green tea plantations in Sri Lanka's hill country",
+    "ru": "Небольшой белый минивэн на извилистой дороге среди ярко-зелёных чайных плантаций в горах Шри-Ланки"
+  },
+  "099f4b22": {
+    "en": "Get a free quote <1/>",
+    "ru": "Получить бесплатный расчёт <1/>"
+  },
+  "006e192a": {
+    "en": "<1/>Free itinerary planning",
+    "ru": "<1/>Бесплатное составление маршрута"
+  },
+  "6461ab12": {
+    "en": "<1/>No hidden fuel or toll charges",
+    "ru": "<1/>Без скрытых доплат за топливо и платные дороги"
+  },
+  "3a52ea49": {
+    "en": "Multi-day private tours<1>Vehicle + driver-guide</1>",
+    "ru": "Частные туры на несколько дней<1>Автомобиль + водитель-гид</1>"
+  },
+  "0b1e95cf": {
+    "en": "from",
+    "ru": "от"
+  },
+  "9613df14": {
+    "en": "/day",
+    "ru": "/день"
+  },
+  "75f52718": {
+    "en": "Free",
+    "ru": "Бесплатно"
+  },
+  "dbd0d6c9": {
+    "en": "Get your fixed quote <1/>",
+    "ru": "Узнать фиксированную цену <1/>"
+  },
+  "3c3f0afd": {
+    "en": "Aerial view of a winding road with hairpin bends through dense green forest",
+    "ru": "Вид сверху на серпантин среди густого зелёного леса"
+  },
+  "f48ab19b": {
+    "en": "A surfer holding a longboard on the beach, with waves rolling in behind",
+    "ru": "Сёрфер с лонгбордом на пляже, за ним накатывают волны"
+  },
+  "c9782af1": {
+    "en": "Colombo's Lotus Tower rising above Beira Lake and the city",
+    "ru": "Башня Лотос в Коломбо возвышается над озером Бейра и городом"
+  },
+  "b8dfa557": {
+    "en": "Add Colombo to my trip",
+    "ru": "Добавить Коломбо в мою поездку"
+  },
+  "75fc0fc9": {
+    "en": "Sigiriya Rock rising above the trees behind two men standing beside a small white car, with tuk-tuks parked nearby",
+    "ru": "Скала Сигирия над деревьями, перед ней двое мужчин у небольшой белой машины, рядом припаркованы тук-туки"
+  },
+  "3ae14163": {
+    "en": "Cultural Triangle",
+    "ru": "Культурный треугольник"
+  },
+  "79e4cbde": {
+    "en": "Sigiriya",
+    "ru": "Сигирия"
+  },
+  "7d9894cb": {
+    "en": "Add Sigiriya to my trip",
+    "ru": "Добавить Сигирию в мою поездку"
+  },
+  "5abe97ac": {
+    "en": "The Temple of the Sacred Tooth Relic in Kandy, hung with Buddhist flags and reflected in the moat",
+    "ru": "Храм Зуба Будды в Канди, украшенный буддийскими флагами и отражающийся во рву"
+  },
+  "4b9a07fa": {
+    "en": "Hill country",
+    "ru": "Горы"
+  },
+  "98e625b7": {
+    "en": "Kandy",
+    "ru": "Канди"
+  },
+  "0f203ebb": {
+    "en": "Add Kandy to my trip",
+    "ru": "Добавить Канди в мою поездку"
+  },
+  "2db5c4dc": {
+    "en": "Looking down on the curving Nine Arches Bridge as the railway runs into a tunnel through the jungle, with people walking along the tracks",
+    "ru": "Вид сверху на изогнутый мост Девяти арок: железная дорога уходит в туннель в джунглях, по путям идут люди"
+  },
+  "f53e0f4c": {
+    "en": "Ella",
+    "ru": "Элла"
+  },
+  "0cf0fc79": {
+    "en": "Add Ella to my trip",
+    "ru": "Добавить Эллу в мою поездку"
+  },
+  "0a155926": {
+    "en": "A leopard walking along a sandy track in Yala",
+    "ru": "Леопард идёт по песчаной тропе в Яле"
+  },
+  "ccc26814": {
+    "en": "Yala",
+    "ru": "Яла"
+  },
+  "e226ee06": {
+    "en": "Add Yala to my trip",
+    "ru": "Добавить Ялу в мою поездку"
+  },
+  "5706c384": {
+    "en": "The lighthouse at Galle Fort framed by palm trees under a cloudy sky",
+    "ru": "Маяк форта Галле в обрамлении пальм под облачным небом"
+  },
+  "edb0a574": {
+    "en": "Galle",
+    "ru": "Галле"
+  },
+  "5c2e8b1e": {
+    "en": "Add Galle to my trip",
+    "ru": "Добавить Галле в мою поездку"
+  },
+  "6ce55cdf": {
+    "en": "Waves breaking against dark rocks beside a clear turquoise sea",
+    "ru": "Волны разбиваются о тёмные скалы у прозрачного бирюзового моря"
+  },
+  "ccb2d3ea": {
+    "en": "East Coast",
+    "ru": "Восточное побережье"
+  },
+  "003f022a": {
+    "en": "<1/>Leave us a review on Google<2> (opens in a new tab)</2>",
+    "ru": "<1/>Оставьте отзыв о нас в Google<2> (откроется в новой вкладке)</2>"
+  },
+  "1c66ebb3": {
+    "en": "Plan your trip",
+    "ru": "Спланируйте поездку"
+  },
+  "9138ec51": {
+    "en": "Your Sri Lanka road trip starts with a message.",
+    "ru": "Ваше путешествие по Шри-Ланке начинается с одного сообщения."
+  },
+  "0a708342": {
+    "en": "Get a free quote",
+    "ru": "Получить бесплатный расчёт"
+  },
+  "eda60813": {
+    "en": "Damneth Travels &amp; Tours",
+    "ru": "Damneth Travels &amp; Tours"
+  },
+  "2ca053ab": {
+    "en": "A custom travel agency providing private driver tours, island transfers and tailored holiday itineraries across Sri Lanka.",
+    "ru": "Туристическое агентство индивидуальных путешествий: частные туры с водителем, трансферы по острову и маршруты отдыха, составленные под вас, по всей Шри-Ланке."
+  },
+  "2a5384b9": {
+    "en": "<1/>Phone and WhatsApp",
+    "ru": "<1/>Телефон и WhatsApp"
+  },
+  "d0974b95": {
+    "en": "<1/>Email",
+    "ru": "<1/>Почта"
+  },
+  "baa37386": {
+    "en": "24/7 support via WhatsApp",
+    "ru": "Поддержка 24/7 в WhatsApp"
+  },
+  "3df2eab2": {
+    "en": "Based in Sri Lanka",
+    "ru": "Мы находимся в Шри-Ланке"
+  },
+  "b965ae66": {
+    "en": "Explore",
+    "ru": "Разделы"
+  },
+  "d2444325": {
+    "en": "Follow us",
+    "ru": "Мы в соцсетях"
+  },
+  "b163d35b": {
+    "en": "© <1/> Damneth Tours &amp; Travels. All rights reserved.",
+    "ru": "© <1/> Damneth Tours &amp; Travels. Все права защищены."
+  },
+  "98e0acc7": {
+    "en": "Private driver tours and transfers across Sri Lanka",
+    "ru": "Частные туры с водителем и трансферы по всей Шри-Ланке"
+  },
+  "d67e4a8e": {
+    "en": "Quick contact",
+    "ru": "Быстрая связь"
+  },
+  "be6ccbe2": {
+    "en": "Chat on WhatsApp<1> (opens in a new tab)</1>",
+    "ru": "Написать в WhatsApp<1> (откроется в новой вкладке)</1>"
+  },
+  "25a9b23c": {
+    "en": "Call <1/>",
+    "ru": "Позвонить: <1/>"
+  },
+  "3c46685a": {
+    "en": "Follow us on Instagram<1> (opens in a new tab)</1>",
+    "ru": "Мы в Instagram<1> (откроется в новой вкладке)</1>"
+  },
+  "4dad1d54": {
+    "en": "<1/>Fixed price, no hidden fees",
+    "ru": "<1/>Фиксированная цена, без скрытых платежей"
+  },
+  "1dd6a17c": {
+    "en": "How it works",
+    "ru": "Как это работает"
+  },
+  "271a1540": {
+    "en": "See sample journeys <1/>",
+    "ru": "Примеры маршрутов <1/>"
+  },
+  "f1b35ec0": {
+    "en": "Two guests and their driver-guide taking a selfie by the Ambewela station sign, with a train waiting behind",
+    "ru": "Двое гостей и их водитель-гид делают селфи у вывески станции Амбевела, позади стоит поезд"
+  },
+  "d557efd7": {
+    "en": "A tea picker in a headscarf plucking leaves on a green hillside",
+    "ru": "Сборщица чая в платке срывает листья на зелёном склоне"
+  }
+}

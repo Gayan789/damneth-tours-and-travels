@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Arriving at the hotel",
+    "alt": "Three guests and their driver-guide standing by a car outside a hotel",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 270,
+    "image": "/assets/images/gallery/gal-hotel-arrival-1200.webp"
+  },
+  "de": {
+    "title": "Ankunft im Hotel",
+    "alt": "Drei Gäste und ihr Fahrer-Guide stehen an einem Auto vor einem Hotel"
+  },
+  "fr": {
+    "title": "Arrivée à l’hôtel",
+    "alt": "Trois voyageurs et leur chauffeur-guide près d’une voiture devant un hôtel"
+  },
+  "ru": {
+    "title": "Приезд в отель",
+    "alt": "Трое гостей и их водитель-гид у машины перед отелем"
+  },
+  "he": {
+    "title": "מגיעים למלון",
+    "alt": "שלושה אורחים והנהג־מדריך שלהם עומדים ליד מכונית מחוץ למלון"
+  }
+}

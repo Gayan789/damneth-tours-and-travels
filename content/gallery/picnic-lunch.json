@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Picnic lunch in the fields",
+    "alt": "Two guests and their driver-guide sitting on a colourful mat with a spread of dishes, tall crops behind",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 290,
+    "image": "/assets/images/gallery/gal-picnic-lunch-1600.webp"
+  },
+  "de": {
+    "title": "Picknick in den Feldern",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide sitzen auf einer bunten Matte vor einer Auswahl an Gerichten, dahinter hohe Feldfrüchte"
+  },
+  "fr": {
+    "title": "Pique-nique dans les champs",
+    "alt": "Deux voyageurs et leur chauffeur-guide assis sur une natte colorée devant un assortiment de plats, avec de hautes cultures derrière eux"
+  },
+  "ru": {
+    "title": "Пикник в полях",
+    "alt": "Двое гостей и водитель-гид сидят на яркой циновке перед множеством блюд, позади высокие посевы"
+  },
+  "he": {
+    "title": "פיקניק בשדות",
+    "alt": "שני אורחים והנהג־מדריך שלהם יושבים על מחצלת צבעונית מול מגוון מנות, ומאחוריהם גידולים גבוהים"
+  }
+}

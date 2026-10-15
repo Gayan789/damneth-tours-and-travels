@@ -1,0 +1,4 @@
+# Built site (node tools/build.mjs)
+_site/
+node_modules/
+.netlify/

@@ -1,0 +1,736 @@
+{
+  "45926866": {
+    "en": "…great driver who showed us non-touristy spots along the way.",
+    "he": ""
+  },
+  "47022859": {
+    "en": "Pause background video",
+    "he": "השהיית סרטון הרקע"
+  },
+  "60750444": {
+    "en": "Island-wide, including",
+    "he": "בכל רחבי האי, כולל"
+  },
+  "65854246": {
+    "en": "<1/>Surf trip transfers",
+    "he": "<1/>העברות לטיולי גלישה"
+  },
+  "67687585": {
+    "en": "Arrival date <1>(if you know it)</1>",
+    "he": "תאריך הגעה <1>(אם ידוע)</1>"
+  },
+  "70661713": {
+    "en": "<1/>Yala",
+    "he": "<1/>יאלה"
+  },
+  "88301644": {
+    "en": "<1/>Whale watching",
+    "he": "<1/>צפייה בלווייתנים"
+  },
+  "_meta": {
+    "language": "he",
+    "bundle": "index",
+    "status": "draft – needs native review",
+    "about": "Text on index.html. Translate the \"he\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "31bab6b4": {
+    "en": "Damneth Tours &amp; Travels | Private Driver Tours &amp; Transfers in Sri Lanka",
+    "he": "Damneth Tours &amp; Travels | טיולים פרטיים עם נהג והעברות בסרי לנקה"
+  },
+  "013e0228": {
+    "en": "Private driver tours, airport transfers and tailor-made itineraries across Sri Lanka. Free planning on WhatsApp and 100% fixed-price quotes with no hidden fuel or toll charges.",
+    "he": "טיולים פרטיים עם נהג, העברות משדה התעופה ומסלולים בהתאמה אישית בכל רחבי סרי לנקה. תכנון חינם בוואטסאפ והצעות מחיר קבועות ב־100%, בלי חיובים נסתרים על דלק או כבישי אגרה."
+  },
+  "aed65dcd": {
+    "en": "Private driver tours across Sri Lanka",
+    "he": "טיולים פרטיים עם נהג בכל רחבי סרי לנקה"
+  },
+  "f2fb9ef4": {
+    "en": "See the best of Sri Lanka. <1>Leave the driving to us.</1>",
+    "he": "גלו את המיטב של סרי לנקה. <1>את הנהיגה תשאירו לנו.</1>"
+  },
+  "71b072cf": {
+    "en": "Private driver tours, airport transfers and tailor-made itineraries, planned free with you on WhatsApp. One fixed price, with fuel, tolls and your driver's stay already included.",
+    "he": "טיולים פרטיים עם נהג, העברות משדה התעופה ומסלולים בהתאמה אישית, שמתוכננים איתכם בחינם בוואטסאפ. מחיר קבוע אחד, שכבר כולל דלק, אגרות ואת הלינה של הנהג."
+  },
+  "6d495db5": {
+    "en": "<1/>24/7 WhatsApp support",
+    "he": "<1/>תמיכה בוואטסאפ 24/7"
+  },
+  "f5e71ca8": {
+    "en": "Starting prices",
+    "he": "מחירים התחלתיים"
+  },
+  "a1ac4fd6": {
+    "en": "Day transfers<1>Island-wide</1>",
+    "he": "העברות יומיות<1>בכל רחבי האי</1>"
+  },
+  "d39393d8": {
+    "en": "Itinerary planning<1>On WhatsApp</1>",
+    "he": "תכנון המסלול<1>בוואטסאפ</1>"
+  },
+  "2c25c5ad": {
+    "en": "<1/>Colombo",
+    "he": "<1/>קולומבו"
+  },
+  "09910f50": {
+    "en": "<1/>Sigiriya",
+    "he": "<1/>סיגיריה"
+  },
+  "5c705d7b": {
+    "en": "<1/>Kandy",
+    "he": "<1/>קנדי"
+  },
+  "c8dd86de": {
+    "en": "<1/>Ella",
+    "he": "<1/>אלה"
+  },
+  "a7672856": {
+    "en": "<1/>Galle",
+    "he": "<1/>גאלה"
+  },
+  "0577b7e7": {
+    "en": "<1/>East Coast",
+    "he": "<1/>החוף המזרחי"
+  },
+  "1c42d73c": {
+    "en": "Damneth in numbers",
+    "he": "Damneth במספרים"
+  },
+  "7738a74c": {
+    "en": "Years of experience",
+    "he": "שנות ניסיון"
+  },
+  "e6238332": {
+    "en": "Satisfied travellers",
+    "he": "מטיילים מרוצים"
+  },
+  "95153cfc": {
+    "en": "Safe driving record",
+    "he": "רקורד נהיגה בטוחה"
+  },
+  "104756ba": {
+    "en": "WhatsApp travel support",
+    "he": "תמיכה בטיול בוואטסאפ"
+  },
+  "ff4b3ac9": {
+    "en": "Why travellers choose Damneth",
+    "he": "למה מטיילים בוחרים ב־Damneth"
+  },
+  "a1d776b3": {
+    "en": "A friendly local partner for your whole trip",
+    "he": "שותף מקומי וידידותי לכל הטיול"
+  },
+  "2909dbd5": {
+    "en": "When you travel with us, you're choosing a reliable, friendly local partner who takes care of every travel detail, so you can just relax and enjoy Sri Lanka.",
+    "he": "כשאתם מטיילים איתנו, אתם בוחרים שותף מקומי אמין וידידותי שדואג לכל פרט בטיול, כדי שתוכלו פשוט להירגע וליהנות מסרי לנקה."
+  },
+  "e5d1ce90": {
+    "en": "We're based in Sri Lanka, with direct local driver expertise. That means no driving on unfamiliar roads, no worrying about getting overcharged on transport, and pricing that is 100% transparent and all-inclusive.",
+    "he": "אנחנו ממוקמים בסרי לנקה, עם ידע ישיר של נהגים מקומיים. זה אומר שלא תצטרכו לנהוג בדרכים לא מוכרות, לא תדאגו שיגבו מכם יותר מדי על הסעות, והמחירים שקופים ב־100% וכוללים הכול."
+  },
+  "8b466afc": {
+    "en": "Planned with you, free",
+    "he": "מתכננים יחד, בחינם"
+  },
+  "c25a9778": {
+    "en": "Free itinerary planning and consultation on WhatsApp, shaped around the places you want to see.",
+    "he": "תכנון מסלול וייעוץ בחינם בוואטסאפ, בהתאם למקומות שאתם רוצים לראות."
+  },
+  "a2bba95d": {
+    "en": "One fixed price",
+    "he": "מחיר קבוע אחד"
+  },
+  "bbb46189": {
+    "en": "100% fixed-price quotes. No hidden fuel or toll charges, and no surprise accommodation fees for your driver.",
+    "he": "הצעות מחיר קבועות ב־100%. בלי חיובים נסתרים על דלק או אגרות, ובלי הפתעות בתשלום על הלינה של הנהג."
+  },
+  "b1c33053": {
+    "en": "Local driver-guides",
+    "he": "נהגים־מדריכים מקומיים"
+  },
+  "74a9e3a3": {
+    "en": "Safe, punctual drivers who know the island, including the non-touristy spots along the way.",
+    "he": "נהגים בטוחים ומדויקים בזמנים שמכירים את האי, כולל המקומות שמחוץ למסלולי התיירים."
+  },
+  "f6992216": {
+    "en": "Start planning for free <1/>",
+    "he": "להתחיל לתכנן בחינם <1/>"
+  },
+  "0ce331d5": {
+    "en": "Two guests and their driver-guide at a table on a wooden terrace looking out over green hills",
+    "he": "שני אורחים והנהג־מדריך שלהם ליד שולחן במרפסת עץ המשקיפה על גבעות ירוקות"
+  },
+  "8f21ce64": {
+    "en": "Two guests and their driver-guide taking a selfie in front of green mountains",
+    "he": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי מול הרים ירוקים"
+  },
+  "5b967669": {
+    "en": "Guest review",
+    "he": "ביקורת של אורח"
+  },
+  "a39b9d3a": {
+    "en": "What we do",
+    "he": "מה אנחנו עושים"
+  },
+  "4e95e860": {
+    "en": "Tours, transfers and everything in between",
+    "he": "טיולים, העברות וכל מה שביניהם"
+  },
+  "e621f330": {
+    "en": "Choose a full island round trip, or just the pieces you need. Every quote is fixed, and the planning is free.",
+    "he": "בחרו טיול מלא סביב האי, או רק את החלקים שאתם צריכים. כל הצעת מחיר קבועה, והתכנון בחינם."
+  },
+  "7460cd2c": {
+    "en": "Island round trips",
+    "he": "טיולים סביב האי"
+  },
+  "47094c09": {
+    "en": "Multi-day private driver tours",
+    "he": "טיולים פרטיים של כמה ימים עם נהג"
+  },
+  "7f7db5fe": {
+    "en": "7, 10 or 14-day round trips with your own vehicle and driver-guide, planned around the places you want to see.",
+    "he": "טיולים של 7, 10 או 14 ימים עם רכב ונהג־מדריך משלכם, שמתוכננים סביב המקומות שאתם רוצים לראות."
+  },
+  "29a92a1f": {
+    "en": "Trip lengths",
+    "he": "אורך הטיול"
+  },
+  "0a8dd6ad": {
+    "en": "7 days",
+    "he": "7 ימים"
+  },
+  "488d8aa5": {
+    "en": "10 days",
+    "he": "10 ימים"
+  },
+  "176e595a": {
+    "en": "14 days",
+    "he": "14 ימים"
+  },
+  "e6dce730": {
+    "en": "From <1/> per day, vehicle + driver-guide",
+    "he": "החל מ־<1/> ליום, רכב + נהג־מדריך"
+  },
+  "e9000a0f": {
+    "en": "Plan my round trip <1/>",
+    "he": "לתכנן את הטיול שלי <1/>"
+  },
+  "5d9b8b0f": {
+    "en": "Two guests with their driver-guide on the pavement outside the airport, a luggage trolley behind them",
+    "he": "שני אורחים עם הנהג־מדריך שלהם על המדרכה מחוץ לשדה התעופה, ועגלת מזוודות מאחוריהם"
+  },
+  "755574b7": {
+    "en": "Airport transfers",
+    "he": "העברות משדה התעופה"
+  },
+  "0c41d2b7": {
+    "en": "Pick-up and drop-off at Bandaranaike International Airport, so your holiday starts the moment you land.",
+    "he": "איסוף והורדה בנמל התעופה הבינלאומי בנדרנאיקה, כדי שהחופשה שלכם תתחיל ברגע הנחיתה."
+  },
+  "255a8cb1": {
+    "en": "From <1/>",
+    "he": "החל מ־<1/>"
+  },
+  "c3cc4e3b": {
+    "en": "Book a transfer <1/>",
+    "he": "להזמין העברה <1/>"
+  },
+  "b931e5d6": {
+    "en": "Travellers in an open safari jeep watching a wild elephant on the grassland",
+    "he": "מטיילים בג׳יפ ספארי פתוח צופים בפיל בר בשטח העשב"
+  },
+  "232a0be0": {
+    "en": "Day tours &amp; excursions",
+    "he": "טיולי יום וסיורים"
+  },
+  "25f8b7ad": {
+    "en": "Yala safari, Sigiriya rock fortress and a Kandy cultural tour, with your own driver-guide.",
+    "he": "ספארי ביאלה, מבצר הסלע סיגיריה וסיור תרבות בקנדי, עם נהג־מדריך משלכם."
+  },
+  "4f7f4319": {
+    "en": "Plan a day tour <1/>",
+    "he": "לתכנן טיול יום <1/>"
+  },
+  "bd25eca8": {
+    "en": "Surf trip transfers",
+    "he": "העברות לטיולי גלישה"
+  },
+  "30de525c": {
+    "en": "Easy private transfers to the coast, so you can spend your days in the water.",
+    "he": "העברות פרטיות נוחות לחוף, כדי שתוכלו לבלות את הימים במים."
+  },
+  "2ebafec8": {
+    "en": "Plan a surf trip <1/>",
+    "he": "לתכנן טיול גלישה <1/>"
+  },
+  "6baccb6f": {
+    "en": "Four guests wearing orchid garlands in a hotel lobby with their driver-guide",
+    "he": "ארבעה אורחים עונדים זרי סחלבים בלובי של מלון, יחד עם הנהג־מדריך שלהם"
+  },
+  "715ea66b": {
+    "en": "Hotel &amp; resort bookings",
+    "he": "הזמנת מלונות ואתרי נופש"
+  },
+  "75c24445": {
+    "en": "Help choosing and booking places to stay that suit your route and your style of travel.",
+    "he": "עזרה בבחירה ובהזמנה של מקומות לינה שמתאימים למסלול ולסגנון הטיול שלכם."
+  },
+  "af477de1": {
+    "en": "Get booking help <1/>",
+    "he": "לקבל עזרה בהזמנה <1/>"
+  },
+  "ebe65bf6": {
+    "en": "Not sure what you need?",
+    "he": "לא בטוחים מה אתם צריכים?"
+  },
+  "6994bb41": {
+    "en": "Tell us your dates and ideas on WhatsApp. We'll suggest a plan for free.",
+    "he": "ספרו לנו בוואטסאפ על התאריכים והרעיונות שלכם. נציע לכם תוכנית בחינם."
+  },
+  "41685be4": {
+    "en": "Chat on WhatsApp<1> (opens in a new tab)</1> <2/>",
+    "he": "צ׳אט בוואטסאפ<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "cbfd9c36": {
+    "en": "Where we'll take you",
+    "he": "לאן ניקח אתכם"
+  },
+  "63c0a34b": {
+    "en": "From the hill country to the coast, island-wide",
+    "he": "מאזור ההרים ועד החוף, בכל רחבי האי"
+  },
+  "fe97abe5": {
+    "en": "Add the places you'd love to see. We'll carry them straight into your quote request.",
+    "he": "הוסיפו את המקומות שהייתם רוצים לראות. נעביר אותם ישר לבקשת הצעת המחיר שלכם."
+  },
+  "d46e092b": {
+    "en": "Previous destinations",
+    "he": "היעדים הקודמים"
+  },
+  "a6048dc6": {
+    "en": "Next destinations",
+    "he": "היעדים הבאים"
+  },
+  "c210b057": {
+    "en": "West coast",
+    "he": "החוף המערבי"
+  },
+  "e44911b6": {
+    "en": "Colombo",
+    "he": "קולומבו"
+  },
+  "f6518d1d": {
+    "en": "The lively capital. An easy first or last stop on your trip.",
+    "he": "הבירה התוססת. תחנה ראשונה או אחרונה נוחה בטיול שלכם."
+  },
+  "8f94d9d5": {
+    "en": "Climb the 5th-century rock fortress on a day tour or as part of your round trip.",
+    "he": "טפסו על מבצר הסלע מהמאה החמישית בטיול יום או כחלק מהטיול שלכם סביב האי."
+  },
+  "e819c92a": {
+    "en": "Home of the Temple of the Sacred Tooth Relic, and our Kandy cultural tour.",
+    "he": "כאן נמצא מקדש השן הקדושה, וכאן עובר סיור התרבות שלנו בקנדי."
+  },
+  "c9e03f41": {
+    "en": "Tea-covered hills, big viewpoints and the famous train ride into the mountains.",
+    "he": "גבעות מכוסות תה, נקודות תצפית גדולות ונסיעת הרכבת המפורסמת אל ההרים."
+  },
+  "81a3a15e": {
+    "en": "Deep south",
+    "he": "הדרום העמוק"
+  },
+  "d35822ce": {
+    "en": "Jeep safaris in search of leopards and elephants, with your safari bookings handled for you.",
+    "he": "ספארי בג׳יפים בחיפוש אחר נמרים ופילים, ואת ההזמנות לספארי אנחנו מסדרים בשבילכם."
+  },
+  "05d3f9ab": {
+    "en": "South coast",
+    "he": "החוף הדרומי"
+  },
+  "906ae32c": {
+    "en": "Walk the old fort walls and down to the lighthouse as the sun goes down.",
+    "he": "טיילו לאורך חומות המבצר העתיקות ועד המגדלור בשעת השקיעה."
+  },
+  "8086c09c": {
+    "en": "East coast",
+    "he": "החוף המזרחי"
+  },
+  "8ef28e62": {
+    "en": "Quieter beaches, wide bays and surf, linked up with our surf trip transfers.",
+    "he": "חופים שקטים יותר, מפרצים רחבים וגלישה, בשילוב ההעברות שלנו לטיולי גלישה."
+  },
+  "ac234514": {
+    "en": "Add East Coast to my trip",
+    "he": "הוספת החוף המזרחי לטיול שלי"
+  },
+  "cc25bd49": {
+    "en": "Nothing added yet. Tap “Add to my trip” on any place you like.",
+    "he": "עדיין לא נוסף דבר. הקישו על „הוספה לטיול שלי” בכל מקום שמוצא חן בעיניכם."
+  },
+  "d6d3606c": {
+    "en": "Continue to planner <1/>",
+    "he": "המשך לתכנון <1/>"
+  },
+  "cf7174c4": {
+    "en": "The rear of a clean white Toyota HiAce van parked beside greenery",
+    "he": "החלק האחורי של ואן טויוטה הייאס לבן ונקי שחונה ליד צמחייה"
+  },
+  "a0df38dd": {
+    "en": "View through an open car door to the steering wheel, with a sunset sky beyond",
+    "he": "מבט דרך דלת רכב פתוחה אל ההגה, ומעבר לה שמי שקיעה"
+  },
+  "32c2531d": {
+    "en": "<1/>Your fixed-price quote",
+    "he": "<1/>הצעת המחיר הקבועה שלכם"
+  },
+  "50f7f410": {
+    "en": "Private vehicle<1>: included</1><2/>",
+    "he": "רכב פרטי<1>: כלול</1><2/>"
+  },
+  "f5440b72": {
+    "en": "Driver-guide<1>: included</1><2/>",
+    "he": "נהג־מדריך<1>: כלול</1><2/>"
+  },
+  "0b494620": {
+    "en": "Fuel<1>: included</1><2/>",
+    "he": "דלק<1>: כלול</1><2/>"
+  },
+  "b977d1f5": {
+    "en": "Highway tolls<1>: included</1><2/>",
+    "he": "אגרות בכבישים המהירים<1>: כלולות</1><2/>"
+  },
+  "294a8514": {
+    "en": "Driver's accommodation<1>: included</1><2/>",
+    "he": "לינת הנהג<1>: כלולה</1><2/>"
+  },
+  "f1588e4d": {
+    "en": "Hidden extras",
+    "he": "תוספות נסתרות"
+  },
+  "6eef6648": {
+    "en": "None",
+    "he": "אין"
+  },
+  "aefc9244": {
+    "en": "Itinerary planning on WhatsApp: always free.",
+    "he": "תכנון המסלול בוואטסאפ: תמיד בחינם."
+  },
+  "273174b9": {
+    "en": "Our promise",
+    "he": "ההבטחה שלנו"
+  },
+  "e88bd9ab": {
+    "en": "One fixed price. Nothing added halfway.",
+    "he": "מחיר קבוע אחד. שום תוספת באמצע הדרך."
+  },
+  "2bac9087": {
+    "en": "The price on your quote is the price you pay. No fuel surcharges, no toll top-ups, no surprise bills for your driver's accommodation.",
+    "he": "המחיר בהצעה הוא המחיר שתשלמו. בלי תוספות על דלק, בלי השלמות על אגרות ובלי חשבונות מפתיעים על הלינה של הנהג."
+  },
+  "11058df7": {
+    "en": "Common worries, answered",
+    "he": "חששות נפוצים, ותשובות"
+  },
+  "ac055c25": {
+    "en": "<1/> Getting an unsafe driver? <2/>",
+    "he": "<1/> חוששים מנהג לא בטוח? <2/>"
+  },
+  "efa9af0b": {
+    "en": "We have a 100% safe driving record, built over 8+ years and more than 1,500 travellers. Our guests say it too: “Safe driving, super punctual.”",
+    "he": "יש לנו רקורד של 100% נהיגה בטוחה, שנבנה לאורך יותר מ־8 שנים ויותר מ־1,500 מטיילים. גם האורחים שלנו אומרים: „נהיגה בטוחה, דייקנות מושלמת”."
+  },
+  "71d3d0f7": {
+    "en": "<1/> Fuel or toll fees halfway through? <2/>",
+    "he": "<1/> תשלומי דלק או אגרה באמצע הטיול? <2/>"
+  },
+  "c61fb20f": {
+    "en": "Never. Your quote is 100% fixed, with fuel and highway tolls already included, and no surprise accommodation fees for your driver.",
+    "he": "אף פעם. הצעת המחיר שלכם קבועה ב־100%, הדלק והאגרות בכבישים המהירים כבר כלולים, ואין הפתעות בתשלום על הלינה של הנהג."
+  },
+  "55f767af": {
+    "en": "<1/> The condition of the vehicle? <2/>",
+    "he": "<1/> המצב של הרכב? <2/>"
+  },
+  "8e5aae4e": {
+    "en": "Guests describe a “comfortable van”. Ask us anything about your vehicle on WhatsApp before you book. The chat is free.",
+    "he": "האורחים מתארים „ואן נוח”. לפני ההזמנה אפשר לשאול אותנו בוואטסאפ כל שאלה על הרכב. השיחה בחינם."
+  },
+  "d7bfc89d": {
+    "en": "<1/> Being rushed through the sights? <2/>",
+    "he": "<1/> לרוץ בין האתרים בלחץ? <2/>"
+  },
+  "8dc01d35": {
+    "en": "Your itinerary is tailored to you and planned with you in advance, so the days run at the pace you choose.",
+    "he": "המסלול מותאם לכם ומתוכנן איתכם מראש, כך שהימים מתנהלים בקצב שאתם בוחרים."
+  },
+  "f0e1aae8": {
+    "en": "A blue train crossing the Nine Arch Bridge near Ella, surrounded by green hills",
+    "he": "רכבת כחולה חוצה את גשר תשע הקשתות ליד אלה, מוקפת גבעות ירוקות"
+  },
+  "4070ac87": {
+    "en": "Aerial view of a coastal road running beside a sandy beach and turquoise sea",
+    "he": "מבט מלמעלה על כביש חוף לצד חוף חולי וים בצבע טורקיז"
+  },
+  "25fb375d": {
+    "en": "Trip at a glance",
+    "he": "הטיול במבט אחד"
+  },
+  "5548ae4f": {
+    "en": "days",
+    "he": "ימים"
+  },
+  "0ba03e3f": {
+    "en": "travellers",
+    "he": "מטיילים"
+  },
+  "24c81b44": {
+    "en": "delays",
+    "he": "עיכובים"
+  },
+  "a45f6540": {
+    "en": "A trip we're proud of",
+    "he": "טיול שאנחנו גאים בו"
+  },
+  "c6336565": {
+    "en": "12 days, a family of five, and not a single delay",
+    "he": "12 ימים, משפחה בת חמש נפשות, ואף לא עיכוב אחד"
+  },
+  "3620b6e0": {
+    "en": "We organised a 12-day full island tour for a family of five, from the airport to the coast, with every booking along the way taken care of.",
+    "he": "ארגנו טיול של 12 ימים סביב כל האי למשפחה בת חמש נפשות, משדה התעופה ועד החוף, וטיפלנו בכל הזמנה לאורך הדרך."
+  },
+  "e1d96597": {
+    "en": "Airport pick-up",
+    "he": "איסוף משדה התעופה"
+  },
+  "a5d79cd4": {
+    "en": "Met on arrival at Bandaranaike International Airport.",
+    "he": "קבלת פנים בנחיתה בנמל התעופה הבינלאומי בנדרנאיקה."
+  },
+  "a57c5098": {
+    "en": "Safari bookings in Yala",
+    "he": "הזמנות לספארי ביאלה"
+  },
+  "3ec845d5": {
+    "en": "Safaris booked in advance, so there was nothing to arrange on the day.",
+    "he": "הספארי הוזמנו מראש, כך שביום עצמו לא היה צריך לסדר שום דבר."
+  },
+  "6451f1f3": {
+    "en": "Train tickets to Ella",
+    "he": "כרטיסי רכבת לאלה"
+  },
+  "aaa39d1f": {
+    "en": "Tickets sorted for the hill-country train ride.",
+    "he": "הכרטיסים לנסיעת הרכבת באזור ההרים סודרו."
+  },
+  "a2231eda": {
+    "en": "Coastal transfers",
+    "he": "העברות לאורך החוף"
+  },
+  "c3a53929": {
+    "en": "Private transfers along the coast to round off the trip.",
+    "he": "העברות פרטיות לאורך החוף לסיום הטיול."
+  },
+  "9e2bf8b6": {
+    "en": "Zero delays. One 5-star review.",
+    "he": "אפס עיכובים. ביקורת אחת של 5 כוכבים."
+  },
+  "3608bf17": {
+    "en": "The whole trip went without a single delay, and the family left us a 5-star review.",
+    "he": "הטיול כולו עבר בלי עיכוב אחד, והמשפחה השאירה לנו ביקורת של 5 כוכבים."
+  },
+  "a2c2b274": {
+    "en": "Traveller reviews",
+    "he": "ביקורות של מטיילים"
+  },
+  "24729e09": {
+    "en": "Kind words from the road",
+    "he": "מילים טובות מהדרך"
+  },
+  "771025ea": {
+    "en": "Quoted exactly as our guests wrote them.",
+    "he": "מובאות מילה במילה, כפי שהאורחים שלנו כתבו אותן (באנגלית)."
+  },
+  "d6789664": {
+    "en": "satisfied travellers and counting",
+    "he": "מטיילים מרוצים, והמספר ממשיך לגדול"
+  },
+  "6fcee3d2": {
+    "en": "Damneth was amazing! Organized our trip smoothly. Comfortable van, great driver who showed us non-touristy spots along the way. 10/10 service!",
+    "he": ""
+  },
+  "1b337725": {
+    "en": "<1/>Guest review",
+    "he": "<1/>ביקורת של אורח"
+  },
+  "eb21ef4c": {
+    "en": "Very professional tour service. Safe driving, super punctual, and reasonable prices compared to big agencies",
+    "he": ""
+  },
+  "05452ca6": {
+    "en": "Tell us your dream route. We'll plan it with you, free.",
+    "he": "ספרו לנו על מסלול החלומות שלכם. נתכנן אותו איתכם, בחינם."
+  },
+  "5ab8c9c0": {
+    "en": "Share a few details and we'll come back with a suggested itinerary and a 100% fixed-price quote.",
+    "he": "שתפו כמה פרטים, ונחזור אליכם עם הצעה למסלול והצעת מחיר קבועה ב־100%."
+  },
+  "ea0fb21f": {
+    "en": "Share your plans",
+    "he": "שתפו את התוכניות שלכם"
+  },
+  "f69c0aa6": {
+    "en": "Dates, who's travelling and the places you'd love to see.",
+    "he": "תאריכים, מי מטייל והמקומות שהייתם רוצים לראות."
+  },
+  "83ef01fd": {
+    "en": "Get your route and fixed quote",
+    "he": "קבלו מסלול והצעת מחיר קבועה"
+  },
+  "ac506fc9": {
+    "en": "We plan it with you on WhatsApp, free, until it feels right.",
+    "he": "אנחנו מתכננים איתכם בוואטסאפ, בחינם, עד שהכול מרגיש נכון."
+  },
+  "06a50ee5": {
+    "en": "Arrive and relax",
+    "he": "מגיעים ונרגעים"
+  },
+  "4ec8e051": {
+    "en": "Your driver-guide takes care of the rest.",
+    "he": "הנהג־מדריך שלכם ידאג לכל השאר."
+  },
+  "0902acf4": {
+    "en": "Prefer to just chat? We're on WhatsApp 24/7.",
+    "he": "מעדיפים פשוט לדבר? אנחנו בוואטסאפ 24/7."
+  },
+  "0d481dbe": {
+    "en": "on WhatsApp (opens in a new tab)",
+    "he": "בוואטסאפ (נפתח בכרטיסייה חדשה)"
+  },
+  "6d3cb928": {
+    "en": "Request your free quote",
+    "he": "בקשו הצעת מחיר חינם"
+  },
+  "9cc68af7": {
+    "en": "Only your name is required. Everything else helps us plan.",
+    "he": "רק השם שלכם הוא שדה חובה. כל השאר עוזר לנו לתכנן."
+  },
+  "ab42293e": {
+    "en": "Your name",
+    "he": "השם שלכם"
+  },
+  "d41e2a7e": {
+    "en": "Email <1>(optional)</1>",
+    "he": "אימייל <1>(לא חובה)</1>"
+  },
+  "53bbe16b": {
+    "en": "Number of travellers",
+    "he": "מספר המטיילים"
+  },
+  "44b47700": {
+    "en": "Sample journey",
+    "he": "מסלול לדוגמה"
+  },
+  "f9d99850": {
+    "en": "Trip length",
+    "he": "אורך הטיול"
+  },
+  "c3ce6f43": {
+    "en": "<1/>7 days",
+    "he": "<1/>7 ימים"
+  },
+  "82869fef": {
+    "en": "<1/>10 days",
+    "he": "<1/>10 ימים"
+  },
+  "537ee620": {
+    "en": "<1/>14 days",
+    "he": "<1/>14 ימים"
+  },
+  "bec0d778": {
+    "en": "<1/>Not sure yet",
+    "he": "<1/>עוד לא בטוחים"
+  },
+  "cf08632e": {
+    "en": "Places you'd like to see",
+    "he": "מקומות שהייתם רוצים לראות"
+  },
+  "270de53f": {
+    "en": "<1/>Yala safari",
+    "he": "<1/>ספארי ביאלה"
+  },
+  "836c6a1f": {
+    "en": "<1/>Ella train ride",
+    "he": "<1/>נסיעת הרכבת לאלה"
+  },
+  "623dbdd3": {
+    "en": "<1/>Surfing",
+    "he": "<1/>גלישה"
+  },
+  "127c6d90": {
+    "en": "<1/>Tea plantation walk",
+    "he": "<1/>הליכה במטע תה"
+  },
+  "b640d375": {
+    "en": "Also interested in",
+    "he": "מעניין אותנו גם"
+  },
+  "da08297a": {
+    "en": "<1/>Airport transfers",
+    "he": "<1/>העברות משדה התעופה"
+  },
+  "01360909": {
+    "en": "<1/>Day tours &amp; excursions",
+    "he": "<1/>טיולי יום וסיורים"
+  },
+  "28267cb2": {
+    "en": "<1/>Hotel &amp; resort bookings",
+    "he": "<1/>הזמנת מלונות ואתרי נופש"
+  },
+  "d72bcf5b": {
+    "en": "Anything else? <1>(optional)</1>",
+    "he": "משהו נוסף? <1>(לא חובה)</1>"
+  },
+  "66d79fa5": {
+    "en": "Must-sees, pace, special occasions, questions…",
+    "he": "מקומות חובה, קצב, אירועים מיוחדים, שאלות…"
+  },
+  "84fa3ada": {
+    "en": "<1/> Send on WhatsApp",
+    "he": "<1/> שליחה בוואטסאפ"
+  },
+  "b69020e2": {
+    "en": "<1/> Send by email",
+    "he": "<1/> שליחה באימייל"
+  },
+  "11cac7f7": {
+    "en": "Both buttons open your own WhatsApp or email app with your details filled in, ready to send.",
+    "he": "שני הכפתורים פותחים את אפליקציית הוואטסאפ או האימייל שלכם עם הפרטים כבר ממולאים, מוכנים לשליחה."
+  },
+  "d1dbebe9": {
+    "en": "Not ready to plan yet?",
+    "he": "עוד לא מוכנים לתכנן?"
+  },
+  "06579da0": {
+    "en": "Browse sample 7, 10 and <1>14-day</1> journeys",
+    "he": "עיינו במסלולים לדוגמה של 7, 10 ו־<1>14 ימים</1>"
+  },
+  "fdf9b114": {
+    "en": "See how one or two weeks across the island could look, with a day-by-day plan for each, then make it your own.",
+    "he": "ראו איך יכולים להיראות שבוע או שבועיים ברחבי האי, עם תוכנית יום־אחר־יום לכל מסלול, ואז התאימו אותו לעצמכם."
+  },
+  "8aa80223": {
+    "en": "View sample journeys <1/>",
+    "he": "לצפייה במסלולים לדוגמה <1/>"
+  },
+  "2888b04f": {
+    "en": "Or start a custom plan <1/>",
+    "he": "או להתחיל תוכנית בהתאמה אישית <1/>"
+  },
+  "96a384e8": {
+    "en": "A traveller leaning out of a train window as it winds through tea country",
+    "he": "מטייל נשען מחלון רכבת שמתפתלת בין מטעי התה"
+  }
+}

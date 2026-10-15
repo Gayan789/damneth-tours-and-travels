@@ -1,0 +1,28 @@
+{
+  "en": {
+    "title": "A fish foot spa",
+    "alt": "Guests sitting on a floating wooden platform with their feet in the water while small fish nibble at their toes",
+    "type": "video",
+    "category": "",
+    "with_guests": false,
+    "order": 220,
+    "video": "/assets/Treavel Images/WhatsApp Video 2026-10-12 at 10.03.35 AM.mp4",
+    "poster": "/assets/images/gallery/gal-video-fish-spa-poster.webp"
+  },
+  "de": {
+    "title": "Ein Fisch-Fußbad",
+    "alt": "Gäste sitzen auf einer schwimmenden Holzplattform mit den Füßen im Wasser, während kleine Fische an ihren Zehen knabbern"
+  },
+  "fr": {
+    "title": "Un spa des pieds aux poissons",
+    "alt": "Des voyageurs assis sur une plateforme en bois flottante, les pieds dans l’eau, pendant que de petits poissons leur grignotent les orteils"
+  },
+  "ru": {
+    "title": "Рыбный пилинг для ног",
+    "alt": "Гости сидят на плавучей деревянной платформе, опустив ноги в воду, а маленькие рыбки покусывают им пальцы"
+  },
+  "he": {
+    "title": "ספא דגים לרגליים",
+    "alt": "אורחים יושבים על רציף עץ צף עם הרגליים במים, בזמן שדגים קטנים מכרסמים את בהונותיהם"
+  }
+}

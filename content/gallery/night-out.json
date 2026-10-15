@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "An evening drive",
+    "alt": "Three guests and their driver-guide standing beside a white car at night",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 390,
+    "image": "/assets/images/gallery/gal-night-out-1600.webp"
+  },
+  "de": {
+    "title": "Eine Abendfahrt",
+    "alt": "Drei Gäste und ihr Fahrer-Guide stehen nachts neben einem weißen Auto"
+  },
+  "fr": {
+    "title": "Une virée en soirée",
+    "alt": "Trois voyageurs et leur chauffeur-guide à côté d’une voiture blanche, de nuit"
+  },
+  "ru": {
+    "title": "Вечерняя поездка",
+    "alt": "Трое гостей и их водитель-гид ночью у белой машины"
+  },
+  "he": {
+    "title": "נסיעת ערב",
+    "alt": "שלושה אורחים והנהג־מדריך שלהם עומדים בלילה ליד מכונית לבנה"
+  }
+}

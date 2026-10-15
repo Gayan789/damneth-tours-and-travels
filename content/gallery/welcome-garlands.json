@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Welcome garlands",
+    "alt": "Four guests wearing orchid garlands in a hotel lobby with their driver-guide",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 130,
+    "image": "/assets/images/gallery/gal-welcome-garlands-1600.webp"
+  },
+  "de": {
+    "title": "Willkommenskränze",
+    "alt": "Vier Gäste mit Orchideenkränzen in einer Hotellobby, zusammen mit ihrem Fahrer-Guide"
+  },
+  "fr": {
+    "title": "Colliers de bienvenue",
+    "alt": "Quatre voyageurs portant des colliers d’orchidées dans le hall d’un hôtel avec leur chauffeur-guide"
+  },
+  "ru": {
+    "title": "Приветственные гирлянды",
+    "alt": "Четверо гостей с гирляндами из орхидей в холле отеля вместе с водителем-гидом"
+  },
+  "he": {
+    "title": "זרי קבלת פנים",
+    "alt": "ארבעה אורחים עונדים זרי סחלבים בלובי של מלון, יחד עם הנהג־מדריך שלהם"
+  }
+}

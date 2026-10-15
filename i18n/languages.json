@@ -1,0 +1,7 @@
+[
+  { "code": "en", "short": "EN", "name": "English", "native": "English", "dir": "ltr" },
+  { "code": "de", "short": "DE", "name": "German", "native": "Deutsch", "dir": "ltr" },
+  { "code": "fr", "short": "FR", "name": "French", "native": "Français", "dir": "ltr" },
+  { "code": "ru", "short": "RU", "name": "Russian", "native": "Русский", "dir": "ltr" },
+  { "code": "he", "short": "HE", "name": "Hebrew", "native": "עברית", "dir": "rtl" }
+]

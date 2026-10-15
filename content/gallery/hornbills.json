@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Hornbills in the treetops",
+    "alt": "Hornbills perched on the bare branches of a tall tree",
+    "type": "image",
+    "category": "wildlife",
+    "with_guests": false,
+    "order": 110,
+    "image": "/assets/images/gallery/gal-hornbills-1200.webp"
+  },
+  "de": {
+    "title": "Nashornvögel in den Baumkronen",
+    "alt": "Nashornvögel sitzen auf den kahlen Ästen eines hohen Baumes"
+  },
+  "fr": {
+    "title": "Calaos à la cime des arbres",
+    "alt": "Des calaos perchés sur les branches nues d’un grand arbre"
+  },
+  "ru": {
+    "title": "Птицы-носороги в кронах",
+    "alt": "Птицы-носороги сидят на голых ветвях высокого дерева"
+  },
+  "he": {
+    "title": "קרנפנים בצמרות העצים",
+    "alt": "קרנפנים יושבים על הענפים החשופים של עץ גבוה"
+  }
+}

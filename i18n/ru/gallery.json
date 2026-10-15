@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "language": "ru",
+    "bundle": "gallery",
+    "status": "draft – needs native review",
+    "about": "Text on gallery.html. Translate the \"ru\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "47a37812": {
+    "en": "Gallery: Photos &amp; Videos from Our Sri Lanka Trips | Damneth Tours &amp; Travels",
+    "ru": "Галерея: фото и видео из наших поездок по Шри-Ланке | Damneth Tours &amp; Travels"
+  },
+  "6d71e815": {
+    "en": "Photos and short videos from Sri Lanka trips with our guests: elephants, waterfalls, Sigiriya, the Nine Arches Bridge, village lunches and boat rides.",
+    "ru": "Фото и короткие видео из поездок по Шри-Ланке с нашими гостями: слоны, водопады, Сигирия, мост Девяти арок, деревенские обеды и прогулки на лодке."
+  },
+  "66fba13b": {
+    "en": "A guest perched on a stilt-fishing pole at the water’s edge, with waves breaking around rocks behind",
+    "ru": "Гость сидит на шесте рыбака у самой воды, а позади волны разбиваются о камни"
+  },
+  "ac597687": {
+    "en": "Real trips, <1>real smiles.</1>",
+    "ru": "Настоящие поездки, <1>настоящие улыбки.</1>"
+  },
+  "da581e7c": {
+    "en": "Snapshots from the road with our guests: elephants and waterfalls, village lunches, boat rides and the odd stilt-fishing pole.",
+    "ru": "Кадры с дороги с нашими гостями: слоны и водопады, деревенские обеды, прогулки на лодке и пара рыбацких шестов."
+  },
+  "88a7856b": {
+    "en": "Browse the gallery <1/>",
+    "ru": "Смотреть галерею <1/>"
+  },
+  "344a910f": {
+    "en": "<1/> Plan a trip like this<2> (opens in a new tab)</2>",
+    "ru": "<1/> Спланировать такую поездку<2> (откроется в новой вкладке)</2>"
+  },
+  "2230defb": {
+    "en": "Jump to a gallery category",
+    "ru": "Перейти к разделу галереи"
+  },
+  "89e4407f": {
+    "en": "From the road",
+    "ru": "С дороги"
+  },
+  "1af64e83": {
+    "en": "Moments from our guests’ trips",
+    "ru": "Моменты из поездок наших гостей"
+  },
+  "9ae049a1": {
+    "en": "Filter the gallery",
+    "ru": "Фильтр галереи"
+  },
+  "8a4e6047": {
+    "en": "Your turn",
+    "ru": "Ваша очередь"
+  },
+  "89d65ecc": {
+    "en": "Want to be in the next photo?",
+    "ru": "Хотите попасть на следующее фото?"
+  },
+  "326b0561": {
+    "en": "Tell us your dates and what you’d love to see. We’ll sketch a route on WhatsApp, and planning help is always free.",
+    "ru": "Расскажите о датах и о том, что хотите увидеть. Мы набросаем маршрут в WhatsApp, а помощь в планировании всегда бесплатна."
+  },
+  "73889efb": {
+    "en": "Two guests and their driver-guide sitting on a colourful mat with a spread of dishes, tall crops behind",
+    "ru": "Двое гостей и водитель-гид сидят на яркой циновке перед множеством блюд, позади высокие посевы"
+  },
+  "7d02c42c": {
+    "en": "Gallery viewer",
+    "ru": "Просмотр"
+  },
+  "b9fbfc7e": {
+    "en": "Close viewer",
+    "ru": "Закрыть просмотр"
+  },
+  "50f94286": {
+    "en": "Previous",
+    "ru": "Назад"
+  },
+  "bc981983": {
+    "en": "Next",
+    "ru": "Далее"
+  }
+}

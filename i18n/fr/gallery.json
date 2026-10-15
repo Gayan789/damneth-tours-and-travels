@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "language": "fr",
+    "bundle": "gallery",
+    "status": "draft – needs native review",
+    "about": "Text on gallery.html. Translate the \"fr\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "47a37812": {
+    "en": "Gallery: Photos &amp; Videos from Our Sri Lanka Trips | Damneth Tours &amp; Travels",
+    "fr": "Galerie&nbsp;: photos et vidéos de nos voyages au Sri Lanka | Damneth Tours &amp; Travels"
+  },
+  "6d71e815": {
+    "en": "Photos and short videos from Sri Lanka trips with our guests: elephants, waterfalls, Sigiriya, the Nine Arches Bridge, village lunches and boat rides.",
+    "fr": "Photos et courtes vidéos de voyages au Sri Lanka avec nos voyageurs&nbsp;: éléphants, cascades, Sigiriya, le pont des Neuf Arches, déjeuners au village et balades en bateau."
+  },
+  "66fba13b": {
+    "en": "A guest perched on a stilt-fishing pole at the water’s edge, with waves breaking around rocks behind",
+    "fr": "Un voyageur perché sur un poteau de pêcheur sur échasses au bord de l’eau, avec des vagues qui se brisent sur les rochers derrière"
+  },
+  "ac597687": {
+    "en": "Real trips, <1>real smiles.</1>",
+    "fr": "De vrais voyages, <1>de vrais sourires.</1>"
+  },
+  "da581e7c": {
+    "en": "Snapshots from the road with our guests: elephants and waterfalls, village lunches, boat rides and the odd stilt-fishing pole.",
+    "fr": "Instantanés de la route avec nos voyageurs&nbsp;: éléphants et cascades, déjeuners au village, balades en bateau et quelques poteaux de pêcheurs sur échasses."
+  },
+  "88a7856b": {
+    "en": "Browse the gallery <1/>",
+    "fr": "Parcourir la galerie <1/>"
+  },
+  "344a910f": {
+    "en": "<1/> Plan a trip like this<2> (opens in a new tab)</2>",
+    "fr": "<1/> Organiser un voyage comme celui-ci<2> (s’ouvre dans un nouvel onglet)</2>"
+  },
+  "2230defb": {
+    "en": "Jump to a gallery category",
+    "fr": "Aller à une catégorie de la galerie"
+  },
+  "89e4407f": {
+    "en": "From the road",
+    "fr": "Sur la route"
+  },
+  "1af64e83": {
+    "en": "Moments from our guests’ trips",
+    "fr": "Des moments des voyages de nos voyageurs"
+  },
+  "9ae049a1": {
+    "en": "Filter the gallery",
+    "fr": "Filtrer la galerie"
+  },
+  "8a4e6047": {
+    "en": "Your turn",
+    "fr": "À vous de jouer"
+  },
+  "89d65ecc": {
+    "en": "Want to be in the next photo?",
+    "fr": "Envie d’être sur la prochaine photo&nbsp;?"
+  },
+  "326b0561": {
+    "en": "Tell us your dates and what you’d love to see. We’ll sketch a route on WhatsApp, and planning help is always free.",
+    "fr": "Donnez-nous vos dates et ce que vous aimeriez voir. Nous esquissons un itinéraire sur WhatsApp, et l’aide à la préparation est toujours gratuite."
+  },
+  "73889efb": {
+    "en": "Two guests and their driver-guide sitting on a colourful mat with a spread of dishes, tall crops behind",
+    "fr": "Deux voyageurs et leur chauffeur-guide assis sur une natte colorée devant un assortiment de plats, avec de hautes cultures derrière eux"
+  },
+  "7d02c42c": {
+    "en": "Gallery viewer",
+    "fr": "Visionneuse"
+  },
+  "b9fbfc7e": {
+    "en": "Close viewer",
+    "fr": "Fermer la visionneuse"
+  },
+  "50f94286": {
+    "en": "Previous",
+    "fr": "Précédent"
+  },
+  "bc981983": {
+    "en": "Next",
+    "fr": "Suivant"
+  }
+}

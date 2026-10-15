@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Content manager | Damneth Tours &amp; Travels</title>
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" href="/assets/icons/favicon-192.png" sizes="192x192" type="image/png">
+  <!-- Admin panel: Decap CMS 3.17.1 with Netlify Identity sign-in. Settings are in config.yml next to this file;
+       how to set it up is in SETUP.md at the top of the project. Both scripts are local copies (MIT licence,
+       see the LICENSE files in vendor/). -->
+  <script src="/admin/vendor/identity/netlify-identity-widget.js"></script>
+</head>
+<body>
+  <noscript>The content manager needs JavaScript.</noscript>
+  <script src="/admin/vendor/decap/decap-cms.js"></script>
+  <script>
+    // Hebrew text in the editor fields is typed right to left. Decap has no per-locale setting for this,
+    // so text boxes follow the direction of what is typed into them.
+    new MutationObserver(function () {
+      document.querySelectorAll('input[type="text"]:not([dir]), textarea:not([dir])').forEach(function (field) {
+        field.setAttribute('dir', 'auto');
+      });
+    }).observe(document.body, { childList: true, subtree: true });
+  </script>
+</body>
+</html>

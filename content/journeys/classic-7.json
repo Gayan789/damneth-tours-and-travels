@@ -1,0 +1,403 @@
+{
+  "en": {
+    "anchor": "classic-7",
+    "order": 1,
+    "title": "7-Day Classic",
+    "eyebrow": "Short on time",
+    "intro": "The island’s highlights in one week: the rock fortress at Sigiriya, Kandy’s sacred temple, the train through tea country, a leopard safari in Yala and a last walk around Galle Fort.",
+    "main_image": "/assets/images/intro-sigiriya-view-1600.webp",
+    "main_alt": "A couple sitting on a rock, looking out across the forest to Sigiriya rock fortress",
+    "second_image": "/assets/images/dest-kandy-1000.webp",
+    "second_alt": "The Temple of the Sacred Tooth Relic in Kandy, hung with Buddhist flags and reflected in the moat",
+    "third_image": "/assets/images/journey-galle-aerial-1000.webp",
+    "third_alt": "Aerial view of Galle Fort on its headland, surrounded by turquoise sea",
+    "route": [
+      "Airport",
+      "Sigiriya",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "AC private vehicle"
+      },
+      {
+        "icon": "chat",
+        "text": "English-speaking driver"
+      },
+      {
+        "icon": "fuel",
+        "text": "All tolls & fuel included"
+      },
+      {
+        "icon": "bed",
+        "text": "Hotel booking assistance"
+      }
+    ],
+    "days": [
+      {
+        "title": "Airport to Sigiriya",
+        "text": "Your driver meets you at arrivals at Bandaranaike International Airport. A relaxed drive north to the Cultural Triangle, stopping for lunch on the way.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya and Dambulla",
+        "text": "Climb Sigiriya Rock at opening time, before the heat. After lunch, visit the painted cave temples at Dambulla.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Into the hills to Kandy",
+        "text": "Drive up to Kandy with a stop at a spice garden. In the evening, join the puja at the Temple of the Tooth.",
+        "stay": "Overnight: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Tea country",
+        "text": "A winding climb past tea estates and waterfalls, with a tea factory visit and tasting. Evening in cool Nuwara Eliya.",
+        "stay": "Overnight: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "The train to Ella",
+        "text": "Ride the scenic train from Nanu Oya to Ella. Your driver goes ahead by road with your bags and meets you there.",
+        "stay": "Overnight: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Ella to Yala",
+        "text": "An easy sunrise walk up Little Adam’s Peak, then down to the lowlands for an afternoon jeep safari in Yala.",
+        "stay": "Overnight: Near Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle and the airport",
+        "text": "West along the coast to Galle Fort for a walk on the ramparts, then the expressway back to the airport for your flight.",
+        "stay": "Airport drop-off",
+        "stay_icon": "plane"
+      }
+    ],
+    "note": ""
+  },
+  "de": {
+    "title": "7-Tage-Klassiker",
+    "eyebrow": "Für wenig Zeit",
+    "intro": "Die Höhepunkte der Insel in einer Woche: die Felsenfestung Sigiriya, Kandys heiliger Tempel, die Zugfahrt durchs Teeland, eine Leoparden-Safari in Yala und ein letzter Spaziergang durch Galle Fort.",
+    "main_alt": "Ein Paar sitzt auf einem Felsen und blickt über den Wald zur Felsenfestung Sigiriya",
+    "second_alt": "Der Zahntempel in Kandy, geschmückt mit buddhistischen Fahnen und gespiegelt im Wassergraben",
+    "third_alt": "Luftaufnahme des Galle Fort auf seiner Landzunge, umgeben von türkisfarbenem Meer",
+    "route": [
+      "Flughafen",
+      "Sigiriya",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Privatfahrzeug mit Klimaanlage"
+      },
+      {
+        "icon": "chat",
+        "text": "Englischsprachiger Fahrer"
+      },
+      {
+        "icon": "fuel",
+        "text": "Alle Mautgebühren & Sprit inklusive"
+      },
+      {
+        "icon": "bed",
+        "text": "Hilfe bei der Hotelbuchung"
+      }
+    ],
+    "days": [
+      {
+        "title": "Vom Flughafen nach Sigiriya",
+        "text": "Ihr Fahrer empfängt Sie in der Ankunftshalle des Bandaranaike International Airport. Eine entspannte Fahrt nach Norden ins Kulturdreieck, mit einem Mittagsstopp unterwegs.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya und Dambulla",
+        "text": "Besteigen Sie den Sigiriya-Felsen gleich zur Öffnung, bevor es heiß wird. Nach dem Mittagessen besuchen Sie die bemalten Höhlentempel von Dambulla.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "In die Berge nach Kandy",
+        "text": "Fahrt hinauf nach Kandy mit einem Halt in einem Gewürzgarten. Am Abend erleben Sie die Puja im Zahntempel.",
+        "stay": "Übernachtung: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Im Teeland",
+        "text": "Eine kurvenreiche Auffahrt vorbei an Teeplantagen und Wasserfällen, mit Besuch einer Teefabrik und Verkostung. Abend im kühlen Nuwara Eliya.",
+        "stay": "Übernachtung: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Mit dem Zug nach Ella",
+        "text": "Fahren Sie mit dem Panoramazug von Nanu Oya nach Ella. Ihr Fahrer nimmt Ihr Gepäck auf der Straße mit und erwartet Sie dort.",
+        "stay": "Übernachtung: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Von Ella nach Yala",
+        "text": "Ein leichter Spaziergang zum Sonnenaufgang auf den Little Adam’s Peak, dann hinunter ins Tiefland zu einer Jeep-Safari am Nachmittag in Yala.",
+        "stay": "Übernachtung: in der Nähe von Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle und zum Flughafen",
+        "text": "Westwärts entlang der Küste nach Galle Fort zu einem Spaziergang auf den Wällen, dann über die Schnellstraße zurück zum Flughafen für Ihren Flug.",
+        "stay": "Transfer zum Flughafen",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "fr": {
+    "title": "Classique en 7 jours",
+    "eyebrow": "Pour les séjours courts",
+    "intro": "Les incontournables de l’île en une semaine : la forteresse rocheuse de Sigiriya, le temple sacré de Kandy, le train à travers le pays du thé, un safari léopards à Yala et une dernière balade dans le fort de Galle.",
+    "main_alt": "Un couple assis sur un rocher, contemplant la forêt jusqu’à la forteresse rocheuse de Sigiriya",
+    "second_alt": "Le temple de la Dent sacrée à Kandy, orné de drapeaux bouddhistes et se reflétant dans les douves",
+    "third_alt": "Vue aérienne du fort de Galle sur son promontoire, entouré d’une mer turquoise",
+    "route": [
+      "Aéroport",
+      "Sigiriya",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Véhicule privé climatisé"
+      },
+      {
+        "icon": "chat",
+        "text": "Chauffeur anglophone"
+      },
+      {
+        "icon": "fuel",
+        "text": "Péages et carburant inclus"
+      },
+      {
+        "icon": "bed",
+        "text": "Aide à la réservation d’hôtels"
+      }
+    ],
+    "days": [
+      {
+        "title": "De l’aéroport à Sigiriya",
+        "text": "Votre chauffeur vous accueille dans le hall des arrivées de l’aéroport international Bandaranaike. Route tranquille vers le nord et le Triangle culturel, avec une pause déjeuner en chemin.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya et Dambulla",
+        "text": "Gravissez le rocher de Sigiriya dès l’ouverture, avant la chaleur. Après le déjeuner, visitez les temples-grottes peints de Dambulla.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Vers les collines de Kandy",
+        "text": "Montée vers Kandy avec un arrêt dans un jardin d’épices. Le soir, assistez à la puja au temple de la Dent.",
+        "stay": "Nuit : Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le pays du thé",
+        "text": "Une montée sinueuse entre plantations de thé et cascades, avec la visite d’une fabrique de thé et une dégustation. Soirée dans la fraîcheur de Nuwara Eliya.",
+        "stay": "Nuit : Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le train pour Ella",
+        "text": "Prenez le train panoramique de Nanu Oya à Ella. Votre chauffeur part devant par la route avec vos bagages et vous retrouve là-bas.",
+        "stay": "Nuit : Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "D’Ella à Yala",
+        "text": "Une balade facile au lever du soleil jusqu’au Little Adam’s Peak, puis descente vers les plaines pour un safari en jeep l’après-midi à Yala.",
+        "stay": "Nuit : près de Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle et l’aéroport",
+        "text": "Cap à l’ouest le long de la côte jusqu’au fort de Galle pour une balade sur les remparts, puis l’autoroute jusqu’à l’aéroport pour votre vol.",
+        "stay": "Dépose à l’aéroport",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "ru": {
+    "title": "Классика за 7 дней",
+    "eyebrow": "Если мало времени",
+    "intro": "Главное на острове за одну неделю: скальная крепость Сигирия, священный храм Канди, поезд через чайный край, сафари на леопардов в Яле и последняя прогулка по форту Галле.",
+    "main_alt": "Пара сидит на скале и смотрит через лес на скальную крепость Сигирия",
+    "second_alt": "Храм Зуба Будды в Канди, украшенный буддийскими флагами и отражающийся во рву",
+    "third_alt": "Вид сверху на форт Галле на мысу в окружении бирюзового моря",
+    "route": [
+      "Аэропорт",
+      "Сигирия",
+      "Канди",
+      "Нувара-Элия",
+      "Элла",
+      "Яла",
+      "Галле"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Личный автомобиль с кондиционером"
+      },
+      {
+        "icon": "chat",
+        "text": "Англоговорящий водитель"
+      },
+      {
+        "icon": "fuel",
+        "text": "Платные дороги и топливо включены"
+      },
+      {
+        "icon": "bed",
+        "text": "Помощь с бронированием отелей"
+      }
+    ],
+    "days": [
+      {
+        "title": "Из аэропорта в Сигирию",
+        "text": "Водитель встречает вас в зоне прилёта международного аэропорта Бандаранаике. Спокойная дорога на север, в Культурный треугольник, с остановкой на обед по пути.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Сигирия и Дамбулла",
+        "text": "Поднимитесь на скалу Сигирия к открытию, пока не жарко. После обеда — расписные пещерные храмы Дамбуллы.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "В горы, в Канди",
+        "text": "Дорога вверх в Канди с остановкой в саду специй. Вечером — пуджа в Храме Зуба.",
+        "stay": "Ночёвка: Канди",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Чайный край",
+        "text": "Извилистый подъём мимо чайных плантаций и водопадов, с посещением чайной фабрики и дегустацией. Вечер в прохладной Нувара-Элии.",
+        "stay": "Ночёвка: Нувара-Элия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Поезд в Эллу",
+        "text": "Живописный поезд из Нану-Оя в Эллу. Водитель едет вперёд по дороге с вашим багажом и встречает вас на месте.",
+        "stay": "Ночёвка: Элла",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Из Эллы в Ялу",
+        "text": "Лёгкая прогулка на рассвете на Малый пик Адама, затем спуск в низины и дневное сафари на джипе в Яле.",
+        "stay": "Ночёвка: рядом с Ялой",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Галле и аэропорт",
+        "text": "На запад вдоль побережья к форту Галле — прогулка по крепостным стенам, затем по скоростной трассе обратно в аэропорт к вашему рейсу.",
+        "stay": "Трансфер в аэропорт",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "he": {
+    "title": "מסלול קלאסי ל־7 ימים",
+    "eyebrow": "כשאין הרבה זמן",
+    "intro": "עיקר האי בשבוע אחד: מבצר הסלע בסיגיריה, המקדש הקדוש של קנדי, הרכבת דרך ארץ התה, ספארי נמרים ביאלה וטיול אחרון במבצר גאלה.",
+    "main_alt": "זוג יושב על סלע ומשקיף מעבר ליער אל מבצר הסלע סיגיריה",
+    "second_alt": "מקדש השן הקדושה בקנדי, מקושט בדגלים בודהיסטיים ומשתקף בתעלה",
+    "third_alt": "מבט מלמעלה על מבצר גאלה על לשון היבשה, מוקף ים בצבע טורקיז",
+    "route": [
+      "שדה התעופה",
+      "סיגיריה",
+      "קנדי",
+      "נוורה אליה",
+      "אלה",
+      "יאלה",
+      "גאלה"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "רכב פרטי ממוזג"
+      },
+      {
+        "icon": "chat",
+        "text": "נהג דובר אנגלית"
+      },
+      {
+        "icon": "fuel",
+        "text": "כל האגרות והדלק כלולים"
+      },
+      {
+        "icon": "bed",
+        "text": "עזרה בהזמנת מלונות"
+      }
+    ],
+    "days": [
+      {
+        "title": "משדה התעופה לסיגיריה",
+        "text": "הנהג שלכם מחכה לכם באולם הנוסעים הנכנסים בנמל התעופה הבינלאומי בנדרנאיקה. נסיעה רגועה צפונה אל המשולש התרבותי, עם עצירה לארוחת צהריים בדרך.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "סיגיריה ודמבולה",
+        "text": "טפסו על סלע סיגיריה עם הפתיחה, לפני החום. אחרי ארוחת הצהריים, בקרו במקדשי המערות המצוירים בדמבולה.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "אל ההרים, לקנדי",
+        "text": "נסיעה במעלה ההרים לקנדי עם עצירה בגן תבלינים. בערב, הצטרפו לפוג׳ה במקדש השן.",
+        "stay": "לינה: קנדי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "ארץ התה",
+        "text": "עלייה מתפתלת על פני מטעי תה ומפלים, עם ביקור במפעל תה וטעימות. ערב בנוורה אליה הקרירה.",
+        "stay": "לינה: נוורה אליה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "הרכבת לאלה",
+        "text": "נסיעה ברכבת הנופית מנאנו אויה לאלה. הנהג שלכם מקדים אתכם בכביש עם המזוודות ופוגש אתכם שם.",
+        "stay": "לינה: אלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "מאלה ליאלה",
+        "text": "הליכה קלה בזריחה אל פסגת אדם הקטנה, ואז ירידה לשפלה לספארי ג׳יפים אחר הצהריים ביאלה.",
+        "stay": "לינה: ליד יאלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "גאלה ושדה התעופה",
+        "text": "מערבה לאורך החוף אל מבצר גאלה לטיול על החומות, ואז בכביש המהיר חזרה לשדה התעופה לטיסה שלכם.",
+        "stay": "הסעה לשדה התעופה",
+        "stay_icon": "plane"
+      }
+    ]
+  }
+}

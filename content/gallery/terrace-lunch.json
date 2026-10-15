@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lunch with a hill-country view",
+    "alt": "Two guests and their driver-guide at a table on a wooden terrace looking out over green hills",
+    "type": "image",
+    "category": "hills",
+    "with_guests": true,
+    "order": 50,
+    "image": "/assets/images/gallery/gal-terrace-lunch-1600.webp"
+  },
+  "de": {
+    "title": "Mittagessen mit Blick aufs Hochland",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide an einem Tisch auf einer Holzterrasse mit Blick auf grüne Hügel"
+  },
+  "fr": {
+    "title": "Déjeuner avec vue sur les hautes terres",
+    "alt": "Deux voyageurs et leur chauffeur-guide attablés sur une terrasse en bois face aux collines verdoyantes"
+  },
+  "ru": {
+    "title": "Обед с видом на горы",
+    "alt": "Двое гостей и их водитель-гид за столом на деревянной террасе с видом на зелёные холмы"
+  },
+  "he": {
+    "title": "ארוחת צהריים עם נוף להרים",
+    "alt": "שני אורחים והנהג־מדריך שלהם ליד שולחן במרפסת עץ המשקיפה על גבעות ירוקות"
+  }
+}

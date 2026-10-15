@@ -1,0 +1,324 @@
+{
+  "_meta": {
+    "language": "de",
+    "bundle": "experiences",
+    "status": "draft – needs native review",
+    "about": "Text on experiences.html. Translate the \"de\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "756d598f": {
+    "en": "Sri Lanka Experiences: Safari, Train, Surf &amp; More | Damneth Tours &amp; Travels",
+    "de": "Erlebnisse in Sri Lanka: Safari, Zug, Surfen &amp; mehr | Damneth Tours &amp; Travels"
+  },
+  "a5754b07": {
+    "en": "Yala safari, the Ella train, surfing, tea plantation walks and whale watching. Add the experiences you love and we’ll link them into one easy private-driver route, planned free on WhatsApp.",
+    "de": "Yala-Safari, die Zugfahrt nach Ella, Surfen, Spaziergänge durch Teeplantagen und Walbeobachtung. Fügen Sie Ihre Lieblingserlebnisse hinzu, und wir verbinden sie zu einer entspannten Route mit privatem Fahrer – kostenlos per WhatsApp geplant."
+  },
+  "2a1df757": {
+    "en": "A blue train crossing a stone arch bridge through dense forest, seen from above",
+    "de": "Ein blauer Zug überquert eine steinerne Bogenbrücke im dichten Wald, von oben gesehen"
+  },
+  "e7ed9210": {
+    "en": "The moments that make the trip. <1>Mix and match them.</1>",
+    "de": "Die Momente, die eine Reise ausmachen. <1>Kombinieren Sie sie nach Lust und Laune.</1>"
+  },
+  "3b4a9c2a": {
+    "en": "Leopards at dawn, the slow train through tea country, your first wave, a walk among the tea pickers and whales off the south coast. Add the ones you love and we’ll fit them into one easy route.",
+    "de": "Leoparden im Morgengrauen, der langsame Zug durchs Teeland, Ihre erste Welle, ein Spaziergang zwischen den Teepflückerinnen und Wale vor der Südküste. Fügen Sie Ihre Favoriten hinzu, und wir bauen sie in eine entspannte Route ein."
+  },
+  "573b4442": {
+    "en": "<1/> Plan my experiences<2> (opens in a new tab)</2>",
+    "de": "<1/> Meine Erlebnisse planen<2> (öffnet in einem neuen Tab)</2>"
+  },
+  "1a8ab92d": {
+    "en": "See my picks <1/>",
+    "de": "Meine Auswahl ansehen <1/>"
+  },
+  "8759e223": {
+    "en": "<1/>24/7 support on WhatsApp",
+    "de": "<1/>Support rund um die Uhr per WhatsApp"
+  },
+  "fca77b7e": {
+    "en": "At a glance",
+    "de": "Auf einen Blick"
+  },
+  "3c5bd207": {
+    "en": "Yala safari",
+    "de": "Yala-Safari"
+  },
+  "3b40fc9a": {
+    "en": "Easy<1/><2/>Half or full day",
+    "de": "Leicht<1/><2/>Halber oder ganzer Tag"
+  },
+  "74dba89c": {
+    "en": "Ella train ride",
+    "de": "Zugfahrt nach Ella"
+  },
+  "72325baf": {
+    "en": "Easy<1/><2/>2 to 7 hours",
+    "de": "Leicht<1/><2/>2 bis 7 Stunden"
+  },
+  "d38658f4": {
+    "en": "Surfing",
+    "de": "Surfen"
+  },
+  "baf380f8": {
+    "en": "Active<1/><2/>2 hours a session",
+    "de": "Aktiv<1/><2/>2 Stunden pro Einheit"
+  },
+  "70aa2e4f": {
+    "en": "Tea plantation walk",
+    "de": "Spaziergang durch Teeplantagen"
+  },
+  "3f8bfa97": {
+    "en": "Moderate<1/><2/>2 to 3 hours",
+    "de": "Mittel<1/><2/>2 bis 3 Stunden"
+  },
+  "8a4f6db9": {
+    "en": "Whale watching",
+    "de": "Walbeobachtung"
+  },
+  "d21f4750": {
+    "en": "Easy<1/><2/>3 to 5 hours",
+    "de": "Leicht<1/><2/>3 bis 5 Stunden"
+  },
+  "b9950eef": {
+    "en": "A leopard resting on a rock, looking straight at the camera",
+    "de": "Ein Leopard ruht auf einem Felsen und blickt direkt in die Kamera"
+  },
+  "8082200f": {
+    "en": "Wildlife · Day tour",
+    "de": "Tierwelt · Tagestour"
+  },
+  "d29059b8": {
+    "en": "Bump along sandy tracks in an open jeep, scanning the scrub for leopards, elephants, sloth bears and crocodiles. Early starts bring the softest light and the best chance of a sighting.",
+    "de": "Holpern Sie im offenen Jeep über sandige Pisten und suchen Sie das Buschland nach Leoparden, Elefanten, Lippenbären und Krokodilen ab. Wer früh aufbricht, hat das weichste Licht und die besten Chancen auf eine Sichtung."
+  },
+  "5e50a9c9": {
+    "en": "<1/>Activity level",
+    "de": "<1/>Anstrengung"
+  },
+  "15dfc0f1": {
+    "en": "<1/>Easy<2>You stay in the jeep the whole time</2>",
+    "de": "<1/>Leicht<2>Sie bleiben die ganze Zeit im Jeep</2>"
+  },
+  "0db75946": {
+    "en": "<1/>Duration",
+    "de": "<1/>Dauer"
+  },
+  "bbf40cc0": {
+    "en": "Half or full day<1>A morning drive is about 3 to 4 hours</1>",
+    "de": "Halber oder ganzer Tag<1>Eine Morgenfahrt dauert etwa 3 bis 4 Stunden</1>"
+  },
+  "b6c1f077": {
+    "en": "<1/>Best season",
+    "de": "<1/>Beste Reisezeit"
+  },
+  "e6762ad5": {
+    "en": "February to July<1>The park often closes for a few weeks around September</1>",
+    "de": "Februar bis Juli<1>Der Park schließt oft für einige Wochen rund um den September</1>"
+  },
+  "7b6f9886": {
+    "en": "<1/>Ideal for",
+    "de": "<1/>Ideal für"
+  },
+  "17514d17": {
+    "en": "Families and first-timers",
+    "de": "Familien und Erstbesucher"
+  },
+  "c806bec3": {
+    "en": "Add Yala safari to my trip",
+    "de": "Yala-Safari zu meiner Reise hinzufügen"
+  },
+  "89339c58": {
+    "en": "Ask about a Yala safari<1> (opens in a new tab)</1> <2/>",
+    "de": "Nach einer Yala-Safari fragen<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "c0bb5e28": {
+    "en": "Yala safaris are one of our day tours, and we can also fit one into a longer trip.",
+    "de": "Yala-Safaris gehören zu unseren Tagestouren, und wir können auch eine in eine längere Reise einbauen."
+  },
+  "228377aa": {
+    "en": "Scenic rail",
+    "de": "Panoramabahn"
+  },
+  "2113e21b": {
+    "en": "Lean out of an open door as the train climbs through tea estates, tunnels and cloud forest. Many travellers call it the most beautiful train ride in the world, and it’s easy to see why.",
+    "de": "Lehnen Sie sich aus der offenen Tür, während der Zug durch Teegärten, Tunnel und Nebelwald bergauf fährt. Viele Reisende nennen sie die schönste Zugfahrt der Welt – und man sieht sofort, warum."
+  },
+  "1c797f9f": {
+    "en": "<1/>Easy<2>Sit back, or stand at the door for photos</2>",
+    "de": "<1/>Leicht<2>Lehnen Sie sich zurück oder stellen Sie sich für Fotos an die Tür</2>"
+  },
+  "342eec43": {
+    "en": "About 2 to 7 hours<1>Depending on where you board</1>",
+    "de": "Etwa 2 bis 7 Stunden<1>Je nachdem, wo Sie einsteigen</1>"
+  },
+  "56e06519": {
+    "en": "Runs all year<1>Clearest views January to April</1>",
+    "de": "Fährt das ganze Jahr<1>Klarste Sicht von Januar bis April</1>"
+  },
+  "20aea31c": {
+    "en": "Couples and photographers",
+    "de": "Paare und Fotografen"
+  },
+  "7d4a65fe": {
+    "en": "Add Ella train ride to my trip",
+    "de": "Zugfahrt nach Ella zu meiner Reise hinzufügen"
+  },
+  "da3ab75c": {
+    "en": "Ask about train tickets<1> (opens in a new tab)</1> <2/>",
+    "de": "Nach Zugtickets fragen<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "e0a58ecc": {
+    "en": "We organised Ella train tickets for a family of five on their 12-day trip. While you ride, your driver takes your bags by road and meets you at the other end.",
+    "de": "Für eine fünfköpfige Familie haben wir auf ihrer 12-tägigen Reise die Zugtickets nach Ella organisiert. Während Sie fahren, bringt Ihr Fahrer Ihr Gepäck auf der Straße ans Ziel und erwartet Sie dort."
+  },
+  "03703bfe": {
+    "en": "A surfer carving along the face of a breaking wave",
+    "de": "Ein Surfer gleitet an der Wand einer brechenden Welle entlang"
+  },
+  "52bba152": {
+    "en": "On the water",
+    "de": "Auf dem Wasser"
+  },
+  "a30dbd98": {
+    "en": "From gentle beginner waves at Weligama to the famous point break at Arugam Bay, Sri Lanka is a brilliant place to learn or to chase better waves. We get you, and your boards, there.",
+    "de": "Von sanften Anfängerwellen in Weligama bis zum berühmten Pointbreak in Arugam Bay: Sri Lanka ist ein großartiger Ort, um surfen zu lernen oder bessere Wellen zu jagen. Wir bringen Sie – und Ihre Boards – hin."
+  },
+  "d056fcf7": {
+    "en": "<1/>Active<2>Lessons suit complete beginners</2>",
+    "de": "<1/>Aktiv<2>Die Kurse eignen sich für absolute Anfänger</2>"
+  },
+  "e6f35b0c": {
+    "en": "About 2 hours a session<1>Most people surf mornings or late afternoons</1>",
+    "de": "Etwa 2 Stunden pro Einheit<1>Die meisten surfen morgens oder am späten Nachmittag</1>"
+  },
+  "ec54e226": {
+    "en": "South coast: November to April<1>Arugam Bay: May to September</1>",
+    "de": "Südküste: November bis April<1>Arugam Bay: Mai bis September</1>"
+  },
+  "2fdce298": {
+    "en": "Beginners and keen surfers",
+    "de": "Anfänger und begeisterte Surfer"
+  },
+  "45b670a6": {
+    "en": "Add Surfing to my trip",
+    "de": "Surfen zu meiner Reise hinzufügen"
+  },
+  "8dd3061a": {
+    "en": "Ask about surf transfers<1> (opens in a new tab)</1> <2/>",
+    "de": "Nach Surf-Transfers fragen<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "3c57716c": {
+    "en": "Lessons and board hire are with local surf schools on the beach. We handle the surf trip transfers in between.",
+    "de": "Kurse und Boardverleih gibt es bei lokalen Surfschulen am Strand. Wir übernehmen die Transfers dazwischen."
+  },
+  "4a7b9de6": {
+    "en": "A guest sipping tea at a tea shop table while their driver-guide takes a selfie",
+    "de": "Eine Gästin trinkt Tee an einem Tisch in einem Teeladen, während ihr Fahrer-Guide ein Selfie macht"
+  },
+  "dce86017": {
+    "en": "Follow the narrow paths between the tea bushes, see the pickers at work and finish at a factory to watch the leaves become your cup of tea. One of the gentlest, most memorable days in the hills.",
+    "de": "Folgen Sie den schmalen Pfaden zwischen den Teesträuchern, sehen Sie den Pflückerinnen bei der Arbeit zu und beenden Sie den Tag in einer Fabrik, wo aus den Blättern Ihr Tee wird. Einer der sanftesten und eindrucksvollsten Tage in den Bergen."
+  },
+  "065d9c71": {
+    "en": "<1/>Moderate<2>Some uphill paths</2>",
+    "de": "<1/>Mittel<2>Einige Wege führen bergauf</2>"
+  },
+  "77004ad4": {
+    "en": "2 to 3 hours<1>Plus time for a factory visit</1>",
+    "de": "2 bis 3 Stunden<1>Plus Zeit für einen Fabrikbesuch</1>"
+  },
+  "4359f03f": {
+    "en": "All year<1>Mornings are usually clearest</1>",
+    "de": "Das ganze Jahr<1>Morgens ist die Sicht meist am klarsten</1>"
+  },
+  "6bc7ca7d": {
+    "en": "Walkers and tea lovers",
+    "de": "Wanderer und Teeliebhaber"
+  },
+  "88988ac8": {
+    "en": "Add Tea plantation walk to my trip",
+    "de": "Spaziergang durch Teeplantagen zu meiner Reise hinzufügen"
+  },
+  "b4ec40e8": {
+    "en": "Ask about a tea walk<1> (opens in a new tab)</1> <2/>",
+    "de": "Nach einem Tee-Spaziergang fragen<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "5158344b": {
+    "en": "This isn’t one of our fixed day tours. Ask us on WhatsApp and we’ll suggest how to fit a walk into your days around Nuwara Eliya or Ella.",
+    "de": "Das ist keine unserer festen Tagestouren. Fragen Sie uns per WhatsApp, und wir schlagen vor, wie Sie einen Spaziergang in Ihre Tage rund um Nuwara Eliya oder Ella einbauen."
+  },
+  "f403929a": {
+    "en": "A whale’s tail rising out of the sea as it dives",
+    "de": "Die Schwanzflosse eines Wals, die beim Abtauchen aus dem Meer ragt"
+  },
+  "76022a00": {
+    "en": "Ocean",
+    "de": "Ozean"
+  },
+  "40a7decf": {
+    "en": "Head out from Mirissa harbour at first light in search of blue whales, sperm whales and spinner dolphins. Seeing a blue whale surface beside the boat is something you never forget.",
+    "de": "Fahren Sie bei Tagesanbruch vom Hafen in Mirissa hinaus, auf der Suche nach Blauwalen, Pottwalen und Spinnerdelfinen. Einen Blauwal direkt neben dem Boot auftauchen zu sehen, vergisst man nie."
+  },
+  "c19644e6": {
+    "en": "<1/>Easy<2>An early start, and the sea can be choppy</2>",
+    "de": "<1/>Leicht<2>Früher Start, und das Meer kann unruhig sein</2>"
+  },
+  "8e092805": {
+    "en": "3 to 5 hours<1>Boats leave around dawn</1>",
+    "de": "3 bis 5 Stunden<1>Die Boote legen gegen Tagesanbruch ab</1>"
+  },
+  "537fe377": {
+    "en": "Mirissa: November to April<1>Trincomalee: roughly March to August</1>",
+    "de": "Mirissa: November bis April<1>Trincomalee: etwa März bis August</1>"
+  },
+  "a63f82ff": {
+    "en": "Nature lovers",
+    "de": "Naturliebhaber"
+  },
+  "ffe5988b": {
+    "en": "Add Whale watching to my trip",
+    "de": "Walbeobachtung zu meiner Reise hinzufügen"
+  },
+  "5f10b2e4": {
+    "en": "Ask about whale watching<1> (opens in a new tab)</1> <2/>",
+    "de": "Nach Walbeobachtung fragen<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "b8fec499": {
+    "en": "Boat trips are run by local operators. We’ll plan your stay nearby and get you to the harbour in time.",
+    "de": "Die Bootsausflüge werden von lokalen Anbietern durchgeführt. Wir planen Ihre Unterkunft in der Nähe und bringen Sie rechtzeitig zum Hafen."
+  },
+  "618079e4": {
+    "en": "Mix and match",
+    "de": "Frei kombinieren"
+  },
+  "73e3d2ac": {
+    "en": "Pick a few. We’ll make them flow.",
+    "de": "Wählen Sie ein paar aus. Wir sorgen dafür, dass alles fließt."
+  },
+  "ab7bf493": {
+    "en": "A safari one morning, the train the next, then a few slow days by the sea. Send us your picks on WhatsApp and we’ll reply with a route that links them up, at an easy pace and a fixed price.",
+    "de": "Eines Morgens eine Safari, am nächsten der Zug, danach ein paar ruhige Tage am Meer. Schicken Sie uns Ihre Auswahl per WhatsApp, und wir antworten mit einer Route, die alles verbindet – in entspanntem Tempo und zum Festpreis."
+  },
+  "bf5f7ece": {
+    "en": "<1/>Your own private driver-guide",
+    "de": "<1/>Ihr eigener privater Fahrer-Guide"
+  },
+  "f8acd4ea": {
+    "en": "Your picks",
+    "de": "Ihre Auswahl"
+  },
+  "c9003d89": {
+    "en": "Nothing added yet. Tap “Add to my trip” on any experience.",
+    "de": "Noch nichts hinzugefügt. Tippen Sie bei einem Erlebnis auf „Zu meiner Reise hinzufügen“."
+  },
+  "779aab9d": {
+    "en": "<1/> Send my picks on WhatsApp<2> (opens in a new tab)</2>",
+    "de": "<1/> Meine Auswahl per WhatsApp senden<2> (öffnet in einem neuen Tab)</2>"
+  },
+  "3033026c": {
+    "en": "Add destinations <1/>",
+    "de": "Reiseziele hinzufügen <1/>"
+  }
+}

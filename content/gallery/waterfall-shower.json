@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Under the waterfall",
+    "alt": "A guest standing with arms outstretched on the rocks beneath a cascading waterfall",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 280,
+    "image": "/assets/images/gallery/gal-waterfall-shower-1200.webp"
+  },
+  "de": {
+    "title": "Unter dem Wasserfall",
+    "alt": "Ein Gast steht mit ausgebreiteten Armen auf den Felsen unter einem herabstürzenden Wasserfall"
+  },
+  "fr": {
+    "title": "Sous la cascade",
+    "alt": "Un voyageur debout, bras grands ouverts, sur les rochers au pied d’une cascade"
+  },
+  "ru": {
+    "title": "Под водопадом",
+    "alt": "Гость стоит с раскинутыми руками на камнях под каскадом водопада"
+  },
+  "he": {
+    "title": "מתחת למפל",
+    "alt": "אורח עומד בידיים פרושות על הסלעים מתחת למפל גועש"
+  }
+}

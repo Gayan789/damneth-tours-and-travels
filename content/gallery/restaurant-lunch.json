@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lunch stop",
+    "alt": "A guest at a restaurant table with fried rice and a burger while their driver-guide takes a selfie",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 430,
+    "image": "/assets/images/gallery/gal-restaurant-lunch-1600.webp"
+  },
+  "de": {
+    "title": "Mittagspause",
+    "alt": "Ein Gast an einem Restauranttisch mit gebratenem Reis und einem Burger, während der Fahrer-Guide ein Selfie macht"
+  },
+  "fr": {
+    "title": "Halte déjeuner",
+    "alt": "Un voyageur à une table de restaurant avec du riz frit et un burger pendant que son chauffeur-guide prend un selfie"
+  },
+  "ru": {
+    "title": "Остановка на обед",
+    "alt": "Гость за столиком в ресторане с жареным рисом и бургером, пока водитель-гид делает селфи"
+  },
+  "he": {
+    "title": "עצירה לצהריים",
+    "alt": "אורח ליד שולחן במסעדה עם אורז מטוגן והמבורגר, בזמן שהנהג־מדריך מצלם סלפי"
+  }
+}

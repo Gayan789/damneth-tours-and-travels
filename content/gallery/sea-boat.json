@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Out on the water",
+    "alt": "Guests and their driver-guide in a canopy boat out on the water",
+    "type": "image",
+    "category": "coast",
+    "with_guests": false,
+    "order": 230,
+    "image": "/assets/images/gallery/gal-sea-boat-1600.webp"
+  },
+  "de": {
+    "title": "Auf dem Wasser",
+    "alt": "Gäste und ihr Fahrer-Guide in einem Boot mit Sonnendach draußen auf dem Wasser"
+  },
+  "fr": {
+    "title": "Sur l’eau",
+    "alt": "Des voyageurs et leur chauffeur-guide sur un bateau à toit, au large"
+  },
+  "ru": {
+    "title": "На воде",
+    "alt": "Гости и их водитель-гид в лодке с навесом на воде"
+  },
+  "he": {
+    "title": "על המים",
+    "alt": "אורחים והנהג־מדריך שלהם בסירה עם גגון על המים"
+  }
+}

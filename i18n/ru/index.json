@@ -1,0 +1,736 @@
+{
+  "45926866": {
+    "en": "…great driver who showed us non-touristy spots along the way.",
+    "ru": ""
+  },
+  "47022859": {
+    "en": "Pause background video",
+    "ru": "Приостановить фоновое видео"
+  },
+  "60750444": {
+    "en": "Island-wide, including",
+    "ru": "По всему острову, в том числе"
+  },
+  "65854246": {
+    "en": "<1/>Surf trip transfers",
+    "ru": "<1/>Трансферы для сёрф-поездок"
+  },
+  "67687585": {
+    "en": "Arrival date <1>(if you know it)</1>",
+    "ru": "Дата прилёта <1>(если знаете)</1>"
+  },
+  "70661713": {
+    "en": "<1/>Yala",
+    "ru": "<1/>Яла"
+  },
+  "88301644": {
+    "en": "<1/>Whale watching",
+    "ru": "<1/>Наблюдение за китами"
+  },
+  "_meta": {
+    "language": "ru",
+    "bundle": "index",
+    "status": "draft – needs native review",
+    "about": "Text on index.html. Translate the \"ru\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "31bab6b4": {
+    "en": "Damneth Tours &amp; Travels | Private Driver Tours &amp; Transfers in Sri Lanka",
+    "ru": "Damneth Tours &amp; Travels | Частные туры с водителем и трансферы по Шри-Ланке"
+  },
+  "013e0228": {
+    "en": "Private driver tours, airport transfers and tailor-made itineraries across Sri Lanka. Free planning on WhatsApp and 100% fixed-price quotes with no hidden fuel or toll charges.",
+    "ru": "Частные туры с водителем, трансферы из аэропорта и индивидуальные маршруты по всей Шри-Ланке. Бесплатное планирование в WhatsApp и расчёт по 100% фиксированной цене без скрытых доплат за топливо и платные дороги."
+  },
+  "aed65dcd": {
+    "en": "Private driver tours across Sri Lanka",
+    "ru": "Частные туры с водителем по всей Шри-Ланке"
+  },
+  "f2fb9ef4": {
+    "en": "See the best of Sri Lanka. <1>Leave the driving to us.</1>",
+    "ru": "Откройте лучшее на Шри-Ланке. <1>За рулём — мы.</1>"
+  },
+  "71b072cf": {
+    "en": "Private driver tours, airport transfers and tailor-made itineraries, planned free with you on WhatsApp. One fixed price, with fuel, tolls and your driver's stay already included.",
+    "ru": "Частные туры с водителем, трансферы из аэропорта и индивидуальные маршруты — бесплатно спланируем вместе с вами в WhatsApp. Одна фиксированная цена, в которую уже входят топливо, платные дороги и проживание водителя."
+  },
+  "6d495db5": {
+    "en": "<1/>24/7 WhatsApp support",
+    "ru": "<1/>Поддержка в WhatsApp 24/7"
+  },
+  "f5e71ca8": {
+    "en": "Starting prices",
+    "ru": "Стартовые цены"
+  },
+  "a1ac4fd6": {
+    "en": "Day transfers<1>Island-wide</1>",
+    "ru": "Трансферы на день<1>По всему острову</1>"
+  },
+  "d39393d8": {
+    "en": "Itinerary planning<1>On WhatsApp</1>",
+    "ru": "Составление маршрута<1>В WhatsApp</1>"
+  },
+  "2c25c5ad": {
+    "en": "<1/>Colombo",
+    "ru": "<1/>Коломбо"
+  },
+  "09910f50": {
+    "en": "<1/>Sigiriya",
+    "ru": "<1/>Сигирия"
+  },
+  "5c705d7b": {
+    "en": "<1/>Kandy",
+    "ru": "<1/>Канди"
+  },
+  "c8dd86de": {
+    "en": "<1/>Ella",
+    "ru": "<1/>Элла"
+  },
+  "a7672856": {
+    "en": "<1/>Galle",
+    "ru": "<1/>Галле"
+  },
+  "0577b7e7": {
+    "en": "<1/>East Coast",
+    "ru": "<1/>Восточное побережье"
+  },
+  "1c42d73c": {
+    "en": "Damneth in numbers",
+    "ru": "Damneth в цифрах"
+  },
+  "7738a74c": {
+    "en": "Years of experience",
+    "ru": "Лет опыта"
+  },
+  "e6238332": {
+    "en": "Satisfied travellers",
+    "ru": "Довольных путешественников"
+  },
+  "95153cfc": {
+    "en": "Safe driving record",
+    "ru": "Безопасного вождения"
+  },
+  "104756ba": {
+    "en": "WhatsApp travel support",
+    "ru": "Поддержка в поездке через WhatsApp"
+  },
+  "ff4b3ac9": {
+    "en": "Why travellers choose Damneth",
+    "ru": "Почему путешественники выбирают Damneth"
+  },
+  "a1d776b3": {
+    "en": "A friendly local partner for your whole trip",
+    "ru": "Дружелюбный местный партнёр на всё путешествие"
+  },
+  "2909dbd5": {
+    "en": "When you travel with us, you're choosing a reliable, friendly local partner who takes care of every travel detail, so you can just relax and enjoy Sri Lanka.",
+    "ru": "Путешествуя с нами, вы выбираете надёжного и дружелюбного местного партнёра, который позаботится о каждой мелочи, — а вам останется только отдыхать и наслаждаться Шри-Ланкой."
+  },
+  "e5d1ce90": {
+    "en": "We're based in Sri Lanka, with direct local driver expertise. That means no driving on unfamiliar roads, no worrying about getting overcharged on transport, and pricing that is 100% transparent and all-inclusive.",
+    "ru": "Мы находимся в Шри-Ланке, и наши водители отлично знают местные дороги. Значит, не нужно ездить по незнакомым дорогам, не нужно бояться переплатить за транспорт, а цены на 100% прозрачные и всё включено."
+  },
+  "8b466afc": {
+    "en": "Planned with you, free",
+    "ru": "Планируем вместе, бесплатно"
+  },
+  "c25a9778": {
+    "en": "Free itinerary planning and consultation on WhatsApp, shaped around the places you want to see.",
+    "ru": "Бесплатное составление маршрута и консультации в WhatsApp — с учётом мест, которые вы хотите увидеть."
+  },
+  "a2bba95d": {
+    "en": "One fixed price",
+    "ru": "Одна фиксированная цена"
+  },
+  "bbb46189": {
+    "en": "100% fixed-price quotes. No hidden fuel or toll charges, and no surprise accommodation fees for your driver.",
+    "ru": "Расчёт по 100% фиксированной цене. Без скрытых доплат за топливо и платные дороги и без неожиданных счетов за проживание водителя."
+  },
+  "b1c33053": {
+    "en": "Local driver-guides",
+    "ru": "Местные водители-гиды"
+  },
+  "74a9e3a3": {
+    "en": "Safe, punctual drivers who know the island, including the non-touristy spots along the way.",
+    "ru": "Аккуратные и пунктуальные водители, которые знают остров, в том числе места, куда не ездят туристы."
+  },
+  "f6992216": {
+    "en": "Start planning for free <1/>",
+    "ru": "Начать планирование бесплатно <1/>"
+  },
+  "0ce331d5": {
+    "en": "Two guests and their driver-guide at a table on a wooden terrace looking out over green hills",
+    "ru": "Двое гостей и их водитель-гид за столом на деревянной террасе с видом на зелёные холмы"
+  },
+  "8f21ce64": {
+    "en": "Two guests and their driver-guide taking a selfie in front of green mountains",
+    "ru": "Двое гостей и их водитель-гид делают селфи на фоне зелёных гор"
+  },
+  "5b967669": {
+    "en": "Guest review",
+    "ru": "Отзыв гостя"
+  },
+  "a39b9d3a": {
+    "en": "What we do",
+    "ru": "Чем мы занимаемся"
+  },
+  "4e95e860": {
+    "en": "Tours, transfers and everything in between",
+    "ru": "Туры, трансферы и всё, что между ними"
+  },
+  "e621f330": {
+    "en": "Choose a full island round trip, or just the pieces you need. Every quote is fixed, and the planning is free.",
+    "ru": "Выберите полный тур по острову или только то, что вам нужно. Цена в каждом расчёте фиксированная, а планирование — бесплатное."
+  },
+  "7460cd2c": {
+    "en": "Island round trips",
+    "ru": "Туры по острову"
+  },
+  "47094c09": {
+    "en": "Multi-day private driver tours",
+    "ru": "Многодневные частные туры с водителем"
+  },
+  "7f7db5fe": {
+    "en": "7, 10 or 14-day round trips with your own vehicle and driver-guide, planned around the places you want to see.",
+    "ru": "Туры на 7, 10 или 14 дней с собственным автомобилем и водителем-гидом, спланированные вокруг мест, которые вы хотите увидеть."
+  },
+  "29a92a1f": {
+    "en": "Trip lengths",
+    "ru": "Продолжительность"
+  },
+  "0a8dd6ad": {
+    "en": "7 days",
+    "ru": "7 дней"
+  },
+  "488d8aa5": {
+    "en": "10 days",
+    "ru": "10 дней"
+  },
+  "176e595a": {
+    "en": "14 days",
+    "ru": "14 дней"
+  },
+  "e6dce730": {
+    "en": "From <1/> per day, vehicle + driver-guide",
+    "ru": "От <1/> в день, автомобиль + водитель-гид"
+  },
+  "e9000a0f": {
+    "en": "Plan my round trip <1/>",
+    "ru": "Спланировать тур <1/>"
+  },
+  "5d9b8b0f": {
+    "en": "Two guests with their driver-guide on the pavement outside the airport, a luggage trolley behind them",
+    "ru": "Двое гостей с водителем-гидом на тротуаре у аэропорта, позади них багажная тележка"
+  },
+  "755574b7": {
+    "en": "Airport transfers",
+    "ru": "Трансферы из аэропорта"
+  },
+  "0c41d2b7": {
+    "en": "Pick-up and drop-off at Bandaranaike International Airport, so your holiday starts the moment you land.",
+    "ru": "Встреча и проводы в международном аэропорту Бандаранаике — отдых начинается с момента посадки."
+  },
+  "255a8cb1": {
+    "en": "From <1/>",
+    "ru": "От <1/>"
+  },
+  "c3cc4e3b": {
+    "en": "Book a transfer <1/>",
+    "ru": "Заказать трансфер <1/>"
+  },
+  "b931e5d6": {
+    "en": "Travellers in an open safari jeep watching a wild elephant on the grassland",
+    "ru": "Путешественники в открытом сафари-джипе наблюдают за диким слоном на равнине"
+  },
+  "232a0be0": {
+    "en": "Day tours &amp; excursions",
+    "ru": "Экскурсии на день"
+  },
+  "25f8b7ad": {
+    "en": "Yala safari, Sigiriya rock fortress and a Kandy cultural tour, with your own driver-guide.",
+    "ru": "Сафари в Яле, скальная крепость Сигирия и культурный тур по Канди — с вашим собственным водителем-гидом."
+  },
+  "4f7f4319": {
+    "en": "Plan a day tour <1/>",
+    "ru": "Спланировать экскурсию <1/>"
+  },
+  "bd25eca8": {
+    "en": "Surf trip transfers",
+    "ru": "Трансферы для сёрф-поездок"
+  },
+  "30de525c": {
+    "en": "Easy private transfers to the coast, so you can spend your days in the water.",
+    "ru": "Удобные частные трансферы к побережью — чтобы вы проводили дни в воде."
+  },
+  "2ebafec8": {
+    "en": "Plan a surf trip <1/>",
+    "ru": "Спланировать сёрф-поездку <1/>"
+  },
+  "6baccb6f": {
+    "en": "Four guests wearing orchid garlands in a hotel lobby with their driver-guide",
+    "ru": "Четверо гостей с гирляндами из орхидей в холле отеля вместе с водителем-гидом"
+  },
+  "715ea66b": {
+    "en": "Hotel &amp; resort bookings",
+    "ru": "Бронирование отелей и курортов"
+  },
+  "75c24445": {
+    "en": "Help choosing and booking places to stay that suit your route and your style of travel.",
+    "ru": "Поможем выбрать и забронировать жильё под ваш маршрут и стиль путешествия."
+  },
+  "af477de1": {
+    "en": "Get booking help <1/>",
+    "ru": "Помощь с бронированием <1/>"
+  },
+  "ebe65bf6": {
+    "en": "Not sure what you need?",
+    "ru": "Не знаете, что выбрать?"
+  },
+  "6994bb41": {
+    "en": "Tell us your dates and ideas on WhatsApp. We'll suggest a plan for free.",
+    "ru": "Напишите нам в WhatsApp даты и идеи. Мы бесплатно предложим план."
+  },
+  "41685be4": {
+    "en": "Chat on WhatsApp<1> (opens in a new tab)</1> <2/>",
+    "ru": "Написать в WhatsApp<1> (откроется в новой вкладке)</1> <2/>"
+  },
+  "cbfd9c36": {
+    "en": "Where we'll take you",
+    "ru": "Куда мы вас отвезём"
+  },
+  "63c0a34b": {
+    "en": "From the hill country to the coast, island-wide",
+    "ru": "От гор до побережья, по всему острову"
+  },
+  "fe97abe5": {
+    "en": "Add the places you'd love to see. We'll carry them straight into your quote request.",
+    "ru": "Добавьте места, которые хотите увидеть. Мы сразу перенесём их в ваш запрос."
+  },
+  "d46e092b": {
+    "en": "Previous destinations",
+    "ru": "Предыдущие направления"
+  },
+  "a6048dc6": {
+    "en": "Next destinations",
+    "ru": "Следующие направления"
+  },
+  "c210b057": {
+    "en": "West coast",
+    "ru": "Западное побережье"
+  },
+  "e44911b6": {
+    "en": "Colombo",
+    "ru": "Коломбо"
+  },
+  "f6518d1d": {
+    "en": "The lively capital. An easy first or last stop on your trip.",
+    "ru": "Оживлённая столица. Удобная первая или последняя остановка в поездке."
+  },
+  "8f94d9d5": {
+    "en": "Climb the 5th-century rock fortress on a day tour or as part of your round trip.",
+    "ru": "Поднимитесь на скальную крепость V века — на однодневной экскурсии или в рамках тура."
+  },
+  "e819c92a": {
+    "en": "Home of the Temple of the Sacred Tooth Relic, and our Kandy cultural tour.",
+    "ru": "Здесь находится Храм Зуба Будды и проходит наш культурный тур по Канди."
+  },
+  "c9e03f41": {
+    "en": "Tea-covered hills, big viewpoints and the famous train ride into the mountains.",
+    "ru": "Холмы в чайных плантациях, захватывающие смотровые площадки и знаменитая поездка на поезде в горы."
+  },
+  "81a3a15e": {
+    "en": "Deep south",
+    "ru": "Крайний юг"
+  },
+  "d35822ce": {
+    "en": "Jeep safaris in search of leopards and elephants, with your safari bookings handled for you.",
+    "ru": "Сафари на джипах в поисках леопардов и слонов — бронирование сафари мы берём на себя."
+  },
+  "05d3f9ab": {
+    "en": "South coast",
+    "ru": "Южное побережье"
+  },
+  "906ae32c": {
+    "en": "Walk the old fort walls and down to the lighthouse as the sun goes down.",
+    "ru": "Прогуляйтесь по старым стенам форта к маяку на закате."
+  },
+  "8086c09c": {
+    "en": "East coast",
+    "ru": "Восточное побережье"
+  },
+  "8ef28e62": {
+    "en": "Quieter beaches, wide bays and surf, linked up with our surf trip transfers.",
+    "ru": "Более спокойные пляжи, широкие бухты и сёрфинг — с нашими трансферами для сёрф-поездок."
+  },
+  "ac234514": {
+    "en": "Add East Coast to my trip",
+    "ru": "Добавить Восточное побережье в мою поездку"
+  },
+  "cc25bd49": {
+    "en": "Nothing added yet. Tap “Add to my trip” on any place you like.",
+    "ru": "Пока ничего не добавлено. Нажмите «Добавить в поездку» у любого места, которое вам нравится."
+  },
+  "d6d3606c": {
+    "en": "Continue to planner <1/>",
+    "ru": "Перейти к планированию <1/>"
+  },
+  "cf7174c4": {
+    "en": "The rear of a clean white Toyota HiAce van parked beside greenery",
+    "ru": "Задняя часть чистого белого минивэна Toyota HiAce, припаркованного у зелени"
+  },
+  "a0df38dd": {
+    "en": "View through an open car door to the steering wheel, with a sunset sky beyond",
+    "ru": "Вид через открытую дверь автомобиля на руль, за ним закатное небо"
+  },
+  "32c2531d": {
+    "en": "<1/>Your fixed-price quote",
+    "ru": "<1/>Ваш расчёт по фиксированной цене"
+  },
+  "50f7f410": {
+    "en": "Private vehicle<1>: included</1><2/>",
+    "ru": "Личный автомобиль<1>: включено</1><2/>"
+  },
+  "f5440b72": {
+    "en": "Driver-guide<1>: included</1><2/>",
+    "ru": "Водитель-гид<1>: включено</1><2/>"
+  },
+  "0b494620": {
+    "en": "Fuel<1>: included</1><2/>",
+    "ru": "Топливо<1>: включено</1><2/>"
+  },
+  "b977d1f5": {
+    "en": "Highway tolls<1>: included</1><2/>",
+    "ru": "Платные трассы<1>: включено</1><2/>"
+  },
+  "294a8514": {
+    "en": "Driver's accommodation<1>: included</1><2/>",
+    "ru": "Проживание водителя<1>: включено</1><2/>"
+  },
+  "f1588e4d": {
+    "en": "Hidden extras",
+    "ru": "Скрытые доплаты"
+  },
+  "6eef6648": {
+    "en": "None",
+    "ru": "Нет"
+  },
+  "aefc9244": {
+    "en": "Itinerary planning on WhatsApp: always free.",
+    "ru": "Составление маршрута в WhatsApp: всегда бесплатно."
+  },
+  "273174b9": {
+    "en": "Our promise",
+    "ru": "Наше обещание"
+  },
+  "e88bd9ab": {
+    "en": "One fixed price. Nothing added halfway.",
+    "ru": "Одна фиксированная цена. Никаких доплат в пути."
+  },
+  "2bac9087": {
+    "en": "The price on your quote is the price you pay. No fuel surcharges, no toll top-ups, no surprise bills for your driver's accommodation.",
+    "ru": "Цена в расчёте — это цена, которую вы платите. Никаких надбавок за топливо, доплат за платные дороги и неожиданных счетов за проживание водителя."
+  },
+  "11058df7": {
+    "en": "Common worries, answered",
+    "ru": "Частые опасения — и наши ответы"
+  },
+  "ac055c25": {
+    "en": "<1/> Getting an unsafe driver? <2/>",
+    "ru": "<1/> Боитесь попасть к ненадёжному водителю? <2/>"
+  },
+  "efa9af0b": {
+    "en": "We have a 100% safe driving record, built over 8+ years and more than 1,500 travellers. Our guests say it too: “Safe driving, super punctual.”",
+    "ru": "У нас 100% безопасного вождения — за 8+ лет и более чем 1500 путешественников. Наши гости тоже это отмечают: «Безопасное вождение, очень пунктуально»."
+  },
+  "71d3d0f7": {
+    "en": "<1/> Fuel or toll fees halfway through? <2/>",
+    "ru": "<1/> Доплаты за топливо или дороги посреди поездки? <2/>"
+  },
+  "c61fb20f": {
+    "en": "Never. Your quote is 100% fixed, with fuel and highway tolls already included, and no surprise accommodation fees for your driver.",
+    "ru": "Никогда. Ваша цена фиксирована на 100%: топливо и платные трассы уже включены, и никаких неожиданных счетов за проживание водителя."
+  },
+  "55f767af": {
+    "en": "<1/> The condition of the vehicle? <2/>",
+    "ru": "<1/> Состояние автомобиля? <2/>"
+  },
+  "8e5aae4e": {
+    "en": "Guests describe a “comfortable van”. Ask us anything about your vehicle on WhatsApp before you book. The chat is free.",
+    "ru": "Гости называют его «удобным минивэном». Перед бронированием спросите нас в WhatsApp обо всём, что касается автомобиля. Это бесплатно."
+  },
+  "d7bfc89d": {
+    "en": "<1/> Being rushed through the sights? <2/>",
+    "ru": "<1/> Спешка на экскурсиях? <2/>"
+  },
+  "8dc01d35": {
+    "en": "Your itinerary is tailored to you and planned with you in advance, so the days run at the pace you choose.",
+    "ru": "Маршрут составляется под вас и заранее согласуется с вами, поэтому дни проходят в выбранном вами темпе."
+  },
+  "f0e1aae8": {
+    "en": "A blue train crossing the Nine Arch Bridge near Ella, surrounded by green hills",
+    "ru": "Синий поезд идёт по мосту Девяти арок возле Эллы среди зелёных холмов"
+  },
+  "4070ac87": {
+    "en": "Aerial view of a coastal road running beside a sandy beach and turquoise sea",
+    "ru": "Вид сверху на прибрежную дорогу вдоль песчаного пляжа и бирюзового моря"
+  },
+  "25fb375d": {
+    "en": "Trip at a glance",
+    "ru": "Поездка в цифрах"
+  },
+  "5548ae4f": {
+    "en": "days",
+    "ru": "дней"
+  },
+  "0ba03e3f": {
+    "en": "travellers",
+    "ru": "путешественников"
+  },
+  "24c81b44": {
+    "en": "delays",
+    "ru": "задержек"
+  },
+  "a45f6540": {
+    "en": "A trip we're proud of",
+    "ru": "Поездка, которой мы гордимся"
+  },
+  "c6336565": {
+    "en": "12 days, a family of five, and not a single delay",
+    "ru": "12 дней, семья из пяти человек и ни одной задержки"
+  },
+  "3620b6e0": {
+    "en": "We organised a 12-day full island tour for a family of five, from the airport to the coast, with every booking along the way taken care of.",
+    "ru": "Мы организовали 12-дневный тур по всему острову для семьи из пяти человек — от аэропорта до побережья, взяв на себя все бронирования по пути."
+  },
+  "e1d96597": {
+    "en": "Airport pick-up",
+    "ru": "Встреча в аэропорту"
+  },
+  "a5d79cd4": {
+    "en": "Met on arrival at Bandaranaike International Airport.",
+    "ru": "Встретили по прилёте в международном аэропорту Бандаранаике."
+  },
+  "a57c5098": {
+    "en": "Safari bookings in Yala",
+    "ru": "Бронирование сафари в Яле"
+  },
+  "3ec845d5": {
+    "en": "Safaris booked in advance, so there was nothing to arrange on the day.",
+    "ru": "Сафари забронировали заранее, так что в тот день ничего не нужно было устраивать."
+  },
+  "6451f1f3": {
+    "en": "Train tickets to Ella",
+    "ru": "Билеты на поезд до Эллы"
+  },
+  "aaa39d1f": {
+    "en": "Tickets sorted for the hill-country train ride.",
+    "ru": "Билеты на поезд через горы — организованы."
+  },
+  "a2231eda": {
+    "en": "Coastal transfers",
+    "ru": "Трансферы вдоль побережья"
+  },
+  "c3a53929": {
+    "en": "Private transfers along the coast to round off the trip.",
+    "ru": "Частные трансферы вдоль побережья в завершение поездки."
+  },
+  "9e2bf8b6": {
+    "en": "Zero delays. One 5-star review.",
+    "ru": "Ноль задержек. Один отзыв на 5 звёзд."
+  },
+  "3608bf17": {
+    "en": "The whole trip went without a single delay, and the family left us a 5-star review.",
+    "ru": "Вся поездка прошла без единой задержки, а семья оставила нам отзыв на 5 звёзд."
+  },
+  "a2c2b274": {
+    "en": "Traveller reviews",
+    "ru": "Отзывы путешественников"
+  },
+  "24729e09": {
+    "en": "Kind words from the road",
+    "ru": "Добрые слова с дороги"
+  },
+  "771025ea": {
+    "en": "Quoted exactly as our guests wrote them.",
+    "ru": "Приводим дословно, как их написали наши гости (на английском)."
+  },
+  "d6789664": {
+    "en": "satisfied travellers and counting",
+    "ru": "довольных путешественников, и их всё больше"
+  },
+  "6fcee3d2": {
+    "en": "Damneth was amazing! Organized our trip smoothly. Comfortable van, great driver who showed us non-touristy spots along the way. 10/10 service!",
+    "ru": ""
+  },
+  "1b337725": {
+    "en": "<1/>Guest review",
+    "ru": "<1/>Отзыв гостя"
+  },
+  "eb21ef4c": {
+    "en": "Very professional tour service. Safe driving, super punctual, and reasonable prices compared to big agencies",
+    "ru": ""
+  },
+  "05452ca6": {
+    "en": "Tell us your dream route. We'll plan it with you, free.",
+    "ru": "Расскажите о маршруте мечты. Мы спланируем его вместе с вами бесплатно."
+  },
+  "5ab8c9c0": {
+    "en": "Share a few details and we'll come back with a suggested itinerary and a 100% fixed-price quote.",
+    "ru": "Расскажите немного о поездке, и мы пришлём вариант маршрута и расчёт по 100% фиксированной цене."
+  },
+  "ea0fb21f": {
+    "en": "Share your plans",
+    "ru": "Расскажите о планах"
+  },
+  "f69c0aa6": {
+    "en": "Dates, who's travelling and the places you'd love to see.",
+    "ru": "Даты, кто едет и какие места вы хотите увидеть."
+  },
+  "83ef01fd": {
+    "en": "Get your route and fixed quote",
+    "ru": "Получите маршрут и фиксированную цену"
+  },
+  "ac506fc9": {
+    "en": "We plan it with you on WhatsApp, free, until it feels right.",
+    "ru": "Мы планируем вместе с вами в WhatsApp, бесплатно, пока всё не будет так, как нужно."
+  },
+  "06a50ee5": {
+    "en": "Arrive and relax",
+    "ru": "Прилетайте и отдыхайте"
+  },
+  "4ec8e051": {
+    "en": "Your driver-guide takes care of the rest.",
+    "ru": "Обо всём остальном позаботится ваш водитель-гид."
+  },
+  "0902acf4": {
+    "en": "Prefer to just chat? We're on WhatsApp 24/7.",
+    "ru": "Хотите просто пообщаться? Мы в WhatsApp 24/7."
+  },
+  "0d481dbe": {
+    "en": "on WhatsApp (opens in a new tab)",
+    "ru": "в WhatsApp (откроется в новой вкладке)"
+  },
+  "6d3cb928": {
+    "en": "Request your free quote",
+    "ru": "Запросите бесплатный расчёт"
+  },
+  "9cc68af7": {
+    "en": "Only your name is required. Everything else helps us plan.",
+    "ru": "Обязательно только имя. Остальное поможет нам в планировании."
+  },
+  "ab42293e": {
+    "en": "Your name",
+    "ru": "Ваше имя"
+  },
+  "d41e2a7e": {
+    "en": "Email <1>(optional)</1>",
+    "ru": "Email <1>(необязательно)</1>"
+  },
+  "53bbe16b": {
+    "en": "Number of travellers",
+    "ru": "Количество путешественников"
+  },
+  "44b47700": {
+    "en": "Sample journey",
+    "ru": "Пример маршрута"
+  },
+  "f9d99850": {
+    "en": "Trip length",
+    "ru": "Продолжительность поездки"
+  },
+  "c3ce6f43": {
+    "en": "<1/>7 days",
+    "ru": "<1/>7 дней"
+  },
+  "82869fef": {
+    "en": "<1/>10 days",
+    "ru": "<1/>10 дней"
+  },
+  "537ee620": {
+    "en": "<1/>14 days",
+    "ru": "<1/>14 дней"
+  },
+  "bec0d778": {
+    "en": "<1/>Not sure yet",
+    "ru": "<1/>Пока не знаю"
+  },
+  "cf08632e": {
+    "en": "Places you'd like to see",
+    "ru": "Места, которые хотите увидеть"
+  },
+  "270de53f": {
+    "en": "<1/>Yala safari",
+    "ru": "<1/>Сафари в Яле"
+  },
+  "836c6a1f": {
+    "en": "<1/>Ella train ride",
+    "ru": "<1/>Поездка на поезде в Эллу"
+  },
+  "623dbdd3": {
+    "en": "<1/>Surfing",
+    "ru": "<1/>Сёрфинг"
+  },
+  "127c6d90": {
+    "en": "<1/>Tea plantation walk",
+    "ru": "<1/>Прогулка по чайной плантации"
+  },
+  "b640d375": {
+    "en": "Also interested in",
+    "ru": "Также интересует"
+  },
+  "da08297a": {
+    "en": "<1/>Airport transfers",
+    "ru": "<1/>Трансферы из аэропорта"
+  },
+  "01360909": {
+    "en": "<1/>Day tours &amp; excursions",
+    "ru": "<1/>Экскурсии на день"
+  },
+  "28267cb2": {
+    "en": "<1/>Hotel &amp; resort bookings",
+    "ru": "<1/>Бронирование отелей и курортов"
+  },
+  "d72bcf5b": {
+    "en": "Anything else? <1>(optional)</1>",
+    "ru": "Что-нибудь ещё? <1>(необязательно)</1>"
+  },
+  "66d79fa5": {
+    "en": "Must-sees, pace, special occasions, questions…",
+    "ru": "Обязательные места, темп, особые поводы, вопросы…"
+  },
+  "84fa3ada": {
+    "en": "<1/> Send on WhatsApp",
+    "ru": "<1/> Отправить в WhatsApp"
+  },
+  "b69020e2": {
+    "en": "<1/> Send by email",
+    "ru": "<1/> Отправить по почте"
+  },
+  "11cac7f7": {
+    "en": "Both buttons open your own WhatsApp or email app with your details filled in, ready to send.",
+    "ru": "Обе кнопки открывают ваше приложение WhatsApp или почты с уже заполненными данными — останется только отправить."
+  },
+  "d1dbebe9": {
+    "en": "Not ready to plan yet?",
+    "ru": "Ещё не готовы планировать?"
+  },
+  "06579da0": {
+    "en": "Browse sample 7, 10 and <1>14-day</1> journeys",
+    "ru": "Примеры маршрутов на 7, 10 и <1>14 дней</1>"
+  },
+  "fdf9b114": {
+    "en": "See how one or two weeks across the island could look, with a day-by-day plan for each, then make it your own.",
+    "ru": "Посмотрите, как могут выглядеть одна или две недели на острове, с планом по дням для каждого маршрута, — и сделайте его своим."
+  },
+  "8aa80223": {
+    "en": "View sample journeys <1/>",
+    "ru": "Смотреть примеры маршрутов <1/>"
+  },
+  "2888b04f": {
+    "en": "Or start a custom plan <1/>",
+    "ru": "Или начать индивидуальный план <1/>"
+  },
+  "96a384e8": {
+    "en": "A traveller leaning out of a train window as it winds through tea country",
+    "ru": "Путешественник высовывается из окна поезда, который петляет среди чайных плантаций"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "All smiles",
+    "alt": "Two guests and their driver-guide giving a thumbs-up indoors",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 450,
+    "image": "/assets/images/gallery/gal-indoor-smiles-1600.webp"
+  },
+  "de": {
+    "title": "Strahlende Gesichter",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide zeigen drinnen den Daumen nach oben"
+  },
+  "fr": {
+    "title": "Tout sourire",
+    "alt": "Deux voyageurs et leur chauffeur-guide levant le pouce à l’intérieur"
+  },
+  "ru": {
+    "title": "Сплошные улыбки",
+    "alt": "Двое гостей и их водитель-гид в помещении показывают большой палец вверх"
+  },
+  "he": {
+    "title": "כולם מחייכים",
+    "alt": "שני אורחים והנהג־מדריך שלהם מרימים אגודל בתוך מבנה"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Palms above the sea",
+    "alt": "A guest and their driver-guide taking a selfie above the sea, with tall palms behind",
+    "type": "image",
+    "category": "coast",
+    "with_guests": true,
+    "order": 150,
+    "image": "/assets/images/gallery/gal-coastal-palms-1600.webp"
+  },
+  "de": {
+    "title": "Palmen über dem Meer",
+    "alt": "Ein Gast und sein Fahrer-Guide machen ein Selfie über dem Meer, dahinter hohe Palmen"
+  },
+  "fr": {
+    "title": "Palmiers au-dessus de la mer",
+    "alt": "Un voyageur et son chauffeur-guide prenant un selfie au-dessus de la mer, devant de hauts palmiers"
+  },
+  "ru": {
+    "title": "Пальмы над морем",
+    "alt": "Гость и водитель-гид делают селфи над морем, позади высокие пальмы"
+  },
+  "he": {
+    "title": "דקלים מעל הים",
+    "alt": "אורח והנהג־מדריך שלו מצטלמים בסלפי מעל הים, ועצי דקל גבוהים מאחוריהם"
+  }
+}

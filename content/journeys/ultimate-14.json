@@ -1,0 +1,627 @@
+{
+  "en": {
+    "anchor": "ultimate-14",
+    "order": 3,
+    "title": "14-Day Ultimate",
+    "eyebrow": "The whole island",
+    "intro": "Two weeks to see it all: the sacred northern cities, the east coast beaches, the highlands, a safari and the south. Best from May to September, when the east coast is calm.",
+    "main_image": "/assets/images/dest-east-coast-1600.webp",
+    "main_alt": "Waves breaking against dark rocks beside a clear turquoise sea",
+    "second_image": "/assets/images/dest-anuradhapura-1000.webp",
+    "second_alt": "A great white dagoba rising behind palm trees under a clear blue sky in Anuradhapura",
+    "third_image": "/assets/images/dest-horton-plains-1000.webp",
+    "third_alt": "A sheer, grassy cliff edge dropping into a misty valley far below",
+    "route": [
+      "Airport",
+      "Negombo",
+      "Anuradhapura",
+      "Sigiriya",
+      "Trincomalee",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "AC private vehicle"
+      },
+      {
+        "icon": "chat",
+        "text": "English-speaking driver"
+      },
+      {
+        "icon": "fuel",
+        "text": "All tolls & fuel included"
+      },
+      {
+        "icon": "bed",
+        "text": "Hotel booking assistance"
+      }
+    ],
+    "days": [
+      {
+        "title": "Airport to Negombo",
+        "text": "Your driver meets you at arrivals. A short drive to Negombo for a gentle first evening by the sea.",
+        "stay": "Overnight: Negombo",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Anuradhapura",
+        "text": "North to Sri Lanka’s first great capital: giant white dagobas and the sacred Sri Maha Bodhi tree.",
+        "stay": "Overnight: Anuradhapura",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Mihintale to Sigiriya",
+        "text": "Climb the stone steps at Mihintale, where Buddhism is said to have arrived in Sri Lanka, then on to Sigiriya.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya and Dambulla",
+        "text": "Sigiriya Rock at opening time, then the painted cave temples at Dambulla.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa and Minneriya",
+        "text": "Cycle the ruins of Polonnaruwa, then an afternoon elephant safari at Minneriya or Kaudulla.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "East to Trincomalee",
+        "text": "Across to the east coast for an afternoon on the white sand at Nilaveli or Uppuveli.",
+        "stay": "Overnight: Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Pigeon Island",
+        "text": "Snorkel among reef fish at Pigeon Island, then visit Koneswaram Temple on its clifftop.",
+        "stay": "Overnight: Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Back into the hills",
+        "text": "A long, scenic drive west and up into the hills to Kandy, in time for the evening puja.",
+        "stay": "Overnight: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Tea country",
+        "text": "Up through tea estates and waterfalls to Nuwara Eliya, with a tea factory visit.",
+        "stay": "Overnight: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Horton Plains to Ella",
+        "text": "An early walk to World’s End on Horton Plains, then on to Ella.",
+        "stay": "Overnight: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "A free day in Ella",
+        "text": "Little Adam’s Peak, the Nine Arches Bridge and Ella’s cafés, at your own pace.",
+        "stay": "Overnight: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Yala",
+        "text": "Down to the lowlands for an afternoon jeep safari in Yala.",
+        "stay": "Overnight: Near Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "The south coast",
+        "text": "West along the coast to Mirissa for an afternoon on the beach.",
+        "stay": "Overnight: Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle and the airport",
+        "text": "A morning in Galle Fort, then the expressway to the airport for your flight.",
+        "stay": "Airport drop-off",
+        "stay_icon": "plane"
+      }
+    ],
+    "note": "Travelling between October and January? We’ll suggest swapping the east coast days for more time on the south coast."
+  },
+  "de": {
+    "title": "Große 14-Tage-Rundreise",
+    "eyebrow": "Die ganze Insel",
+    "intro": "Zwei Wochen, um alles zu sehen: die heiligen Städte im Norden, die Strände der Ostküste, das Hochland, eine Safari und den Süden. Am schönsten von Mai bis September, wenn die Ostküste ruhig ist.",
+    "main_alt": "Wellen brechen an dunklen Felsen neben klarem, türkisfarbenem Meer",
+    "second_alt": "Eine große weiße Dagoba hinter Palmen unter klarem blauem Himmel in Anuradhapura",
+    "third_alt": "Eine steile, grasbewachsene Felskante, die in ein nebliges Tal weit unten abfällt",
+    "note": "Sie reisen zwischen Oktober und Januar? Dann schlagen wir vor, die Tage an der Ostküste gegen mehr Zeit an der Südküste zu tauschen.",
+    "route": [
+      "Flughafen",
+      "Negombo",
+      "Anuradhapura",
+      "Sigiriya",
+      "Trincomalee",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Privatfahrzeug mit Klimaanlage"
+      },
+      {
+        "icon": "chat",
+        "text": "Englischsprachiger Fahrer"
+      },
+      {
+        "icon": "fuel",
+        "text": "Alle Mautgebühren & Sprit inklusive"
+      },
+      {
+        "icon": "bed",
+        "text": "Hilfe bei der Hotelbuchung"
+      }
+    ],
+    "days": [
+      {
+        "title": "Vom Flughafen nach Negombo",
+        "text": "Ihr Fahrer empfängt Sie in der Ankunftshalle. Eine kurze Fahrt nach Negombo für einen ruhigen ersten Abend am Meer.",
+        "stay": "Übernachtung: Negombo",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Anuradhapura",
+        "text": "Nach Norden in Sri Lankas erste große Hauptstadt: riesige weiße Dagobas und der heilige Baum Sri Maha Bodhi.",
+        "stay": "Übernachtung: Anuradhapura",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Von Mihintale nach Sigiriya",
+        "text": "Steigen Sie die Steinstufen von Mihintale hinauf, wo der Buddhismus der Überlieferung nach Sri Lanka erreichte, dann weiter nach Sigiriya.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya und Dambulla",
+        "text": "Der Sigiriya-Felsen gleich zur Öffnung, dann die bemalten Höhlentempel von Dambulla.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa und Minneriya",
+        "text": "Mit dem Fahrrad durch die Ruinen von Polonnaruwa, dann eine Elefanten-Safari am Nachmittag in Minneriya oder Kaudulla.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Nach Osten bis Trincomalee",
+        "text": "Hinüber an die Ostküste für einen Nachmittag am weißen Sandstrand von Nilaveli oder Uppuveli.",
+        "stay": "Übernachtung: Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Pigeon Island",
+        "text": "Schnorcheln zwischen Rifffischen an der Pigeon Island, dann ein Besuch des Koneswaram-Tempels auf seiner Klippe.",
+        "stay": "Übernachtung: Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Zurück in die Berge",
+        "text": "Eine lange, landschaftlich schöne Fahrt nach Westen und hinauf in die Berge nach Kandy, rechtzeitig zur Abend-Puja.",
+        "stay": "Übernachtung: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Im Teeland",
+        "text": "Hinauf durch Teeplantagen und vorbei an Wasserfällen nach Nuwara Eliya, mit Besuch einer Teefabrik.",
+        "stay": "Übernachtung: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Von den Horton Plains nach Ella",
+        "text": "Früh am Morgen zu Fuß zum World’s End auf den Horton Plains, dann weiter nach Ella.",
+        "stay": "Übernachtung: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Ein freier Tag in Ella",
+        "text": "Little Adam’s Peak, die Nine Arches Bridge und die Cafés von Ella, ganz in Ihrem Tempo.",
+        "stay": "Übernachtung: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Yala",
+        "text": "Hinunter ins Tiefland zu einer Jeep-Safari am Nachmittag in Yala.",
+        "stay": "Übernachtung: in der Nähe von Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Die Südküste",
+        "text": "Westwärts entlang der Küste nach Mirissa für einen Nachmittag am Strand.",
+        "stay": "Übernachtung: Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle und zum Flughafen",
+        "text": "Ein Morgen in Galle Fort, dann über die Schnellstraße zum Flughafen für Ihren Flug.",
+        "stay": "Transfer zum Flughafen",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "fr": {
+    "title": "Grand Tour en 14 jours",
+    "eyebrow": "Toute l’île",
+    "intro": "Deux semaines pour tout voir : les cités sacrées du nord, les plages de la côte est, les hautes terres, un safari et le sud. Idéal de mai à septembre, quand la côte est est calme.",
+    "main_alt": "Des vagues se brisant sur des rochers sombres au bord d’une mer turquoise et limpide",
+    "second_alt": "Un grand dagoba blanc qui s’élève derrière des palmiers sous un ciel bleu limpide à Anuradhapura",
+    "third_alt": "Une falaise herbeuse à pic plongeant vers une vallée brumeuse tout en bas",
+    "note": "Vous voyagez entre octobre et janvier ? Nous vous proposerons d’échanger les jours sur la côte est contre plus de temps sur la côte sud.",
+    "route": [
+      "Aéroport",
+      "Negombo",
+      "Anuradhapura",
+      "Sigiriya",
+      "Trincomalee",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Véhicule privé climatisé"
+      },
+      {
+        "icon": "chat",
+        "text": "Chauffeur anglophone"
+      },
+      {
+        "icon": "fuel",
+        "text": "Péages et carburant inclus"
+      },
+      {
+        "icon": "bed",
+        "text": "Aide à la réservation d’hôtels"
+      }
+    ],
+    "days": [
+      {
+        "title": "De l’aéroport à Negombo",
+        "text": "Votre chauffeur vous accueille dans le hall des arrivées. Court trajet jusqu’à Negombo pour une première soirée en douceur au bord de la mer.",
+        "stay": "Nuit : Negombo",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Anuradhapura",
+        "text": "Cap au nord vers la première grande capitale du Sri Lanka : des dagobas blancs géants et l’arbre sacré Sri Maha Bodhi.",
+        "stay": "Nuit : Anuradhapura",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "De Mihintale à Sigiriya",
+        "text": "Gravissez les marches de pierre de Mihintale, où le bouddhisme serait arrivé au Sri Lanka, puis continuez vers Sigiriya.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya et Dambulla",
+        "text": "Le rocher de Sigiriya dès l’ouverture, puis les temples-grottes peints de Dambulla.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa et Minneriya",
+        "text": "Les ruines de Polonnaruwa à vélo, puis un safari éléphants l’après-midi à Minneriya ou Kaudulla.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Cap à l’est vers Trincomalee",
+        "text": "Direction la côte est pour un après-midi sur le sable blanc de Nilaveli ou d’Uppuveli.",
+        "stay": "Nuit : Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Pigeon Island",
+        "text": "Snorkeling parmi les poissons du récif à Pigeon Island, puis visite du temple de Koneswaram perché sur sa falaise.",
+        "stay": "Nuit : Trincomalee",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Retour dans les collines",
+        "text": "Une longue et belle route vers l’ouest puis dans les collines jusqu’à Kandy, à temps pour la puja du soir.",
+        "stay": "Nuit : Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le pays du thé",
+        "text": "Montée entre plantations de thé et cascades jusqu’à Nuwara Eliya, avec la visite d’une fabrique de thé.",
+        "stay": "Nuit : Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Des Horton Plains à Ella",
+        "text": "Une marche matinale jusqu’à World’s End sur les Horton Plains, puis route vers Ella.",
+        "stay": "Nuit : Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Une journée libre à Ella",
+        "text": "Little Adam’s Peak, le pont des Neuf Arches et les cafés d’Ella, à votre rythme.",
+        "stay": "Nuit : Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Yala",
+        "text": "Descente vers les plaines pour un safari en jeep l’après-midi à Yala.",
+        "stay": "Nuit : près de Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "La côte sud",
+        "text": "Cap à l’ouest le long de la côte jusqu’à Mirissa pour un après-midi à la plage.",
+        "stay": "Nuit : Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle et l’aéroport",
+        "text": "Une matinée au fort de Galle, puis l’autoroute jusqu’à l’aéroport pour votre vol.",
+        "stay": "Dépose à l’aéroport",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "ru": {
+    "title": "Всё лучшее за 14 дней",
+    "eyebrow": "Весь остров",
+    "intro": "Две недели, чтобы увидеть всё: священные города севера, пляжи восточного побережья, горы, сафари и юг. Лучше всего с мая по сентябрь, когда на восточном побережье спокойно.",
+    "main_alt": "Волны разбиваются о тёмные скалы у прозрачного бирюзового моря",
+    "second_alt": "Огромная белая дагоба за пальмами под ясным голубым небом в Анурадхапуре",
+    "third_alt": "Отвесный травянистый обрыв над туманной долиной далеко внизу",
+    "note": "Путешествуете с октября по январь? Мы предложим заменить дни на восточном побережье дополнительным временем на южном.",
+    "route": [
+      "Аэропорт",
+      "Негомбо",
+      "Анурадхапура",
+      "Сигирия",
+      "Тринкомали",
+      "Канди",
+      "Элла",
+      "Яла",
+      "Галле"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Личный автомобиль с кондиционером"
+      },
+      {
+        "icon": "chat",
+        "text": "Англоговорящий водитель"
+      },
+      {
+        "icon": "fuel",
+        "text": "Платные дороги и топливо включены"
+      },
+      {
+        "icon": "bed",
+        "text": "Помощь с бронированием отелей"
+      }
+    ],
+    "days": [
+      {
+        "title": "Из аэропорта в Негомбо",
+        "text": "Водитель встречает вас в зоне прилёта. Недолгая дорога в Негомбо и спокойный первый вечер у моря.",
+        "stay": "Ночёвка: Негомбо",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Анурадхапура",
+        "text": "На север, в первую великую столицу Шри-Ланки: гигантские белые дагобы и священное дерево Шри-Маха-Бодхи.",
+        "stay": "Ночёвка: Анурадхапура",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Из Михинтале в Сигирию",
+        "text": "Подъём по каменным ступеням Михинтале, где, по преданию, буддизм пришёл на Шри-Ланку, затем дальше в Сигирию.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Сигирия и Дамбулла",
+        "text": "Скала Сигирия к открытию, затем расписные пещерные храмы Дамбуллы.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Полоннарува и Миннерия",
+        "text": "Велопрогулка по руинам Полоннарувы, затем дневное сафари к слонам в Миннерии или Каудулле.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "На восток, в Тринкомали",
+        "text": "На восточное побережье — день на белом песке Нилавели или Уппувели.",
+        "stay": "Ночёвка: Тринкомали",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Остров Пиджен",
+        "text": "Снорклинг среди рифовых рыб у острова Пиджен, затем храм Конесварам на вершине скалы.",
+        "stay": "Ночёвка: Тринкомали",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Снова в горы",
+        "text": "Долгая живописная дорога на запад и вверх в горы, в Канди — как раз к вечерней пудже.",
+        "stay": "Ночёвка: Канди",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Чайный край",
+        "text": "Вверх через чайные плантации и водопады в Нувара-Элию, с посещением чайной фабрики.",
+        "stay": "Ночёвка: Нувара-Элия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Из Хортон-Плейнс в Эллу",
+        "text": "Ранняя прогулка к «Краю света» на плато Хортон-Плейнс, затем дальше в Эллу.",
+        "stay": "Ночёвка: Элла",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Свободный день в Элле",
+        "text": "Малый пик Адама, мост Девяти арок и кафе Эллы — в своём темпе.",
+        "stay": "Ночёвка: Элла",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Яла",
+        "text": "Спуск в низины на дневное сафари на джипе в Яле.",
+        "stay": "Ночёвка: рядом с Ялой",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Южное побережье",
+        "text": "На запад вдоль побережья в Мириссу — день на пляже.",
+        "stay": "Ночёвка: Мирисса",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Галле и аэропорт",
+        "text": "Утро в форте Галле, затем по скоростной трассе в аэропорт к вашему рейсу.",
+        "stay": "Трансфер в аэропорт",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "he": {
+    "title": "המסלול המלא ל־14 ימים",
+    "eyebrow": "האי כולו",
+    "intro": "שבועיים לראות הכול: הערים הקדושות בצפון, חופי החוף המזרחי, אזור ההרים, ספארי והדרום. הכי טוב ממאי עד ספטמבר, כשהחוף המזרחי רגוע.",
+    "main_alt": "גלים נשברים על סלעים כהים לצד ים צלול בצבע טורקיז",
+    "second_alt": "דגובה לבנה וגדולה מתנשאת מאחורי עצי דקל תחת שמיים כחולים בהירים באנורדהפורה",
+    "third_alt": "צוק עשבוני תלול שצונח אל עמק ערפילי הרחק למטה",
+    "note": "מטיילים בין אוקטובר לינואר? נציע להחליף את הימים בחוף המזרחי בעוד זמן בחוף הדרומי.",
+    "route": [
+      "שדה התעופה",
+      "נגומבו",
+      "אנורדהפורה",
+      "סיגיריה",
+      "טרינקומלי",
+      "קנדי",
+      "אלה",
+      "יאלה",
+      "גאלה"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "רכב פרטי ממוזג"
+      },
+      {
+        "icon": "chat",
+        "text": "נהג דובר אנגלית"
+      },
+      {
+        "icon": "fuel",
+        "text": "כל האגרות והדלק כלולים"
+      },
+      {
+        "icon": "bed",
+        "text": "עזרה בהזמנת מלונות"
+      }
+    ],
+    "days": [
+      {
+        "title": "משדה התעופה לנגומבו",
+        "text": "הנהג שלכם מחכה לכם באולם הנוסעים הנכנסים. נסיעה קצרה לנגומבו לערב ראשון רגוע ליד הים.",
+        "stay": "לינה: נגומבו",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "אנורדהפורה",
+        "text": "צפונה אל הבירה הגדולה הראשונה של סרי לנקה: דגובות לבנות ענקיות והעץ הקדוש סרי מהא בודהי.",
+        "stay": "לינה: אנורדהפורה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "ממיהינטלה לסיגיריה",
+        "text": "טפסו במדרגות האבן של מיהינטלה, שם לפי המסורת הגיע הבודהיזם לסרי לנקה, ומשם המשיכו לסיגיריה.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "סיגיריה ודמבולה",
+        "text": "סלע סיגיריה עם הפתיחה, ואחר כך מקדשי המערות המצוירים בדמבולה.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "פולונארווה ומינריה",
+        "text": "רכיבה על אופניים בין חורבות פולונארווה, ואז ספארי פילים אחר הצהריים במינריה או בקאודולה.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "מזרחה לטרינקומלי",
+        "text": "אל החוף המזרחי לאחר צהריים על החול הלבן בנילאוולי או באופובלי.",
+        "stay": "לינה: טרינקומלי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "אי היונים",
+        "text": "שנורקלינג בין דגי השונית באי היונים, ואז ביקור במקדש קונסווארם שעל הצוק.",
+        "stay": "לינה: טרינקומלי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "חזרה אל ההרים",
+        "text": "נסיעה ארוכה ויפה מערבה ובמעלה ההרים לקנדי, בדיוק בזמן לפוג׳ה של הערב.",
+        "stay": "לינה: קנדי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "ארץ התה",
+        "text": "עלייה דרך מטעי תה ומפלים לנוורה אליה, עם ביקור במפעל תה.",
+        "stay": "לינה: נוורה אליה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "מהורטון פליינס לאלה",
+        "text": "הליכה מוקדמת אל „סוף העולם” בהורטון פליינס, ומשם הלאה לאלה.",
+        "stay": "לינה: אלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "יום חופשי באלה",
+        "text": "פסגת אדם הקטנה, גשר תשע הקשתות ובתי הקפה של אלה, בקצב שלכם.",
+        "stay": "לינה: אלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "יאלה",
+        "text": "ירידה לשפלה לספארי ג׳יפים אחר הצהריים ביאלה.",
+        "stay": "לינה: ליד יאלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "החוף הדרומי",
+        "text": "מערבה לאורך החוף למיריסה לאחר צהריים בחוף.",
+        "stay": "לינה: מיריסה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "גאלה ושדה התעופה",
+        "text": "בוקר במבצר גאלה, ואז הכביש המהיר לשדה התעופה לטיסה שלכם.",
+        "stay": "הסעה לשדה התעופה",
+        "stay_icon": "plane"
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+# Content manager settings (Decap CMS 3.17.1). Reference: https://decapcms.org/docs/configuration-options/
+#
+# Every journey and gallery item is one JSON file in content/ with a block per language (en, de, fr, ru, he).
+# English is the master copy: photos, order, categories and the length of each list are set there, and the
+# other languages only hold translated text. A translation left empty shows the English text on the site.
+# Saving commits the change to GitHub; Netlify then rebuilds the site (node tools/build.mjs), which takes
+# a minute or two. Setup steps are in SETUP.md at the top of the project.
+
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: 'Content: add {{collection}} "{{slug}}"'
+    update: 'Content: update {{collection}} "{{slug}}"'
+    delete: 'Content: delete {{collection}} "{{slug}}"'
+    uploadMedia: 'Content: upload "{{path}}"'
+    deleteMedia: 'Content: delete "{{path}}"'
+
+# Uncomment to save changes as drafts that someone has to approve before they go live.
+# publish_mode: editorial_workflow
+
+# Uncomment once the site is live, with its real address, to get "View live" links in the editor.
+# site_url: https://YOUR-SITE.netlify.app
+# display_url: https://YOUR-SITE.netlify.app
+
+logo:
+  src: /assets/images/logo-dark.png
+
+locale: en
+
+# Uploaded photos and videos are stored in the project, in assets/uploads. The upload size limit is set on
+# each photo and video field below (look for max_file_size): Decap reads it there for its built-in library.
+media_folder: assets/uploads
+public_folder: /assets/uploads
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: '-'
+
+i18n:
+  structure: single_file
+  locales: [en, de, fr, ru, he]
+  default_locale: en
+
+collections:
+  # ---------------------------------------------------------------- Journeys (packages)
+  - name: journeys
+    label: Journeys
+    label_singular: Journey
+    description: >-
+      The multi-day journeys on the Journeys page. Edit the English version first, then the translations.
+      The per-day prices are under Settings → Prices.
+    folder: content/journeys
+    extension: json
+    format: json
+    create: true
+    delete: true
+    i18n: true
+    slug: '{{fields.anchor}}'
+    identifier_field: title
+    summary: '{{fields.order}}. {{fields.title}}'
+    sortable_fields: [order, title]
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        i18n: true
+        hint: 'For example "7-Day Classic".'
+      - label: Small heading above the title
+        name: eyebrow
+        widget: string
+        i18n: true
+        hint: 'For example "Short on time".'
+      - label: Introduction
+        name: intro
+        widget: text
+        i18n: true
+      - label: Link name
+        name: anchor
+        widget: string
+        i18n: false
+        pattern: ['^[a-z][a-z0-9-]*$', 'Use lower-case letters, numbers and dashes, starting with a letter.']
+        hint: 'Used in links to this journey, such as journeys.html#classic-7, and as the file name. Changing it breaks old links.'
+      - label: Position on the page
+        name: order
+        widget: number
+        value_type: int
+        min: 1
+        default: 10
+        i18n: false
+        hint: Lower numbers come first.
+      - label: Hide from the site
+        name: hidden
+        widget: boolean
+        default: false
+        required: false
+        i18n: false
+      - label: Main photo
+        name: main_image
+        widget: image
+        choose_url: false
+        # 25 MB per upload. Every upload stays in the project history, so keep files small.
+        # The other photo and video fields reuse this setting (*upload_limit).
+        media_library: &upload_limit { config: { max_file_size: 26214400 } }
+        i18n: false
+      - label: Main photo description
+        name: main_alt
+        widget: string
+        i18n: true
+        hint: Describe what the photo shows, for people who cannot see it.
+      - label: Second photo
+        name: second_image
+        widget: image
+        choose_url: false
+        media_library: *upload_limit
+        i18n: false
+      - label: Second photo description
+        name: second_alt
+        widget: string
+        i18n: true
+      - label: Third photo
+        name: third_image
+        widget: image
+        choose_url: false
+        media_library: *upload_limit
+        i18n: false
+      - label: Third photo description
+        name: third_alt
+        widget: string
+        i18n: true
+      - label: Route highlights
+        name: route
+        widget: list
+        i18n: true
+        min: 2
+        hint: The places on the route, in order. Translations need the same number of stops as English.
+        field:
+          label: Stop
+          name: stop
+          widget: string
+          i18n: true
+      - label: What's included
+        name: inclusions
+        label_singular: item
+        widget: list
+        i18n: true
+        summary: '{{fields.text}}'
+        hint: Translations need the same number of items as English. Icons are set in English.
+        fields:
+          - label: Text
+            name: text
+            widget: string
+            i18n: true
+          - label: Icon
+            name: icon
+            widget: select
+            required: false
+            default: check
+            i18n: false
+            options:
+              - { label: Tick, value: check }
+              - { label: Car or van, value: van }
+              - { label: Fuel pump, value: fuel }
+              - { label: Bed, value: bed }
+              - { label: Speech bubble, value: chat }
+              - { label: Shield, value: shield }
+              - { label: Plane, value: plane }
+              - { label: Train, value: train }
+              - { label: Binoculars, value: binoculars }
+              - { label: Map, value: map }
+              - { label: Map pin, value: pin }
+              - { label: Route, value: route }
+              - { label: Compass, value: compass }
+              - { label: Calendar, value: calendar }
+              - { label: Clock, value: clock }
+              - { label: People, value: users }
+              - { label: Star, value: star }
+              - { label: Price tag, value: tag }
+              - { label: Waves, value: waves }
+              - { label: Mountain, value: mountain }
+              - { label: Leaf, value: leaf }
+              - { label: Sun, value: sun }
+      - label: Day-by-day plan
+        name: days
+        label_singular: day
+        widget: list
+        i18n: true
+        min: 1
+        collapsed: true
+        summary: '{{fields.title}}'
+        hint: One entry per day, in order. Translations need the same number of days as English.
+        fields:
+          - label: Day title
+            name: title
+            widget: string
+            i18n: true
+            hint: 'For example "Kandy to Ella by train". The day number is added automatically.'
+          - label: What happens
+            name: text
+            widget: text
+            i18n: true
+          - label: Overnight line
+            name: stay
+            widget: string
+            i18n: true
+            hint: 'For example "Overnight: Ella", or "Flight home" on the last day.'
+          - label: Overnight icon
+            name: stay_icon
+            widget: select
+            required: false
+            default: bed
+            i18n: false
+            options:
+              - { label: 'Bed (staying the night)', value: bed }
+              - { label: 'Plane (flying home)', value: plane }
+      - label: Note under the plan
+        name: note
+        widget: text
+        required: false
+        i18n: true
+
+  # ---------------------------------------------------------------- Gallery
+  - name: gallery
+    label: Gallery
+    label_singular: Gallery item
+    description: >-
+      The photos and videos on the Gallery page. Upload the file in the English version;
+      the translations only need the title and description.
+    folder: content/gallery
+    extension: json
+    format: json
+    create: true
+    delete: true
+    i18n: true
+    slug: '{{slug}}'
+    identifier_field: title
+    summary: '{{fields.title}} ({{fields.type}}, {{fields.category}})'
+    sortable_fields: [order, title]
+    view_filters:
+      - { label: Photos, field: type, pattern: image }
+      - { label: Videos, field: type, pattern: video }
+      - { label: With guests, field: with_guests, pattern: true }
+      - { label: Hidden, field: hidden, pattern: true }
+    view_groups:
+      - { label: Category, field: category }
+      - { label: Type, field: type }
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        i18n: true
+        hint: Shown on the photo and in the full-screen view.
+      - label: Description
+        name: alt
+        widget: text
+        i18n: true
+        hint: Describe what the photo or video shows, for people who cannot see it.
+      - label: Type
+        name: type
+        widget: select
+        default: image
+        i18n: false
+        options:
+          - { label: Photo, value: image }
+          - { label: Video, value: video }
+      - label: Photo
+        name: image
+        widget: image
+        choose_url: false
+        media_library: *upload_limit
+        required: false
+        i18n: false
+        hint: 'Photos only. JPG, PNG or WebP, ideally at least 1600 pixels wide.'
+      - label: Video file
+        name: video
+        widget: file
+        choose_url: false
+        media_library: *upload_limit
+        required: false
+        i18n: false
+        hint: 'Videos only. MP4, ideally under a minute and under 20 MB.'
+      - label: Video poster
+        name: poster
+        widget: image
+        choose_url: false
+        media_library: *upload_limit
+        required: false
+        i18n: false
+        hint: Videos only. The still picture shown before the video plays.
+      - label: Category
+        name: category
+        widget: select
+        required: false
+        i18n: false
+        hint: The filter it appears under. Leave empty to show it under "All" only.
+        options:
+          - { label: Wildlife, value: wildlife }
+          - { label: Hill Country, value: hills }
+          - { label: 'Beaches & Coast', value: coast }
+          - { label: 'Culture & Heritage', value: culture }
+          - { label: With our guests, value: guests }
+      - label: Our guests are in it
+        name: with_guests
+        widget: boolean
+        default: false
+        required: false
+        i18n: false
+        hint: 'Also shows it under "With our guests".'
+      - label: Position
+        name: order
+        widget: number
+        value_type: int
+        min: 1
+        default: 1000
+        i18n: false
+        hint: Lower numbers come first. The current items use 10 to 500.
+      - label: Hide from the site
+        name: hidden
+        widget: boolean
+        default: false
+        required: false
+        i18n: false
+
+  # ---------------------------------------------------------------- Settings
+  - name: settings
+    label: Settings
+    editor:
+      preview: false
+    files:
+      - name: prices
+        label: Prices
+        file: content/settings/prices.json
+        description: >-
+          The prices shown on the Home, Destinations and Journeys pages, in every language.
+        fields:
+          - label: Currency symbol
+            name: currency
+            widget: string
+            default: '$'
+            hint: Prices are shown in US dollars in every language.
+          - label: 'Multi-day journeys: price per day, from'
+            name: multi_day_from
+            widget: number
+            value_type: int
+            min: 1
+          - label: 'Multi-day journeys: price per day, up to'
+            name: multi_day_to
+            widget: number
+            value_type: int
+            min: 1
+          - label: 'Airport and day transfers: price from'
+            name: transfer_from
+            widget: number
+            value_type: int
+            min: 1

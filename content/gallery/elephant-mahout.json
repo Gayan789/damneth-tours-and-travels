@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "An elephant and its mahout",
+    "alt": "Guests and their driver-guide standing beside an elephant with its trunk raised, and its mahout",
+    "type": "image",
+    "category": "wildlife",
+    "with_guests": false,
+    "order": 250,
+    "image": "/assets/images/gallery/gal-elephant-mahout-1200.webp"
+  },
+  "de": {
+    "title": "Ein Elefant und sein Mahut",
+    "alt": "Gäste und ihr Fahrer-Guide neben einem Elefanten mit erhobenem Rüssel und seinem Mahut"
+  },
+  "fr": {
+    "title": "Un éléphant et son cornac",
+    "alt": "Des voyageurs et leur chauffeur-guide à côté d’un éléphant trompe levée, et de son cornac"
+  },
+  "ru": {
+    "title": "Слон и его погонщик",
+    "alt": "Гости и их водитель-гид рядом со слоном с поднятым хоботом и его погонщиком"
+  },
+  "he": {
+    "title": "פיל והמהוט שלו",
+    "alt": "אורחים והנהג־מדריך שלהם עומדים ליד פיל עם חדק מורם, ולצדו המהוט שלו"
+  }
+}

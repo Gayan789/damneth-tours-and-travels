@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "language": "de",
+    "bundle": "gallery",
+    "status": "draft – needs native review",
+    "about": "Text on gallery.html. Translate the \"de\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "47a37812": {
+    "en": "Gallery: Photos &amp; Videos from Our Sri Lanka Trips | Damneth Tours &amp; Travels",
+    "de": "Galerie: Fotos &amp; Videos von unseren Sri-Lanka-Reisen | Damneth Tours &amp; Travels"
+  },
+  "6d71e815": {
+    "en": "Photos and short videos from Sri Lanka trips with our guests: elephants, waterfalls, Sigiriya, the Nine Arches Bridge, village lunches and boat rides.",
+    "de": "Fotos und kurze Videos von Sri-Lanka-Reisen mit unseren Gästen: Elefanten, Wasserfälle, Sigiriya, die Nine Arches Bridge, Mittagessen im Dorf und Bootsfahrten."
+  },
+  "66fba13b": {
+    "en": "A guest perched on a stilt-fishing pole at the water’s edge, with waves breaking around rocks behind",
+    "de": "Ein Gast sitzt auf einem Stelzenfischer-Pfahl am Wasser, hinter ihm brechen Wellen an Felsen"
+  },
+  "ac597687": {
+    "en": "Real trips, <1>real smiles.</1>",
+    "de": "Echte Reisen, <1>echtes Lächeln.</1>"
+  },
+  "da581e7c": {
+    "en": "Snapshots from the road with our guests: elephants and waterfalls, village lunches, boat rides and the odd stilt-fishing pole.",
+    "de": "Schnappschüsse von unterwegs mit unseren Gästen: Elefanten und Wasserfälle, Mittagessen im Dorf, Bootsfahrten und hier und da ein Stelzenfischer-Pfahl."
+  },
+  "88a7856b": {
+    "en": "Browse the gallery <1/>",
+    "de": "Galerie durchstöbern <1/>"
+  },
+  "344a910f": {
+    "en": "<1/> Plan a trip like this<2> (opens in a new tab)</2>",
+    "de": "<1/> So eine Reise planen<2> (öffnet in einem neuen Tab)</2>"
+  },
+  "2230defb": {
+    "en": "Jump to a gallery category",
+    "de": "Zu einer Galerie-Kategorie springen"
+  },
+  "89e4407f": {
+    "en": "From the road",
+    "de": "Von unterwegs"
+  },
+  "1af64e83": {
+    "en": "Moments from our guests’ trips",
+    "de": "Momente aus den Reisen unserer Gäste"
+  },
+  "9ae049a1": {
+    "en": "Filter the gallery",
+    "de": "Galerie filtern"
+  },
+  "8a4e6047": {
+    "en": "Your turn",
+    "de": "Jetzt sind Sie dran"
+  },
+  "89d65ecc": {
+    "en": "Want to be in the next photo?",
+    "de": "Möchten Sie auf dem nächsten Foto sein?"
+  },
+  "326b0561": {
+    "en": "Tell us your dates and what you’d love to see. We’ll sketch a route on WhatsApp, and planning help is always free.",
+    "de": "Nennen Sie uns Ihre Reisedaten und was Sie gern sehen möchten. Wir skizzieren eine Route per WhatsApp, und die Hilfe bei der Planung ist immer kostenlos."
+  },
+  "73889efb": {
+    "en": "Two guests and their driver-guide sitting on a colourful mat with a spread of dishes, tall crops behind",
+    "de": "Zwei Gäste und ihr Fahrer-Guide sitzen auf einer bunten Matte vor einer Auswahl an Gerichten, dahinter hohe Feldfrüchte"
+  },
+  "7d02c42c": {
+    "en": "Gallery viewer",
+    "de": "Bildbetrachter"
+  },
+  "b9fbfc7e": {
+    "en": "Close viewer",
+    "de": "Betrachter schließen"
+  },
+  "50f94286": {
+    "en": "Previous",
+    "de": "Zurück"
+  },
+  "bc981983": {
+    "en": "Next",
+    "de": "Weiter"
+  }
+}

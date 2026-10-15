@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Ancient guardstones",
+    "alt": "Two guests standing between carved stone lions at the top of a flight of ancient steps",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 140,
+    "image": "/assets/images/gallery/gal-guardstones-1600.webp"
+  },
+  "de": {
+    "title": "Alte Wächtersteine",
+    "alt": "Zwei Gäste stehen zwischen gemeißelten Steinlöwen am oberen Ende einer alten Treppe"
+  },
+  "fr": {
+    "title": "Pierres gardiennes anciennes",
+    "alt": "Deux voyageurs entre des lions de pierre sculptés en haut d’un ancien escalier"
+  },
+  "ru": {
+    "title": "Древние камни-стражи",
+    "alt": "Двое гостей между резными каменными львами наверху древней лестницы"
+  },
+  "he": {
+    "title": "אבני שומר עתיקות",
+    "alt": "שני אורחים עומדים בין אריות אבן מגולפים בראש גרם מדרגות עתיק"
+  }
+}

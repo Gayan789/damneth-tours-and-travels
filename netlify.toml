@@ -1,0 +1,27 @@
+# Netlify settings. Every change saved in the content manager (/admin/) is a commit to GitHub,
+# which starts this build; the finished site is published from _site/. See SETUP.md.
+
+[build]
+  command = "node tools/build.mjs"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# The content manager should not appear in search results.
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    X-Frame-Options = "DENY"
+
+# Always fetch the latest CMS settings, so changes to config.yml show up straight away.
+[[headers]]
+  for = "/admin/config.yml"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/admin/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"

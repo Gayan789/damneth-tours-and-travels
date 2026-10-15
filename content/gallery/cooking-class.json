@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lotus flowers in the village",
+    "alt": "Guests holding white lotus flowers under a thatched roof, with their driver-guide in front",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 120,
+    "image": "/assets/images/gallery/gal-cooking-class-1600.webp"
+  },
+  "de": {
+    "title": "Lotusblüten im Dorf",
+    "alt": "Gäste halten weiße Lotusblüten unter einem Strohdach, vorne ihr Fahrer-Guide"
+  },
+  "fr": {
+    "title": "Fleurs de lotus au village",
+    "alt": "Des voyageurs tenant des fleurs de lotus blanches sous un toit de chaume, leur chauffeur-guide au premier plan"
+  },
+  "ru": {
+    "title": "Цветы лотоса в деревне",
+    "alt": "Гости держат белые цветы лотоса под соломенной крышей, впереди их водитель-гид"
+  },
+  "he": {
+    "title": "פרחי לוטוס בכפר",
+    "alt": "אורחים מחזיקים פרחי לוטוס לבנים מתחת לגג קש, והנהג־מדריך שלהם מלפנים"
+  }
+}

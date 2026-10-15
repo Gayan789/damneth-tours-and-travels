@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "A catch on the boat",
+    "alt": "A guest standing in a small boat on wide, calm water, holding up a small catch",
+    "type": "image",
+    "category": "coast",
+    "with_guests": false,
+    "order": 300,
+    "image": "/assets/images/gallery/gal-lagoon-boat-1200.webp"
+  },
+  "de": {
+    "title": "Ein Fang im Boot",
+    "alt": "Ein Gast steht in einem kleinen Boot auf weitem, ruhigem Wasser und hält einen kleinen Fang hoch"
+  },
+  "fr": {
+    "title": "Une prise sur le bateau",
+    "alt": "Un voyageur debout dans une petite barque sur une eau vaste et calme, brandissant une petite prise"
+  },
+  "ru": {
+    "title": "Улов в лодке",
+    "alt": "Гость стоит в маленькой лодке на широкой спокойной воде и показывает небольшой улов"
+  },
+  "he": {
+    "title": "שלל בסירה",
+    "alt": "אורח עומד בסירה קטנה על מים רחבים ושקטים ומרים שלל קטן"
+  }
+}

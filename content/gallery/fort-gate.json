@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "An old fort gateway",
+    "alt": "A family on a wooden bridge in front of an old stone gateway topped with a coat of arms",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 210,
+    "image": "/assets/images/gallery/gal-fort-gate-1200.webp"
+  },
+  "de": {
+    "title": "Ein altes Festungstor",
+    "alt": "Eine Familie auf einer Holzbrücke vor einem alten steinernen Tor mit Wappen"
+  },
+  "fr": {
+    "title": "Une ancienne porte de fort",
+    "alt": "Une famille sur un pont en bois devant une vieille porte en pierre surmontée d’armoiries"
+  },
+  "ru": {
+    "title": "Старые ворота форта",
+    "alt": "Семья на деревянном мосту перед старыми каменными воротами с гербом наверху"
+  },
+  "he": {
+    "title": "שער מבצר עתיק",
+    "alt": "משפחה על גשר עץ מול שער אבן עתיק שבראשו סמל"
+  }
+}

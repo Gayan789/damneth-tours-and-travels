@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Ambewela station",
+    "alt": "Two guests and their driver-guide taking a selfie by the Ambewela station sign, with a train waiting behind",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 160,
+    "image": "/assets/images/gallery/gal-ambewela-station-1600.webp"
+  },
+  "de": {
+    "title": "Bahnhof Ambewela",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide machen ein Selfie am Schild des Bahnhofs Ambewela, dahinter wartet ein Zug"
+  },
+  "fr": {
+    "title": "Gare d’Ambewela",
+    "alt": "Deux voyageurs et leur chauffeur-guide prenant un selfie devant le panneau de la gare d’Ambewela, un train en attente derrière eux"
+  },
+  "ru": {
+    "title": "Станция Амбевела",
+    "alt": "Двое гостей и их водитель-гид делают селфи у вывески станции Амбевела, позади стоит поезд"
+  },
+  "he": {
+    "title": "תחנת אמבוולה",
+    "alt": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי ליד שלט תחנת אמבוולה, ורכבת ממתינה מאחוריהם"
+  }
+}

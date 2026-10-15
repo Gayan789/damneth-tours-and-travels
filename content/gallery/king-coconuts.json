@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "King coconuts in the shade",
+    "alt": "Three people sitting on a log in a forest, each drinking from a king coconut",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 340,
+    "image": "/assets/images/gallery/gal-king-coconuts-1200.webp"
+  },
+  "de": {
+    "title": "King Coconuts im Schatten",
+    "alt": "Drei Menschen sitzen auf einem Baumstamm im Wald und trinken jeweils aus einer King Coconut"
+  },
+  "fr": {
+    "title": "Noix de coco royales à l’ombre",
+    "alt": "Trois personnes assises sur un tronc en forêt, chacune buvant dans une noix de coco royale"
+  },
+  "ru": {
+    "title": "Королевские кокосы в тени",
+    "alt": "Трое сидят на бревне в лесу, и каждый пьёт из королевского кокоса"
+  },
+  "he": {
+    "title": "קוקוס מלכותי בצל",
+    "alt": "שלושה אנשים יושבים על בול עץ ביער, וכל אחד שותה מקוקוס מלכותי"
+  }
+}

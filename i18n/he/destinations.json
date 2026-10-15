@@ -1,0 +1,644 @@
+{
+  "23148331": {
+    "en": "Ideal stay <1>1 night nearby</1>",
+    "he": "שהייה מומלצת <1>לילה אחד בסביבה</1>"
+  },
+  "33509233": {
+    "en": "Stroll or take a boat on Gregory Lake",
+    "he": "טיול רגלי או שיט באגם גרגורי"
+  },
+  "52020617": {
+    "en": "<1/> Plan my route<2> (opens in a new tab)</2>",
+    "he": "<1/> לתכנן את המסלול שלי<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "61208125": {
+    "en": "The Elephant Transit Home at feeding time",
+    "he": "בית המעבר לפילים (Elephant Transit Home) בשעת ההאכלה"
+  },
+  "_meta": {
+    "language": "he",
+    "bundle": "destinations",
+    "status": "draft – needs native review",
+    "about": "Text on destinations.html. Translate the \"he\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "d2bf9b87": {
+    "en": "Sri Lanka Destinations by Region | Damneth Tours &amp; Travels",
+    "he": "יעדים בסרי לנקה לפי אזורים | Damneth Tours &amp; Travels"
+  },
+  "c709b71b": {
+    "en": "Explore Sri Lanka by region, from the Cultural Triangle and hill country to the south and east coasts and the wildlife parks. Add the places you love and get a free, fixed-price route plan on WhatsApp.",
+    "he": "גלו את סרי לנקה לפי אזורים, מהמשולש התרבותי ואזור ההרים ועד החופים הדרומי והמזרחי והפארקים הלאומיים. הוסיפו את המקומות שאתם אוהבים וקבלו בחינם בוואטסאפ תוכנית מסלול במחיר קבוע."
+  },
+  "c523a1b5": {
+    "en": "Golden sunrise light over layers of forested hills near Ella",
+    "he": "אור זריחה מוזהב מעל שכבות של גבעות מיוערות ליד אלה"
+  },
+  "0faaf885": {
+    "en": "Five regions, one easy road trip. <1>Pick the places you love.</1>",
+    "he": "חמישה אזורים, טיול דרכים אחד ופשוט. <1>בחרו את המקומות שאתם אוהבים.</1>"
+  },
+  "080b1c45": {
+    "en": "Ancient cities, misty tea hills, golden beaches and wild national parks. Tap “Add to my trip” on anything that catches your eye, and we’ll plan the route with you for free on WhatsApp.",
+    "he": "ערים עתיקות, גבעות תה ערפיליות, חופים זהובים ופארקים לאומיים פראיים. הקישו על „הוספה לטיול שלי” בכל מה שמושך את עיניכם, ונתכנן איתכם את המסלול בחינם בוואטסאפ."
+  },
+  "46fee60d": {
+    "en": "See the regions <1/>",
+    "he": "לצפייה באזורים <1/>"
+  },
+  "be5e6b19": {
+    "en": "<1/>Your own private driver",
+    "he": "<1/>נהג פרטי משלכם"
+  },
+  "b0ff790b": {
+    "en": "Browse the regions",
+    "he": "עיינו באזורים"
+  },
+  "bc81e99f": {
+    "en": "Five areas, from ancient cities to quiet beaches.",
+    "he": "חמישה אזורים, מערים עתיקות ועד חופים שקטים."
+  },
+  "ab0fc188": {
+    "en": "Add what you love",
+    "he": "הוסיפו את מה שאתם אוהבים"
+  },
+  "e2d2be76": {
+    "en": "Your picks are saved as you move between pages.",
+    "he": "הבחירות שלכם נשמרות כשעוברים בין הדפים."
+  },
+  "020dff75": {
+    "en": "Send them to us",
+    "he": "שלחו לנו"
+  },
+  "d22145ed": {
+    "en": "We reply on WhatsApp with a route and a fixed price.",
+    "he": "נחזור אליכם בוואטסאפ עם מסלול ומחיר קבוע."
+  },
+  "67be1a9e": {
+    "en": "Filter destinations by region",
+    "he": "סינון יעדים לפי אזור"
+  },
+  "48bbde58": {
+    "en": "All regions <1><2/>17<3> places</3></1>",
+    "he": "כל האזורים <1><2/>17<3> מקומות</3></1>"
+  },
+  "3fc0ba1b": {
+    "en": "All regions",
+    "he": "כל האזורים"
+  },
+  "3a4a722c": {
+    "en": "Cultural Triangle <1><2/>5<3> places</3></1>",
+    "he": "המשולש התרבותי <1><2/>5<3> מקומות</3></1>"
+  },
+  "2194aaa8": {
+    "en": "Hill Country <1><2/>3<3> places</3></1>",
+    "he": "אזור ההרים <1><2/>3<3> מקומות</3></1>"
+  },
+  "75092ac7": {
+    "en": "Hill Country",
+    "he": "אזור ההרים"
+  },
+  "d85f2d76": {
+    "en": "Southern Coast <1><2/>3<3> places</3></1>",
+    "he": "החוף הדרומי <1><2/>3<3> מקומות</3></1>"
+  },
+  "24d9ad5a": {
+    "en": "Southern Coast",
+    "he": "החוף הדרומי"
+  },
+  "caed0c09": {
+    "en": "East Coast <1><2/>3<3> places</3></1>",
+    "he": "החוף המזרחי <1><2/>3<3> מקומות</3></1>"
+  },
+  "579342ba": {
+    "en": "Wildlife Parks <1><2/>3<3> places</3></1>",
+    "he": "פארקי חיות בר <1><2/>3<3> מקומות</3></1>"
+  },
+  "b3e031a3": {
+    "en": "Wildlife Parks",
+    "he": "פארקי חיות בר"
+  },
+  "93fdc667": {
+    "en": "Ancient kingdoms",
+    "he": "ממלכות עתיקות"
+  },
+  "ee7e5d6d": {
+    "en": "Rock fortresses, cave temples and ruined royal cities sit close together on the dry central plains. Most travellers stay near Sigiriya and take short drives out each day, then finish in Kandy on the way to the hills.",
+    "he": "מבצרי סלע, מקדשי מערות וערי מלוכה הרוסות נמצאים קרוב זה לזה במישורים היבשים שבמרכז האי. רוב המטיילים לנים ליד סיגיריה ויוצאים כל יום לנסיעות קצרות, ומסיימים בקנדי בדרך אל ההרים."
+  },
+  "b2e80e14": {
+    "en": "<1/>Best January to September",
+    "he": "<1/>הכי טוב מינואר עד ספטמבר"
+  },
+  "f4d8ad66": {
+    "en": "<1/>Allow 2 to 4 days",
+    "he": "<1/>כדאי להקדיש 2 עד 4 ימים"
+  },
+  "db4eeace": {
+    "en": "<1/>UNESCO World Heritage",
+    "he": "<1/>אתר מורשת עולמית של אונסק״ו"
+  },
+  "1a956f6c": {
+    "en": "The 5th-century rock fortress rises straight out of the jungle, with painted frescoes and giant lion’s paws halfway up. It’s the island’s most famous climb, and worth every step. We also run Sigiriya as a day tour.",
+    "he": "מבצר הסלע מהמאה החמישית מתנשא היישר מתוך הג׳ונגל, ובאמצע הדרך יש ציורי קיר וכפות אריה ענקיות. זה הטיפוס המפורסם ביותר באי, והוא שווה כל מדרגה. את סיגיריה אנחנו מציעים גם כטיול יום."
+  },
+  "0f9a6fb7": {
+    "en": "Climb at opening time, before the heat and the crowds",
+    "he": "טפסו בשעת הפתיחה, לפני החום וההמונים"
+  },
+  "187b88c0": {
+    "en": "Watch the sunrise over Sigiriya from nearby Pidurangala Rock",
+    "he": "צפו בזריחה מעל סיגיריה מסלע פידורנגלה הסמוך"
+  },
+  "05d6fe35": {
+    "en": "An easy base for Dambulla, Polonnaruwa and Minneriya",
+    "he": "בסיס נוח לדמבולה, לפולונארווה ולמינריה"
+  },
+  "95b34dc2": {
+    "en": "Ideal stay <1>2 nights</1>",
+    "he": "שהייה מומלצת <1>2 לילות</1>"
+  },
+  "7c1b15a5": {
+    "en": "Rows of golden Buddha statues lining a painted cave temple",
+    "he": "שורות של פסלי בודהה מוזהבים במקדש מערה מצויר"
+  },
+  "984945fe": {
+    "en": "Dambulla",
+    "he": "דמבולה"
+  },
+  "4d04b358": {
+    "en": "Five cave shrines carved into a granite outcrop, filled with painted ceilings and more than 150 Buddha statues. It sits on the road to Kandy, so it fits neatly into a travel day.",
+    "he": "חמישה מקדשי מערות שנחצבו בגבעת גרניט, עם תקרות מצוירות ויותר מ־150 פסלי בודהה. המקום נמצא על הדרך לקנדי, כך שהוא משתלב בקלות ביום נסיעה."
+  },
+  "1b94bbf4": {
+    "en": "Cave paintings that cover every surface",
+    "he": "ציורי מערות שמכסים כל משטח"
+  },
+  "c675626d": {
+    "en": "Wide views over the plains from the terrace",
+    "he": "תצפית רחבה על המישורים מהמרפסת"
+  },
+  "d518f4e6": {
+    "en": "Cover shoulders and knees, and leave shoes at the gate",
+    "he": "כסו כתפיים וברכיים, והשאירו את הנעליים בשער"
+  },
+  "35c3a1a2": {
+    "en": "Ideal stay <1>Half a day</1>",
+    "he": "שהייה מומלצת <1>חצי יום</1>"
+  },
+  "b1170873": {
+    "en": "Add Dambulla to my trip",
+    "he": "הוספת דמבולה לטיול שלי"
+  },
+  "a23d14fb": {
+    "en": "Ancient stone columns and carved steps among the ruins at Polonnaruwa",
+    "he": "עמודי אבן עתיקים ומדרגות מגולפות בין ההריסות בפולונארווה"
+  },
+  "1988a456": {
+    "en": "Polonnaruwa",
+    "he": "פולונארווה"
+  },
+  "d8308f54": {
+    "en": "A medieval royal capital of palaces, temples and the calm, rock-cut Buddhas of Gal Vihara, spread across a leafy, walkable site.",
+    "he": "בירת מלוכה מימי הביניים עם ארמונות, מקדשים ופסלי הבודהה השלווים שנחצבו בסלע בגל ויהארה, פרושים באתר ירוק שנוח לסייר בו ברגל."
+  },
+  "d16aae90": {
+    "en": "The Gal Vihara rock carvings",
+    "he": "פסלי הסלע של גל ויהארה"
+  },
+  "8c00da01": {
+    "en": "Explore the ruins by bicycle",
+    "he": "סיור בהריסות על אופניים"
+  },
+  "96bbb1a9": {
+    "en": "Pairs well with an afternoon safari at Minneriya",
+    "he": "משתלב היטב עם ספארי אחר הצהריים במינריה"
+  },
+  "0335cdfc": {
+    "en": "Ideal stay <1>1 day</1>",
+    "he": "שהייה מומלצת <1>יום אחד</1>"
+  },
+  "80d2c23b": {
+    "en": "Add Polonnaruwa to my trip",
+    "he": "הוספת פולונארווה לטיול שלי"
+  },
+  "7a0512f5": {
+    "en": "A great white dagoba rising behind palm trees under a clear blue sky in Anuradhapura",
+    "he": "דגובה לבנה וגדולה מתנשאת מאחורי עצי דקל תחת שמיים כחולים בהירים באנורדהפורה"
+  },
+  "08f1428b": {
+    "en": "Anuradhapura",
+    "he": "אנורדהפורה"
+  },
+  "cbc69a8a": {
+    "en": "Sri Lanka’s first great capital, with vast white dagobas and a sacred fig tree that is one of the oldest known trees in the world. Quieter and more spread out than Polonnaruwa.",
+    "he": "הבירה הגדולה הראשונה של סרי לנקה, עם דגובות לבנות עצומות ועץ תאנה קדוש שהוא מהעצים העתיקים ביותר הידועים בעולם. שקטה ומפוזרת יותר מפולונארווה."
+  },
+  "425789ce": {
+    "en": "The huge white Ruwanwelisaya dagoba",
+    "he": "הדגובה הלבנה והענקית רוואנווליסאיה"
+  },
+  "8046f60a": {
+    "en": "The sacred Sri Maha Bodhi tree",
+    "he": "העץ הקדוש סרי מהא בודהי"
+  },
+  "d0b9269a": {
+    "en": "Best on a longer trip of 10 days or more",
+    "he": "מתאים במיוחד לטיול ארוך של 10 ימים ומעלה"
+  },
+  "d78ef7c2": {
+    "en": "Add Anuradhapura to my trip",
+    "he": "הוספת אנורדהפורה לטיול שלי"
+  },
+  "55cfedc8": {
+    "en": "The old hill capital wraps around a lake and is home to the Temple of the Sacred Tooth Relic. It’s the gateway between the ancient cities and tea country.",
+    "he": "בירת ההרים הישנה מקיפה אגם, ובה נמצא מקדש השן הקדושה. זה השער בין הערים העתיקות לארץ התה."
+  },
+  "2fee4397": {
+    "en": "Evening puja (prayers) at the Temple of the Tooth",
+    "he": "פוג׳ה (תפילת ערב) במקדש השן"
+  },
+  "d7f7b450": {
+    "en": "The Royal Botanic Gardens at Peradeniya",
+    "he": "הגנים הבוטניים המלכותיים בפרדניה"
+  },
+  "09d12e8a": {
+    "en": "We also run a Kandy cultural day tour",
+    "he": "אנחנו מציעים גם טיול יום תרבותי בקנדי"
+  },
+  "f68d9363": {
+    "en": "Ideal stay <1>1 to 2 nights</1>",
+    "he": "שהייה מומלצת <1>1 עד 2 לילות</1>"
+  },
+  "76b100a3": {
+    "en": "Tea and cool air",
+    "he": "תה ואוויר צלול"
+  },
+  "c50e018e": {
+    "en": "Cool air, tea on every slope, waterfalls and the famous blue train. The roads up here are narrow and winding, which is exactly where a careful, unhurried driver makes all the difference.",
+    "he": "אוויר קריר, תה על כל מדרון, מפלים והרכבת הכחולה המפורסמת. הדרכים כאן למעלה צרות ומפותלות, ובדיוק כאן נהג זהיר שלא ממהר עושה את כל ההבדל."
+  },
+  "5fdd28a6": {
+    "en": "<1/>Clearest views January to April",
+    "he": "<1/>הנופים הצלולים ביותר מינואר עד אפריל"
+  },
+  "69abb959": {
+    "en": "<1/>Allow 3 to 4 days",
+    "he": "<1/>כדאי להקדיש 3 עד 4 ימים"
+  },
+  "a3c25d58": {
+    "en": "A laid-back hill village with big views in every direction. Days here are for short hikes, long breakfasts and watching the train cross the Nine Arches Bridge.",
+    "he": "כפר הררי רגוע עם נופים רחבים לכל הכיוונים. הימים כאן מוקדשים לטיולים קצרים, לארוחות בוקר ארוכות ולצפייה ברכבת שחוצה את גשר תשע הקשתות."
+  },
+  "f5fa3b0e": {
+    "en": "An easy sunrise walk up Little Adam’s Peak",
+    "he": "הליכה קלה בזריחה אל פסגת אדם הקטנה"
+  },
+  "2f0ab1bb": {
+    "en": "See a train cross the Nine Arches Bridge",
+    "he": "לראות רכבת חוצה את גשר תשע הקשתות"
+  },
+  "a34f137e": {
+    "en": "Arrive on the scenic train from Kandy or Nanu Oya",
+    "he": "הגעה ברכבת הנופית מקנדי או מנאנו אויה"
+  },
+  "eae5cd20": {
+    "en": "A lone tree on a green lawn beside a calm lake under a bright blue sky",
+    "he": "עץ בודד על מדשאה ירוקה ליד אגם שקט, תחת שמיים כחולים ובהירים"
+  },
+  "b77618fa": {
+    "en": "Nuwara Eliya",
+    "he": "נוורה אליה"
+  },
+  "ad7b083c": {
+    "en": "Known as “Little England” for its colonial bungalows and cool climate, this is the heart of tea country.",
+    "he": "מכונה „אנגליה הקטנה” בזכות הבונגלוס הקולוניאליים והאקלים הקריר, וזהו לב ארץ התה."
+  },
+  "035c32bc": {
+    "en": "Tour a working tea factory and taste fresh tea",
+    "he": "סיור במפעל תה פעיל וטעימת תה טרי"
+  },
+  "60b18204": {
+    "en": "Bring a warm layer for the evenings",
+    "he": "קחו שכבה חמה לערבים"
+  },
+  "3fa158a4": {
+    "en": "Ideal stay <1>1 night</1>",
+    "he": "שהייה מומלצת <1>לילה אחד</1>"
+  },
+  "d36778f2": {
+    "en": "Add Nuwara Eliya to my trip",
+    "he": "הוספת נוורה אליה לטיול שלי"
+  },
+  "f184e2ba": {
+    "en": "A sheer, grassy cliff edge dropping into a misty valley far below",
+    "he": "צוק עשבוני תלול שצונח אל עמק ערפילי הרחק למטה"
+  },
+  "9fb1a7af": {
+    "en": "Horton Plains",
+    "he": "הורטון פליינס"
+  },
+  "b2597dad": {
+    "en": "A high, windswept plateau of grassland and cloud forest that ends at a sheer drop called World’s End.",
+    "he": "רמה גבוהה וסחופת רוחות של שטחי עשב ויער עננים, שמסתיימת בצוק תלול שנקרא „סוף העולם” (World’s End)."
+  },
+  "1a09f7ae": {
+    "en": "The World’s End loop walk, about 9 km",
+    "he": "מסלול הטבעת אל „סוף העולם”, כ־9 ק״מ"
+  },
+  "5d8d21a1": {
+    "en": "Start at dawn, before the mist rolls in",
+    "he": "צאו עם שחר, לפני שהערפל מגיע"
+  },
+  "8bc6cf02": {
+    "en": "Baker’s Falls along the way",
+    "he": "מפלי בייקר לאורך הדרך"
+  },
+  "47a3e567": {
+    "en": "Add Horton Plains to my trip",
+    "he": "הוספת הורטון פליינס לטיול שלי"
+  },
+  "7cbf6959": {
+    "en": "Beaches and a fort town",
+    "he": "חופים ועיר מבצר"
+  },
+  "4d2155d6": {
+    "en": "Palm-lined bays, the old Dutch fort at Galle and whale boats heading out at dawn. The south coast is where most trips slow down for a few days on the sand.",
+    "he": "מפרצים עטורי דקלים, המבצר ההולנדי הישן בגאלה וסירות צפייה בלווייתנים שיוצאות עם שחר. בחוף הדרומי רוב הטיולים מאטים לכמה ימים על החול."
+  },
+  "3d79490d": {
+    "en": "<1/>Best December to April",
+    "he": "<1/>הכי טוב מדצמבר עד אפריל"
+  },
+  "bc1c81e0": {
+    "en": "<1/>Allow 3 to 5 days",
+    "he": "<1/>כדאי להקדיש 3 עד 5 ימים"
+  },
+  "0c28aef9": {
+    "en": "A walled 17th-century fort town of cobbled lanes, cafés and small shops, wrapped in ramparts above the sea.",
+    "he": "עיר מבצר מוקפת חומה מהמאה ה־17, עם סמטאות מרוצפות, בתי קפה וחנויות קטנות, עטופה בחומות מעל הים."
+  },
+  "ab31eea7": {
+    "en": "Walk the ramparts at sunset",
+    "he": "הליכה על החומות בשקיעה"
+  },
+  "04976413": {
+    "en": "The lighthouse, churches and old Dutch streets",
+    "he": "המגדלור, הכנסיות והרחובות ההולנדיים הישנים"
+  },
+  "3b4f0f27": {
+    "en": "An easy expressway drive back to the airport",
+    "he": "נסיעה נוחה בכביש המהיר חזרה לשדה התעופה"
+  },
+  "6348c219": {
+    "en": "Tall palm trees on a red-earth headland above a turquoise sea at Mirissa",
+    "he": "דקלים גבוהים על לשון יבשה של אדמה אדומה מעל ים טורקיז במיריסה"
+  },
+  "57e8e401": {
+    "en": "Mirissa",
+    "he": "מיריסה"
+  },
+  "18455b97": {
+    "en": "A curve of golden sand with a relaxed beach-town feel, and the best-known place on the island to go whale watching.",
+    "he": "קשת של חול זהוב עם אווירה של עיירת חוף רגועה, והמקום המוכר ביותר באי לצפייה בלווייתנים."
+  },
+  "445cbc20": {
+    "en": "Whale-watching boats, roughly November to April",
+    "he": "סירות לצפייה בלווייתנים, בערך מנובמבר עד אפריל"
+  },
+  "b2c59c84": {
+    "en": "Sunset at Coconut Tree Hill",
+    "he": "שקיעה בגבעת עצי הקוקוס"
+  },
+  "9cf6001c": {
+    "en": "Calm swimming in the bay in season",
+    "he": "שחייה רגועה במפרץ בעונה"
+  },
+  "335fc062": {
+    "en": "Add Mirissa to my trip",
+    "he": "הוספת מיריסה לטיול שלי"
+  },
+  "51ec2e5a": {
+    "en": "Weligama",
+    "he": "וליגמה"
+  },
+  "d89d3164": {
+    "en": "A wide, sandy bay with soft, rolling waves that make it one of the best places in Sri Lanka to learn to surf.",
+    "he": "מפרץ חולי ורחב עם גלים רכים ומתגלגלים, שהופכים אותו לאחד המקומות הטובים בסרי לנקה ללמוד לגלוש."
+  },
+  "9cbc676f": {
+    "en": "Beginner-friendly waves and surf schools on the beach",
+    "he": "גלים ידידותיים למתחילים ובתי ספר לגלישה על החוף"
+  },
+  "b691195e": {
+    "en": "See the stilt fishermen near Koggala",
+    "he": "לראות את הדייגים על כלונסאות ליד קוגלה"
+  },
+  "b3695ec2": {
+    "en": "Ask us about surf trip transfers",
+    "he": "שאלו אותנו על העברות לטיולי גלישה"
+  },
+  "ab4c055d": {
+    "en": "Ideal stay <1>2 to 3 nights</1>",
+    "he": "שהייה מומלצת <1>2 עד 3 לילות</1>"
+  },
+  "8f9f3451": {
+    "en": "Add Weligama to my trip",
+    "he": "הוספת וליגמה לטיול שלי"
+  },
+  "d3dce29f": {
+    "en": "The other monsoon",
+    "he": "המונסון השני"
+  },
+  "b05885a7": {
+    "en": "When the rains reach the south and west, the east coast comes into its own: calm turquoise water, coral reefs and long, quiet beaches.",
+    "he": "כשהגשמים מגיעים לדרום ולמערב, החוף המזרחי בשיאו: מים טורקיז רגועים, שוניות אלמוגים וחופים ארוכים ושקטים."
+  },
+  "20463c03": {
+    "en": "<1/>Best May to September",
+    "he": "<1/>הכי טוב ממאי עד ספטמבר"
+  },
+  "53f94122": {
+    "en": "Trincomalee",
+    "he": "טרינקומלי"
+  },
+  "fd1c8269": {
+    "en": "A deep natural harbour with clifftop temples, and white-sand beaches at Nilaveli and Uppuveli just up the coast.",
+    "he": "נמל טבעי עמוק עם מקדשים על הצוקים, וחופי חול לבן בנילאוולי ובאופובלי קצת צפונה לאורך החוף."
+  },
+  "f85de0f6": {
+    "en": "Snorkel among reef fish at Pigeon Island",
+    "he": "שנורקלינג בין דגי השונית באי היונים (Pigeon Island)"
+  },
+  "3bec3213": {
+    "en": "Koneswaram Temple on Swami Rock",
+    "he": "מקדש קונסווארם על סלע סוואמי"
+  },
+  "33fdcb61": {
+    "en": "Beach days at Nilaveli and Uppuveli",
+    "he": "ימי חוף בנילאוולי ובאופובלי"
+  },
+  "da7dbff1": {
+    "en": "Add Trincomalee to my trip",
+    "he": "הוספת טרינקומלי לטיול שלי"
+  },
+  "3d066ce3": {
+    "en": "Aerial view of colourful fishing boats pulled up on a sandy beach as waves roll in",
+    "he": "מבט מלמעלה על סירות דייגים צבעוניות שנמשכו אל חוף חולי בזמן שהגלים מתגלגלים פנימה"
+  },
+  "f012d17f": {
+    "en": "Arugam Bay",
+    "he": "ארוגם ביי"
+  },
+  "8c1b0f81": {
+    "en": "A surf town on the far south-east coast, famous for its long point break and easy-going village life.",
+    "he": "עיירת גלישה בקצה החוף הדרום־מזרחי, שמפורסמת בגל הפוינט הארוך ובחיי הכפר הנינוחים."
+  },
+  "afcb7f01": {
+    "en": "A world-famous point break for surfers",
+    "he": "גל פוינט מפורסם בעולם בקרב גולשים"
+  },
+  "298b23e8": {
+    "en": "Lagoon and wildlife trips towards Kumana",
+    "he": "סיורי לגונה וחיות בר לכיוון קומאנה"
+  },
+  "14fe59cc": {
+    "en": "Best on a 10 to 14-day trip",
+    "he": "מתאים במיוחד לטיול של 10 עד 14 ימים"
+  },
+  "69f964f3": {
+    "en": "Ideal stay <1>3 nights</1>",
+    "he": "שהייה מומלצת <1>3 לילות</1>"
+  },
+  "ab17b0b7": {
+    "en": "Add Arugam Bay to my trip",
+    "he": "הוספת ארוגם ביי לטיול שלי"
+  },
+  "c17507a0": {
+    "en": "The bow of a small boat heading out across calm, clear blue water",
+    "he": "החרטום של סירה קטנה שיוצאת אל מים כחולים, צלולים ורגועים"
+  },
+  "363cde17": {
+    "en": "Pasikudah",
+    "he": "פאסיקודה"
+  },
+  "034d7588": {
+    "en": "A shallow, sheltered bay where you can wade a long way out in warm, calm water. Lovely for families.",
+    "he": "מפרץ רדוד ומוגן שבו אפשר ללכת רחוק פנימה במים חמימים ורגועים. נהדר למשפחות."
+  },
+  "dce7bc5a": {
+    "en": "Shallow water, great for children",
+    "he": "מים רדודים, מצוין לילדים"
+  },
+  "95c3312d": {
+    "en": "Glassy, calm sea in season",
+    "he": "ים חלק ורגוע בעונה"
+  },
+  "550b367e": {
+    "en": "We can help you book a hotel here",
+    "he": "נוכל לעזור לכם להזמין כאן מלון"
+  },
+  "02afca68": {
+    "en": "Add Pasikudah to my trip",
+    "he": "הוספת פאסיקודה לטיול שלי"
+  },
+  "eb8920f2": {
+    "en": "Leopards and elephants",
+    "he": "נמרים ופילים"
+  },
+  "ae0b301b": {
+    "en": "Leopards, elephants, crocodiles and hundreds of bird species. Jeep safaris run early in the morning and late in the afternoon, when the animals are most active.",
+    "he": "נמרים, פילים, תנינים ומאות מיני ציפורים. ספארי הג׳יפים יוצאים מוקדם בבוקר ובשעות אחר הצהריים המאוחרות, כשהחיות הכי פעילות."
+  },
+  "f543658a": {
+    "en": "<1/>Good most of the year",
+    "he": "<1/>טוב ברוב ימות השנה"
+  },
+  "fd5d94a2": {
+    "en": "<1/>Allow 1 day per park",
+    "he": "<1/>כדאי להקדיש יום אחד לכל פארק"
+  },
+  "3025620f": {
+    "en": "Sri Lanka’s best-known national park, famous for its leopards, with elephants, sloth bears and crocodiles too.",
+    "he": "הפארק הלאומי המוכר ביותר בסרי לנקה, שמפורסם בנמרים שלו, ויש בו גם פילים, דובי שפתיים ותנינים."
+  },
+  "adc3e5e2": {
+    "en": "Early-morning jeep safaris for the best sightings",
+    "he": "ספארי ג׳יפים מוקדם בבוקר לתצפיות הטובות ביותר"
+  },
+  "489f9d49": {
+    "en": "The park often closes for a few weeks around September",
+    "he": "הפארק נסגר לעיתים קרובות לכמה שבועות בסביבות ספטמבר"
+  },
+  "a66665bc": {
+    "en": "We arrange Yala safari day tours",
+    "he": "אנחנו מארגנים טיולי יום לספארי ביאלה"
+  },
+  "9c3f862b": {
+    "en": "A family of elephants walking through tall green grass",
+    "he": "משפחת פילים צועדת בעשב ירוק וגבוה"
+  },
+  "22780d30": {
+    "en": "Udawalawe",
+    "he": "אודאוואלאווה"
+  },
+  "b6917227": {
+    "en": "Open grassland around a large reservoir, and one of the most reliable places on the island to see wild elephants.",
+    "he": "שטחי עשב פתוחים סביב מאגר מים גדול, ואחד המקומות הבטוחים ביותר באי לראות פילי בר."
+  },
+  "b6754e40": {
+    "en": "Herds of elephants all year round",
+    "he": "עדרי פילים כל השנה"
+  },
+  "d646793b": {
+    "en": "An easy stop on the way to the south coast",
+    "he": "עצירה נוחה בדרך לחוף הדרומי"
+  },
+  "336b20bc": {
+    "en": "Add Udawalawe to my trip",
+    "he": "הוספת אודאוואלאווה לטיול שלי"
+  },
+  "e994f623": {
+    "en": "A herd of elephants wading across a wide, shallow river",
+    "he": "עדר פילים חוצה נהר רחב ורדוד"
+  },
+  "1d8611a9": {
+    "en": "Minneriya",
+    "he": "מינריה"
+  },
+  "a572634b": {
+    "en": "In the dry season, hundreds of elephants gather on the grassy shores of the ancient Minneriya reservoir.",
+    "he": "בעונה היבשה מאות פילים מתקבצים על הגדות העשבוניות של מאגר המים העתיק של מינריה."
+  },
+  "fd5c5201": {
+    "en": "“The Gathering”, roughly July to October",
+    "he": "„ההתקבצות” (The Gathering), בערך מיולי עד אוקטובר"
+  },
+  "813fb111": {
+    "en": "Nearby Kaudulla when the herds move on",
+    "he": "קאודולה הסמוך, כשהעדרים ממשיכים הלאה"
+  },
+  "b612f51a": {
+    "en": "Close to Sigiriya and Polonnaruwa",
+    "he": "קרוב לסיגיריה ולפולונארווה"
+  },
+  "d530fb30": {
+    "en": "Add Minneriya to my trip",
+    "he": "הוספת מינריה לטיול שלי"
+  },
+  "125da6c7": {
+    "en": "Where most trips begin",
+    "he": "המקום שבו רוב הטיולים מתחילים"
+  },
+  "272fbc5d": {
+    "en": "Colombo and the airport",
+    "he": "קולומבו ושדה התעופה"
+  },
+  "b9ae012b": {
+    "en": "We meet you at arrivals at Bandaranaike International Airport and drive you to wherever your trip begins. Spend a night in Colombo for its markets, temples and seafront, or head straight for the hills. Day transfers start from <1/>.",
+    "he": "נפגוש אתכם באולם הנוסעים הנכנסים בנמל התעופה הבינלאומי בנדרנאיקה וניסע איתכם לאן שהטיול שלכם מתחיל. בלו לילה בקולומבו בשביל השווקים, המקדשים וטיילת החוף, או סעו ישר אל ההרים. העברות יומיות החל מ־<1/>."
+  },
+  "cdf72699": {
+    "en": "Ask about airport pick-up<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על איסוף משדה התעופה<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  }
+}

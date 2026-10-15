@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Before the next stop",
+    "alt": "Two guests and their driver-guide taking a selfie beside a car outside a building",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 460,
+    "image": "/assets/images/gallery/gal-colonial-building-1600.webp"
+  },
+  "de": {
+    "title": "Vor dem nächsten Halt",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide machen ein Selfie neben einem Auto vor einem Gebäude"
+  },
+  "fr": {
+    "title": "Avant la prochaine étape",
+    "alt": "Deux voyageurs et leur chauffeur-guide prenant un selfie à côté d’une voiture devant un bâtiment"
+  },
+  "ru": {
+    "title": "Перед следующей остановкой",
+    "alt": "Двое гостей и их водитель-гид делают селфи у машины перед зданием"
+  },
+  "he": {
+    "title": "לפני העצירה הבאה",
+    "alt": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי ליד מכונית מחוץ לבניין"
+  }
+}

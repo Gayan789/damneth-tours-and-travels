@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Ready for the road",
+    "alt": "Two adults and three children standing in front of a white car on a sandy clearing",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 190,
+    "image": "/assets/images/gallery/gal-family-car-1600.webp"
+  },
+  "de": {
+    "title": "Bereit für die Fahrt",
+    "alt": "Zwei Erwachsene und drei Kinder stehen vor einem weißen Auto auf einer sandigen Lichtung"
+  },
+  "fr": {
+    "title": "Prêts à prendre la route",
+    "alt": "Deux adultes et trois enfants devant une voiture blanche dans une clairière sablonneuse"
+  },
+  "ru": {
+    "title": "Готовы в путь",
+    "alt": "Двое взрослых и трое детей стоят перед белой машиной на песчаной поляне"
+  },
+  "he": {
+    "title": "מוכנים לדרך",
+    "alt": "שני מבוגרים ושלושה ילדים עומדים מול מכונית לבנה בקרחת יער חולית"
+  }
+}

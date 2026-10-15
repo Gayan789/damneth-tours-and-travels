@@ -1,0 +1,281 @@
+/* ==========================================================================
+   Damneth Tours & Travels: design tokens
+   --------------------------------------------------------------------------
+   The single source of truth for colour, type, spacing, radii, shadows
+   and motion. Components reference these tokens; avoid raw values elsewhere.
+
+   Naming
+     --color-{palette}-{step}   raw brand palette
+     --color-{role}             semantic roles used by components
+     --font-*, --text-*, --weight-*, --leading-*, --tracking-*
+     --space-{1..12}            4px-based spacing scale
+     --radius-*, --shadow-*, --ease-*, --duration-*, --z-*
+
+   Breakpoints (custom properties can't be used inside @media, so these
+   are documented here and used as literals in styles.css)
+     sm  40em  (640px)
+     md  48em  (768px)
+     lg  64em  (1024px)
+     xl  80em  (1280px)
+   ========================================================================== */
+
+/* ---------- Fonts (self-hosted, see /assets/fonts) ---------- */
+/* Each file covers one script (unicode-range), so a browser only downloads the Cyrillic or
+   Hebrew files when a page in Russian or Hebrew needs them. Poppins has no Cyrillic or Hebrew,
+   so headings in those languages fall through to Montserrat (Cyrillic) and Heebo (Hebrew). */
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/inter-latin-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/inter-cyrillic-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-latin-500-normal.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/montserrat-cyrillic-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "Heebo";
+  src: url("../fonts/heebo-hebrew-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+:root {
+  /* ---------- Brand palette ---------- */
+  /* Ocean Blue: brand #0D5C75 = 700 */
+  --color-ocean-950: #051e28;
+  --color-ocean-900: #08303d;
+  --color-ocean-800: #0a4a5e;
+  --color-ocean-700: #0d5c75;
+  --color-ocean-600: #1a7290;
+  --color-ocean-300: #8fc1cf;
+  --color-ocean-100: #dcedf1;
+  --color-ocean-50:  #eef6f8;
+
+  /* Sunset Gold: brand #F2A900 = 500 */
+  --color-gold-600: #d99700;
+  --color-gold-500: #f2a900;
+  --color-gold-300: #f8cc66;
+  --color-gold-100: #fdf0cc;
+  --color-gold-700: #8a6300; /* AA-safe gold for small text on light backgrounds */
+
+  /* WhatsApp green, only on the floating contact stack and the menu's WhatsApp buttons;
+     it always takes ocean-950 ink (8.7:1), never white (2:1) */
+  --color-whatsapp: #25d366;
+  --color-whatsapp-pressed: #1ebe5b;
+
+  /* Instagram's own gradient, only behind the white glyph on the floating Instagram button;
+     the glyph sits in the pink-to-magenta band (6:1 at the centre) */
+  --gradient-instagram: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+
+  /* Sand White: brand #F9F9F6 = 100 */
+  --color-sand-100: #f9f9f6;
+  --color-sand-200: #f1efe8;
+  --color-sand-300: #e3dfd3;
+
+  /* Neutrals */
+  --color-white: #ffffff;
+  --color-ink-900: #0f2730;
+  --color-ink-600: #4a5f66;
+  --color-slate-400: #7b8d93; /* 3:1 on white: form control borders */
+
+  /* Feedback */
+  --color-red-700: #b3261e;
+  --color-green-700: #1e7a4c;
+
+  /* ---------- Semantic roles ---------- */
+  --color-bg: var(--color-sand-100);
+  --color-bg-alt: var(--color-sand-200);
+  --color-bg-deep: var(--color-ocean-900);
+  --color-bg-deepest: var(--color-ocean-950);
+  --color-surface: var(--color-white);
+
+  --color-text: var(--color-ink-900);
+  --color-text-muted: var(--color-ink-600);
+  --color-text-inverse: var(--color-white);
+  --color-text-inverse-muted: rgb(255 255 255 / 0.78);
+  --color-heading: var(--color-ocean-900);
+
+  --color-primary: var(--color-ocean-700);
+  --color-primary-hover: var(--color-ocean-800);
+  --color-primary-soft: var(--color-ocean-50);
+  --color-accent: var(--color-gold-500);
+  --color-accent-hover: var(--color-gold-300);
+  --color-on-accent: var(--color-ocean-900);
+  --color-accent-text: var(--color-gold-700);
+  --color-accent-soft: var(--color-gold-100);
+  --color-eyebrow: var(--color-gold-700);
+
+  --color-border: var(--color-sand-300);
+  --color-border-strong: var(--color-slate-400);
+  --color-border-inverse: rgb(255 255 255 / 0.18);
+  --color-focus: var(--color-ocean-700);
+  --color-header-solid: rgb(249 249 246 / 0.92);
+  --color-error: var(--color-red-700);
+  --color-success: var(--color-green-700);
+
+  /* Overlays & gradients */
+  --overlay-hero:
+    linear-gradient(100deg, rgb(5 30 40 / 0.88) 0%, rgb(5 30 40 / 0.62) 42%, rgb(5 30 40 / 0.08) 78%),
+    linear-gradient(0deg, rgb(5 30 40 / 0.55) 0%, rgb(5 30 40 / 0) 40%);
+  /* The hero video is brighter than the photo (open sky, sunlit tea), so its scrim is a little deeper */
+  --overlay-hero-video:
+    linear-gradient(100deg, rgb(5 30 40 / 0.9) 0%, rgb(5 30 40 / 0.68) 42%, rgb(5 30 40 / 0.2) 80%),
+    linear-gradient(0deg, rgb(5 30 40 / 0.6) 0%, rgb(5 30 40 / 0) 45%),
+    linear-gradient(180deg, rgb(5 30 40 / 0.45) 0%, rgb(5 30 40 / 0) 28%);
+  --overlay-card: linear-gradient(180deg, rgb(5 30 40 / 0) 30%, rgb(5 30 40 / 0.86) 100%);
+  --overlay-deep: linear-gradient(180deg, rgb(5 30 40 / 0.78) 0%, rgb(5 30 40 / 0.9) 100%);
+  --overlay-header: linear-gradient(180deg, rgb(5 30 40 / 0.6) 0%, rgb(5 30 40 / 0) 100%);
+  --overlay-glass: rgb(255 255 255 / 0.1);
+  --overlay-glass-strong: rgb(8 48 61 / 0.55);
+
+  /* ---------- Typography ---------- */
+  --font-display: "Poppins", "Montserrat", "Heebo", "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-body: "Inter", "Heebo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1.0625rem;
+  --text-md: 1.125rem;
+  --text-lg: clamp(1.125rem, 1.05rem + 0.35vw, 1.3rem);
+  --text-xl: clamp(1.25rem, 1.1rem + 0.6vw, 1.6rem);
+  --text-2xl: clamp(1.5rem, 1.2rem + 1.2vw, 2.1rem);
+  --text-3xl: clamp(1.95rem, 1.35rem + 2.2vw, 3.1rem);
+  --text-4xl: clamp(2.3rem, 1.5rem + 3.2vw, 4.1rem);
+  --text-display: clamp(2.55rem, 1.4rem + 4.6vw, 5.4rem);
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  --leading-tight: 1.08;
+  --leading-snug: 1.18;
+  --leading-normal: 1.6;
+
+  --tracking-tight: -0.025em;
+  --tracking-snug: -0.012em;
+  --tracking-wide: 0.16em;
+
+  /* ---------- Spacing (4px base) ---------- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 2.5rem;
+  --space-8: 3rem;
+  --space-9: 4rem;
+  --space-10: 5rem;
+  --space-11: 6rem;
+  --space-12: 8rem;
+  --space-section: clamp(4.5rem, 2.75rem + 6.5vw, 8.5rem);
+
+  /* ---------- Layout ---------- */
+  --container: 76rem;
+  --container-narrow: 46rem;
+  /* Never narrower than a notch or rounded corner (viewport-fit=cover, phones in landscape) */
+  --gutter: max(clamp(1rem, 0.4rem + 2.6vw, 2.5rem), env(safe-area-inset-left, 0px), env(safe-area-inset-right, 0px));
+  --header-height: 4.5rem;
+
+  /* ---------- Radii ---------- */
+  --radius-xs: 0.375rem;
+  --radius-sm: 0.625rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2.25rem;
+  --radius-pill: 999px;
+
+  /* ---------- Borders ---------- */
+  --border-thin: 1px;
+  --border-thick: 2px;
+  --border-focus: 3px;
+
+  /* ---------- Shadows (tinted with ocean) ---------- */
+  --shadow-sm: 0 1px 2px rgb(8 48 61 / 0.06), 0 2px 8px rgb(8 48 61 / 0.06);
+  --shadow-md: 0 10px 30px -12px rgb(8 48 61 / 0.25);
+  --shadow-lg: 0 30px 70px -28px rgb(8 48 61 / 0.45);
+  --shadow-accent: 0 12px 28px -12px rgb(242 169 0 / 0.75);
+  --shadow-focus: 0 0 0 3px var(--color-focus);
+
+  /* ---------- Motion ---------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --duration-fast: 160ms;
+  --duration-base: 320ms;
+  --duration-slow: 800ms;
+
+  /* ---------- Layers ---------- */
+  --z-base: 1;
+  --z-raised: 2;
+  --z-float: 40;
+  --z-header: 50;
+  --z-menu: 60;
+}
+
+/* ---------- Dark theme scope ----------
+   Add .theme-dark to any section with a deep ocean or photo background.
+   Components keep using the same semantic tokens; only the roles change. */
+.theme-dark {
+  --color-text: var(--color-white);
+  --color-text-muted: var(--color-text-inverse-muted);
+  --color-heading: var(--color-white);
+  --color-eyebrow: var(--color-gold-300);
+  --color-border: var(--color-border-inverse);
+  --color-focus: var(--color-gold-500);
+  --color-primary-soft: var(--overlay-glass);
+  color: var(--color-text);
+}
+
+/* Light scope: resets roles for light cards placed inside a .theme-dark section */
+.theme-light {
+  --color-text: var(--color-ink-900);
+  --color-text-muted: var(--color-ink-600);
+  --color-heading: var(--color-ocean-900);
+  --color-eyebrow: var(--color-gold-700);
+  --color-border: var(--color-sand-300);
+  --color-focus: var(--color-ocean-700);
+  --color-primary-soft: var(--color-ocean-50);
+  color: var(--color-text);
+}

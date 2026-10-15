@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Mountain selfie",
+    "alt": "Two guests and their driver-guide taking a selfie in front of green mountains",
+    "type": "image",
+    "category": "hills",
+    "with_guests": true,
+    "order": 320,
+    "image": "/assets/images/gallery/gal-mountain-top-1600.webp"
+  },
+  "de": {
+    "title": "Berg-Selfie",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide machen ein Selfie vor grünen Bergen"
+  },
+  "fr": {
+    "title": "Selfie en montagne",
+    "alt": "Deux voyageurs et leur chauffeur-guide prenant un selfie devant des montagnes verdoyantes"
+  },
+  "ru": {
+    "title": "Селфи в горах",
+    "alt": "Двое гостей и их водитель-гид делают селфи на фоне зелёных гор"
+  },
+  "he": {
+    "title": "סלפי בהרים",
+    "alt": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי מול הרים ירוקים"
+  }
+}

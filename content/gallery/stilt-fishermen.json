@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Stilt fishing poles",
+    "alt": "A guest perched on a stilt-fishing pole at the water’s edge while a fisherman sits on another pole out in the surf",
+    "type": "image",
+    "category": "coast",
+    "with_guests": false,
+    "order": 30,
+    "image": "/assets/images/gallery/gal-stilt-fishermen-1600.webp"
+  },
+  "de": {
+    "title": "Pfähle der Stelzenfischer",
+    "alt": "Ein Gast sitzt auf einem Stelzenfischer-Pfahl am Wasser, während ein Fischer auf einem anderen Pfahl draußen in der Brandung sitzt"
+  },
+  "fr": {
+    "title": "Les perches des pêcheurs sur échasses",
+    "alt": "Un voyageur perché sur une perche de pêcheur sur échasses au bord de l’eau, tandis qu’un pêcheur est assis sur une autre perche dans les vagues"
+  },
+  "ru": {
+    "title": "Шесты рыбаков на сваях",
+    "alt": "Гость сидит на рыбацком шесте у кромки воды, а рыбак — на другом шесте в прибое"
+  },
+  "he": {
+    "title": "עמודי הדייגים על כלונסאות",
+    "alt": "אורח יושב על עמוד דייג בשפת המים, בזמן שדייג יושב על עמוד אחר בתוך הגלים"
+  }
+}

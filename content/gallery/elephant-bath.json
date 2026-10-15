@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Bath time in the river",
+    "alt": "Guests helping to scrub an elephant as it lies in a shallow river, a child sitting on its back",
+    "type": "image",
+    "category": "wildlife",
+    "with_guests": false,
+    "order": 20,
+    "image": "/assets/images/gallery/gal-elephant-bath-1200.webp"
+  },
+  "de": {
+    "title": "Badezeit im Fluss",
+    "alt": "Gäste helfen, einen Elefanten zu schrubben, der in einem flachen Fluss liegt, ein Kind sitzt auf seinem Rücken"
+  },
+  "fr": {
+    "title": "L’heure du bain à la rivière",
+    "alt": "Des voyageurs aident à frotter un éléphant allongé dans une rivière peu profonde, un enfant assis sur son dos"
+  },
+  "ru": {
+    "title": "Купание в реке",
+    "alt": "Гости помогают мыть слона, лежащего в мелкой реке, на его спине сидит ребёнок"
+  },
+  "he": {
+    "title": "שעת רחצה בנהר",
+    "alt": "אורחים עוזרים לקרצף פיל ששוכב בנהר רדוד, וילד יושב על גבו"
+  }
+}

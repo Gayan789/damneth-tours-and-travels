@@ -1,0 +1,528 @@
+{
+  "_meta": {
+    "language": "ru",
+    "bundle": "journal",
+    "status": "draft – needs native review",
+    "about": "Text on journal.html. Translate the \"ru\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "143c2fab": {
+    "en": "Sri Lanka Travel Journal: Tips, Culture &amp; Itinerary Ideas | Damneth Tours &amp; Travels",
+    "ru": "Путевой журнал о Шри-Ланке: советы, культура и идеи маршрутов | Damneth Tours &amp; Travels"
+  },
+  "9e54215a": {
+    "en": "Practical Sri Lanka travel tips from a local driver-guide team: private driver vs public transport, the best time to visit, the Kandy to Ella train, temple etiquette and itinerary ideas.",
+    "ru": "Практичные советы о поездке на Шри-Ланку от местной команды водителей-гидов: личный водитель или общественный транспорт, лучшее время для поездки, поезд из Канди в Эллу, правила поведения в храмах и идеи маршрутов."
+  },
+  "dcf63cdf": {
+    "en": "Steep green mountain slopes under a blue sky with drifting cloud",
+    "ru": "Крутые зелёные склоны гор под голубым небом с плывущими облаками"
+  },
+  "8fef0e63": {
+    "en": "Sri Lanka travel notes, <1>from the people who drive it.</1>",
+    "ru": "Заметки о Шри-Ланке <1>от тех, кто колесит по её дорогам.</1>"
+  },
+  "a13b9749": {
+    "en": "Honest tips, a little culture and itinerary ideas to help you plan. If your question isn’t answered here, ask us on WhatsApp. Planning help is always free.",
+    "ru": "Честные советы, немного культуры и идеи маршрутов, чтобы помочь вам спланировать поездку. Если не нашли здесь ответа на свой вопрос, спросите нас в WhatsApp. Помощь в планировании всегда бесплатна."
+  },
+  "1dd6b3e8": {
+    "en": "Browse the guides <1/>",
+    "ru": "Смотреть статьи <1/>"
+  },
+  "3bc5f6eb": {
+    "en": "<1/> Ask a question<2> (opens in a new tab)</2>",
+    "ru": "<1/> Задать вопрос<2> (откроется в новой вкладке)</2>"
+  },
+  "32cc9738": {
+    "en": "<1/>Featured guide",
+    "ru": "<1/>Главная статья"
+  },
+  "ac815169": {
+    "en": "Itinerary Ideas",
+    "ru": "Идеи маршрутов"
+  },
+  "e155d28a": {
+    "en": "First time in Sri Lanka? How to plan a road trip that flows",
+    "ru": "Впервые на Шри-Ланке? Как спланировать поездку, в которой всё складывается"
+  },
+  "ccc58b6b": {
+    "en": "Loops not lines, two nights rather than one, and the right coast for your dates. Everything we tell friends who are planning their first trip.",
+    "ru": "Кольцо, а не прямая, две ночи вместо одной и правильное побережье под ваши даты. Всё, что мы советуем друзьям, которые планируют первую поездку."
+  },
+  "9cda2219": {
+    "en": "<1/>6 min read",
+    "ru": "<1/>6 мин чтения"
+  },
+  "9f0972e9": {
+    "en": "<1/>For 7 to 14-day trips",
+    "ru": "<1/>Для поездок на 7–14 дней"
+  },
+  "c876ccb0": {
+    "en": "Read the guide <1/>",
+    "ru": "Читать статью <1/>"
+  },
+  "d49cd519": {
+    "en": "Guides &amp; tips",
+    "ru": "Статьи и советы"
+  },
+  "1ec3a354": {
+    "en": "Plan smarter, travel slower",
+    "ru": "Планируйте с умом, путешествуйте не спеша"
+  },
+  "211b1abd": {
+    "en": "Short, practical reads on getting around, local customs and how to shape your days.",
+    "ru": "Короткие практичные статьи о том, как передвигаться, о местных обычаях и о том, как выстроить свои дни."
+  },
+  "e7422d11": {
+    "en": "Filter guides by category",
+    "ru": "Фильтр статей по категории"
+  },
+  "7d3d59ee": {
+    "en": "All <1><2/>7<3> guides</3></1>",
+    "ru": "Все <1><2/>7<3> статей</3></1>"
+  },
+  "9b60654d": {
+    "en": "All guides",
+    "ru": "Все статьи"
+  },
+  "49e1c964": {
+    "en": "Travel Tips <1><2/>3<3> guides</3></1>",
+    "ru": "Советы в дорогу <1><2/>3<3> статьи</3></1>"
+  },
+  "c6cac433": {
+    "en": "Travel Tips",
+    "ru": "Советы в дорогу"
+  },
+  "44cbcbdc": {
+    "en": "Culture <1><2/>2<3> guides</3></1>",
+    "ru": "Культура <1><2/>2<3> статьи</3></1>"
+  },
+  "1db19285": {
+    "en": "Culture",
+    "ru": "Культура"
+  },
+  "f7ed20a3": {
+    "en": "Itinerary Ideas <1><2/>2<3> guides</3></1>",
+    "ru": "Идеи маршрутов <1><2/>2<3> статьи</3></1>"
+  },
+  "719b0549": {
+    "en": "Private driver vs public transport",
+    "ru": "Личный водитель или общественный транспорт"
+  },
+  "b96efe89": {
+    "en": "Buses and trains are cheap and full of character. A driver buys you time and comfort. Here’s how they compare.",
+    "ru": "Автобусы и поезда дешёвые и колоритные. Водитель экономит вам время и даёт комфорт. Вот как они соотносятся."
+  },
+  "9f217521": {
+    "en": "<1/>4 min read",
+    "ru": "<1/>4 мин чтения"
+  },
+  "fe2de8dd": {
+    "en": "Best time to visit Sri Lanka",
+    "ru": "Когда лучше ехать на Шри-Ланку"
+  },
+  "6ecad2c3": {
+    "en": "Two monsoons hit different coasts at different times, so somewhere on the island is almost always in season.",
+    "ru": "Два муссона приходят на разные побережья в разное время, поэтому где-то на острове почти всегда сезон."
+  },
+  "88e2c0fd": {
+    "en": "Kandy to Ella train guide",
+    "ru": "Поезд из Канди в Эллу"
+  },
+  "41764e79": {
+    "en": "The ride through tea country is a highlight of any trip. A few tips make it far more enjoyable.",
+    "ru": "Поездка через чайный край — изюминка любого путешествия. Несколько советов сделают её намного приятнее."
+  },
+  "9b91fa0f": {
+    "en": "<1/>5 min read",
+    "ru": "<1/>5 мин чтения"
+  },
+  "e0d79b1e": {
+    "en": "Temple etiquette: what to wear and how to visit",
+    "ru": "Этикет в храмах: что надеть и как себя вести"
+  },
+  "2e689cf2": {
+    "en": "Temples are living places of worship. A little preparation shows respect and makes every visit easy.",
+    "ru": "Храмы — это действующие места поклонения. Немного подготовки — и вы проявите уважение, а каждый визит пройдёт легко."
+  },
+  "b1a2461b": {
+    "en": "<1/>3 min read",
+    "ru": "<1/>3 мин чтения"
+  },
+  "1c92e565": {
+    "en": "Kandyan dance and the Esala Perahera",
+    "ru": "Кандийские танцы и Эсала Перахера"
+  },
+  "3624fa21": {
+    "en": "Drums, fire and dazzling costumes: where to see Kandyan dance, and how to plan around Kandy’s biggest festival.",
+    "ru": "Барабаны, огонь и ослепительные костюмы: где увидеть кандийские танцы и как спланировать поездку с учётом главного праздника Канди."
+  },
+  "db3297b5": {
+    "en": "Four easy days on the south coast",
+    "ru": "Четыре лёгких дня на южном побережье"
+  },
+  "53ad1680": {
+    "en": "Beaches, a fort town and whales, without long drives. A gentle way to end a trip.",
+    "ru": "Пляжи, город-крепость и киты без долгих переездов. Мягкое завершение поездки."
+  },
+  "cc884c4a": {
+    "en": "Two slow days in tea country",
+    "ru": "Два неспешных дня в чайном краю"
+  },
+  "e9c481c3": {
+    "en": "The hills reward a slower pace. How to spend two unhurried days between Nuwara Eliya and Ella.",
+    "ru": "Горы вознаграждают неспешный темп. Как провести два спокойных дня между Нувара-Элией и Эллой."
+  },
+  "40fde364": {
+    "en": "The guides in full",
+    "ru": "Статьи полностью"
+  },
+  "6a02281a": {
+    "en": "Sri Lanka looks small on the map, but winding roads mean every drive takes longer than you expect. A little planning makes the whole trip feel easy.",
+    "ru": "На карте Шри-Ланка выглядит маленькой, но из-за извилистых дорог каждый переезд занимает больше времени, чем вы ожидаете. Немного планирования, и вся поездка пройдёт легко."
+  },
+  "0ad07cae": {
+    "en": "Think in loops, not lines",
+    "ru": "Думайте кольцом, а не прямой"
+  },
+  "1be6104d": {
+    "en": "Most first trips follow a loop: north to the Cultural Triangle, into the hills around Kandy and Ella, down to Yala, then west along the south coast and back to the airport. You never double back, and the beach comes at the end, when you’ll want to slow down.",
+    "ru": "Большинство первых поездок идут по кольцу: на север к Культурному треугольнику, в горы вокруг Канди и Эллы, на юг к Яле, затем на запад вдоль южного побережья и обратно в аэропорт. Вы ни разу не возвращаетесь той же дорогой, а пляж будет в конце, когда захочется замедлиться."
+  },
+  "546d8be9": {
+    "en": "Two nights beats one",
+    "ru": "Две ночи лучше одной"
+  },
+  "f33b983a": {
+    "en": "Moving every day is tiring. Two nights in places like Sigiriya, Ella and the coast gives you full days to explore, rather than living out of a suitcase.",
+    "ru": "Переезжать каждый день утомительно. Две ночи в таких местах, как Сигирия, Элла и побережье, дают целые дни на знакомство с ними, а не жизнь на чемоданах."
+  },
+  "759bdb05": {
+    "en": "Match the coast to the season",
+    "ru": "Выбирайте побережье по сезону"
+  },
+  "8410e68d": {
+    "en": "The south and west coasts are best from December to April, and the east coast from May to September. We’ll point you to the right side of the island for your dates.",
+    "ru": "Южное и западное побережья лучше всего с декабря по апрель, а восточное с мая по сентябрь. Мы подскажем, какая сторона острова подойдёт под ваши даты."
+  },
+  "1766df5e": {
+    "en": "<1>How many days?</1> Seven covers the highlights, ten is a comfortable pace, and fourteen lets you add the east coast or the ancient north. <2>See our sample journeys</2>.",
+    "ru": "<1>Сколько дней?</1> Семи хватит на главное, десять — комфортный темп, а за четырнадцать можно добавить восточное побережье или древний север. <2>Смотрите примеры наших маршрутов</2>."
+  },
+  "0928de14": {
+    "en": "Back to all guides <1/>",
+    "ru": "Ко всем статьям <1/>"
+  },
+  "a81e3500": {
+    "en": "Ask us a question<1> (opens in a new tab)</1> <2/>",
+    "ru": "Задайте нам вопрос<1> (откроется в новой вкладке)</1> <2/>"
+  },
+  "3a3747e0": {
+    "en": "A brightly painted local bus parked beside a road",
+    "ru": "Ярко раскрашенный местный автобус у обочины"
+  },
+  "df276960": {
+    "en": "Sri Lanka’s buses and trains are cheap and part of the adventure. A private driver buys you time, comfort and flexibility. Here’s an honest comparison.",
+    "ru": "Автобусы и поезда на Шри-Ланке дешёвые и сами по себе приключение. Личный водитель даёт вам время, комфорт и гибкость. Вот честное сравнение."
+  },
+  "d97d91e5": {
+    "en": "Public transport reaches almost everywhere, but journeys often need a tuk-tuk at each end, and timetables can be unpredictable. With a private driver, the car is waiting when you are ready and stops wherever you like.",
+    "ru": "Общественный транспорт добирается почти везде, но на каждом конце пути часто нужен тук-тук, а расписание бывает непредсказуемым. С личным водителем машина ждёт, когда вы готовы, и останавливается, где захотите."
+  },
+  "530a713c": {
+    "en": "Private driver and public transport compared",
+    "ru": "Сравнение личного водителя и общественного транспорта"
+  },
+  "451edd79": {
+    "en": "Factor",
+    "ru": "Критерий"
+  },
+  "d672c8bb": {
+    "en": "Private driver",
+    "ru": "Личный водитель"
+  },
+  "3e9295d0": {
+    "en": "Public transport",
+    "ru": "Общественный транспорт"
+  },
+  "05557cb5": {
+    "en": "Door to door",
+    "ru": "От двери до двери"
+  },
+  "710b1a92": {
+    "en": "Yes, from the airport to every hotel",
+    "ru": "Да, из аэропорта до каждого отеля"
+  },
+  "2dd5ea66": {
+    "en": "Usually needs tuk-tuks at each end",
+    "ru": "Обычно нужны тук-туки на каждом конце пути"
+  },
+  "b6bd8cb2": {
+    "en": "Luggage",
+    "ru": "Багаж"
+  },
+  "d30ff869": {
+    "en": "Stays in the vehicle",
+    "ru": "Остаётся в машине"
+  },
+  "8d5f754a": {
+    "en": "Carried on and off busy buses",
+    "ru": "Таскать в переполненные автобусы и обратно"
+  },
+  "098024dc": {
+    "en": "Timing",
+    "ru": "Время"
+  },
+  "c82c6c2b": {
+    "en": "Leave when you’re ready, stop when you like",
+    "ru": "Выезд, когда готовы, остановки — где захотите"
+  },
+  "3f042400": {
+    "en": "Fixed timetables",
+    "ru": "Фиксированное расписание"
+  },
+  "f72d5fc6": {
+    "en": "Comfort",
+    "ru": "Комфорт"
+  },
+  "673e5edb": {
+    "en": "Air-conditioned, a seat for everyone",
+    "ru": "Кондиционер и место для каждого"
+  },
+  "daf321a2": {
+    "en": "Often crowded, sometimes standing",
+    "ru": "Часто многолюдно, иногда стоя"
+  },
+  "64ae43e8": {
+    "en": "Cost",
+    "ru": "Цена"
+  },
+  "9dd39283": {
+    "en": "Higher, but fixed and shared by your group",
+    "ru": "Выше, но твёрдая и делится на всю группу"
+  },
+  "69adf213": {
+    "en": "Very low",
+    "ru": "Очень низкая"
+  },
+  "9be9e446": {
+    "en": "If you’re travelling solo on a tight budget with plenty of time, buses and trains are a great way to see local life. Many travellers mix both: a driver for the long road days, and the train to Ella for the views.",
+    "ru": "Если вы путешествуете в одиночку, с ограниченным бюджетом и запасом времени, автобусы и поезда — отличный способ увидеть местную жизнь. Многие сочетают и то и другое: водитель для долгих переездов и поезд в Эллу ради видов."
+  },
+  "186cbaf7": {
+    "en": "<1>What a driver costs with us:</1> multi-day tours start from roughly <2/> a day for the vehicle and driver-guide, with no hidden fuel or toll charges.",
+    "ru": "<1>Сколько стоит водитель у нас:</1> многодневные туры — примерно от <2/> в день за автомобиль и водителя-гида, без скрытых доплат за топливо и платные дороги."
+  },
+  "80bf4037": {
+    "en": "Dark monsoon clouds over a wide sandy beach, with a few people walking by the waves",
+    "ru": "Тёмные муссонные тучи над широким песчаным пляжем, у воды гуляют несколько человек"
+  },
+  "8690e06c": {
+    "en": "Sri Lanka has two monsoons that reach different coasts at different times of year, so somewhere on the island is almost always in season.",
+    "ru": "На Шри-Ланке два муссона, которые приходят на разные побережья в разное время года, поэтому где-то на острове почти всегда сезон."
+  },
+  "bdd885af": {
+    "en": "December to April: the west and south coasts",
+    "ru": "С декабря по апрель: западное и южное побережья"
+  },
+  "3165c5f9": {
+    "en": "Dry, sunny days on the beaches from Colombo down to Galle and Mirissa, and the clearest views in the hill country. This is also the busiest time of year.",
+    "ru": "Сухие солнечные дни на пляжах от Коломбо до Галле и Мириссы и самые ясные виды в горах. Это и самое оживлённое время года."
+  },
+  "8b8b8f09": {
+    "en": "May to September: the east coast",
+    "ru": "С мая по сентябрь: восточное побережье"
+  },
+  "ec9130ca": {
+    "en": "While the south-west monsoon brings rain to the south and west, the east coast around Trincomalee, Pasikudah and Arugam Bay is at its best.",
+    "ru": "Пока юго-западный муссон приносит дожди на юг и запад, восточное побережье в районе Тринкомали, Пасикуды и Аругам-Бей в лучшей форме."
+  },
+  "40e4bec0": {
+    "en": "The months in between",
+    "ru": "Межсезонье"
+  },
+  "23eb481d": {
+    "en": "October and November, and the weeks around April and May, can bring afternoon thunderstorms across the island. Mornings are often clear, and it’s quieter everywhere.",
+    "ru": "В октябре и ноябре, а также в недели около апреля и мая по всему острову бывают дневные грозы. Утро часто ясное, и везде спокойнее."
+  },
+  "908c694c": {
+    "en": "The Cultural Triangle and the hill country can be visited all year. Tell us your dates and we’ll plan a route that follows the sunshine.",
+    "ru": "Культурный треугольник и горный район можно посещать круглый год. Сообщите нам даты, и мы спланируем маршрут вслед за солнцем."
+  },
+  "a7da57ad": {
+    "en": "The train ride through tea country is a highlight of any trip to Sri Lanka. A few simple tips make it far more enjoyable.",
+    "ru": "Поездка на поезде через чайный край — изюминка любого путешествия по Шри-Ланке. Несколько простых советов сделают её намного приятнее."
+  },
+  "aba8160d": {
+    "en": "The full journey from Kandy to Ella takes around six to seven hours. Short on time? Board at Nanu Oya, near Nuwara Eliya, instead. The ride from there to Ella takes about three to four hours and has many of the best views.",
+    "ru": "Полный путь из Канди в Эллу занимает около шести-семи часов. Мало времени? Садитесь в Нану-Оя рядом с Нувара-Элией. Оттуда до Эллы примерно три-четыре часа, и на этот участок приходится много лучших видов."
+  },
+  "5c622a51": {
+    "en": "Tickets",
+    "ru": "Билеты"
+  },
+  "27fc9342": {
+    "en": "Reserved seats sell out early in the busy season, so book as soon as your dates are fixed. We can help organise train tickets as part of your trip.",
+    "ru": "В высокий сезон места с бронированием раскупают заранее, поэтому бронируйте, как только определитесь с датами. Мы можем помочь организовать билеты на поезд в рамках вашей поездки."
+  },
+  "0b2f3482": {
+    "en": "On board",
+    "ru": "В пути"
+  },
+  "fa2276d4": {
+    "en": "The views are good on both sides. Standing at the open doors makes for great photos, but hold on, and keep your head inside near tunnels and bridges.",
+    "ru": "Виды хороши с обеих сторон. У открытых дверей получаются отличные фото, но держитесь крепче и не высовывайте голову у тоннелей и мостов."
+  },
+  "008ec9d3": {
+    "en": "Your luggage",
+    "ru": "Ваш багаж"
+  },
+  "3ed48ced": {
+    "en": "With a private driver, your bags travel by road and your driver meets you at the station, so you only need a day bag on the train.",
+    "ru": "С личным водителем ваши вещи едут по дороге, а водитель встречает вас на станции, так что в поезде нужен только небольшой рюкзак."
+  },
+  "b41aea25": {
+    "en": "The ride is just as beautiful in the other direction, from Ella back towards Kandy.",
+    "ru": "В обратную сторону, из Эллы к Канди, поездка не менее красива."
+  },
+  "6713fe2b": {
+    "en": "A golden Buddha statue inside a carved stone shrine at a temple",
+    "ru": "Золотая статуя Будды в резной каменной святыне храма"
+  },
+  "500a626e": {
+    "en": "Sri Lanka’s temples are living places of worship. A little preparation shows respect and makes every visit easy.",
+    "ru": "Храмы Шри-Ланки — действующие места поклонения. Немного подготовки — и вы проявите уважение, а каждый визит пройдёт легко."
+  },
+  "7050ece3": {
+    "en": "<1>Cover shoulders and knees.</1> A light scarf or sarong in your day bag is handy.",
+    "ru": "<1>Закройте плечи и колени.</1> Лёгкий платок или саронг в рюкзаке очень пригодится."
+  },
+  "7f0814fa": {
+    "en": "<1>Take off shoes and hats</1> before entering temple grounds. Socks help on hot stone.",
+    "ru": "<1>Снимайте обувь и головные уборы</1> перед входом на территорию храма. На горячих камнях выручат носки."
+  },
+  "deb2ce74": {
+    "en": "<1>Never pose with your back to a Buddha statue</1> for photos, and don’t point your feet towards one.",
+    "ru": "<1>Никогда не фотографируйтесь спиной к статуе Будды</1> и не направляйте на неё ступни."
+  },
+  "cd7c634c": {
+    "en": "<1>Walk clockwise</1> around dagobas and shrines.",
+    "ru": "<1>Обходите по часовой стрелке</1> дагобы и святилища."
+  },
+  "c479b49c": {
+    "en": "<1>Ask first</1> before photographing monks or people at prayer.",
+    "ru": "<1>Спрашивайте разрешения,</1> прежде чем фотографировать монахов или молящихся."
+  },
+  "3b3f6e3b": {
+    "en": "Many temples are busiest at puja times, when worshippers bring flowers and offerings. Visiting then is a lovely experience, as long as you keep to the side and stay quiet.",
+    "ru": "Во многих храмах больше всего людей во время пуджи, когда верующие приносят цветы и подношения. Прийти в это время — прекрасный опыт, если держаться в стороне и соблюдать тишину."
+  },
+  "d6e5697b": {
+    "en": "Not sure what’s expected? Ask your driver-guide before you go in.",
+    "ru": "Не уверены, как себя вести? Спросите водителя-гида перед входом."
+  },
+  "74dfafde": {
+    "en": "A Kandyan dancer in a beaded costume and silver headdress, mid-performance",
+    "ru": "Кандийский танцор в расшитом бисером костюме и серебряном головном уборе во время выступления"
+  },
+  "249ab1a0": {
+    "en": "Drums, fire and dazzling costumes. Kandyan dance is one of Sri Lanka’s great art forms, and the Perahera festival is its biggest stage.",
+    "ru": "Барабаны, огонь и ослепительные костюмы. Кандийский танец — одно из великих искусств Шри-Ланки, а праздник Перахера — его главная сцена."
+  },
+  "1acd3ebd": {
+    "en": "Kandyan dance grew from rituals performed in the old hill kingdom. Dancers wear beaded breastplates and silver headdresses, and move to fast, thunderous drumming.",
+    "ru": "Кандийский танец вырос из ритуалов древнего горного королевства. Танцоры носят расшитые бисером нагрудники и серебряные головные уборы и движутся под быстрый, громоподобный бой барабанов."
+  },
+  "c469840a": {
+    "en": "Seeing a show",
+    "ru": "Как попасть на шоу"
+  },
+  "06b68b37": {
+    "en": "Cultural shows run most evenings in Kandy and last about an hour. They pair well with the evening puja at the Temple of the Tooth.",
+    "ru": "Культурные шоу проходят в Канди почти каждый вечер и длятся около часа. Их удобно совместить с вечерней пуджей в Храме Зуба."
+  },
+  "ef2b5f83": {
+    "en": "The Esala Perahera",
+    "ru": "Эсала Перахера"
+  },
+  "c6b70005": {
+    "en": "Each year, usually in July or August, Kandy holds around ten nights of processions in honour of the Sacred Tooth Relic, with dancers, drummers, fire performers and decorated elephants. Hotels fill up fast, so plan early if your dates line up.",
+    "ru": "Каждый год, обычно в июле или августе, Канди проводит около десяти ночей шествий в честь священной реликвии — Зуба Будды, с танцорами, барабанщиками, огненными артистами и украшенными слонами. Отели быстро заполняются, так что планируйте заранее, если ваши даты совпадают."
+  },
+  "3419542a": {
+    "en": "Travelling during the Perahera? Tell us early and we’ll help you find a hotel in or near Kandy.",
+    "ru": "Едете во время Перахеры? Сообщите нам заранее, и мы поможем найти отель в Канди или рядом."
+  },
+  "5f8c4898": {
+    "en": "Aerial view of Galle Fort on its headland, surrounded by turquoise sea",
+    "ru": "Вид сверху на форт Галле на мысу в окружении бирюзового моря"
+  },
+  "1d91521e": {
+    "en": "Beaches, a fort town and whales, without any long drives. A gentle way to end a trip.",
+    "ru": "Пляжи, город-крепость и киты без единого долгого переезда. Мягкое завершение поездки."
+  },
+  "a569d595": {
+    "en": "<1>Galle.</1> Arrive in the afternoon and walk the fort ramparts at sunset.",
+    "ru": "<1>Галле.</1> Приезжайте после обеда и прогуляйтесь по крепостным стенам на закате."
+  },
+  "946704f7": {
+    "en": "<1>Weligama.</1> Take a beginner surf lesson, or simply watch the waves.",
+    "ru": "<1>Велигама.</1> Возьмите урок сёрфинга для новичков или просто смотрите на волны."
+  },
+  "a4d470c2": {
+    "en": "<1>Mirissa.</1> Whale watching at dawn in season, then sunset at Coconut Tree Hill.",
+    "ru": "<1>Мирисса.</1> В сезон на рассвете наблюдение за китами, а потом закат на Кокосовом холме."
+  },
+  "209aa2ad": {
+    "en": "<1>Back to the airport.</1> An easy expressway drive, or stay on longer if you can.",
+    "ru": "<1>Обратно в аэропорт.</1> Лёгкая дорога по скоростной трассе, а можно и задержаться, если есть время."
+  },
+  "bfc574ac": {
+    "en": "Distances along the south coast are short, so you’ll spend more time on the sand than in the car.",
+    "ru": "Расстояния вдоль южного побережья небольшие, так что на песке вы проведёте больше времени, чем в машине."
+  },
+  "6e98287b": {
+    "en": "This works best from December to April. Visiting in the summer months? Ask us about the east coast instead.",
+    "ru": "Лучше всего это подходит с декабря по апрель. Едете летом? Спросите нас лучше о восточном побережье."
+  },
+  "60a89dcb": {
+    "en": "The hills reward a slower pace. Here’s how to spend two unhurried days between Nuwara Eliya and Ella.",
+    "ru": "Горы вознаграждают неспешный темп. Вот как провести два спокойных дня между Нувара-Элией и Эллой."
+  },
+  "3f80ecc4": {
+    "en": "Day 1: Nuwara Eliya",
+    "ru": "День 1: Нувара-Элия"
+  },
+  "ce468a92": {
+    "en": "Wind up through the tea estates, stopping at a waterfall and a working tea factory. Finish with an evening walk by Gregory Lake, and bring a warm layer.",
+    "ru": "Поднимитесь серпантином через чайные плантации с остановками у водопада и на действующей чайной фабрике. Завершите день вечерней прогулкой у озера Грегори и возьмите что-нибудь тёплое."
+  },
+  "b8abcca1": {
+    "en": "Day 2: The train to Ella",
+    "ru": "День 2: поезд в Эллу"
+  },
+  "f44184ad": {
+    "en": "Take the morning train from Nanu Oya and spend the afternoon at the Nine Arches Bridge. Save Little Adam’s Peak for sunrise the next day.",
+    "ru": "Сядьте на утренний поезд в Нану-Оя и проведите вторую половину дня у моста Девяти арок. Малый пик Адама оставьте на рассвет следующего дня."
+  },
+  "0dd16820": {
+    "en": "Hill roads are narrow and winding, so we never rush them. Our drivers have a 100% safe driving record.",
+    "ru": "Горные дороги узкие и извилистые, поэтому мы никогда не спешим. У наших водителей 100% безаварийный стаж."
+  },
+  "ebb4ba91": {
+    "en": "Still planning?",
+    "ru": "Ещё планируете?"
+  },
+  "e95b245d": {
+    "en": "Ask a local, for free",
+    "ru": "Спросите местного — бесплатно"
+  },
+  "650eb035": {
+    "en": "Message us any time on WhatsApp. We’re happy to answer questions and sketch out a route, even if you’re not ready to book.",
+    "ru": "Пишите нам в WhatsApp в любое время. Мы с радостью ответим на вопросы и набросаем маршрут, даже если вы ещё не готовы бронировать."
+  },
+  "fecc5a8f": {
+    "en": "A guest and their driver-guide at a railing above a forested gorge, with a waterfall in the distance",
+    "ru": "Гость и водитель-гид у перил над лесистым ущельем, вдали водопад"
+  }
+}

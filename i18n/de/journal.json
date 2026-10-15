@@ -1,0 +1,528 @@
+{
+  "_meta": {
+    "language": "de",
+    "bundle": "journal",
+    "status": "draft – needs native review",
+    "about": "Text on journal.html. Translate the \"de\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "143c2fab": {
+    "en": "Sri Lanka Travel Journal: Tips, Culture &amp; Itinerary Ideas | Damneth Tours &amp; Travels",
+    "de": "Sri-Lanka-Reisejournal: Tipps, Kultur &amp; Routenideen | Damneth Tours &amp; Travels"
+  },
+  "9e54215a": {
+    "en": "Practical Sri Lanka travel tips from a local driver-guide team: private driver vs public transport, the best time to visit, the Kandy to Ella train, temple etiquette and itinerary ideas.",
+    "de": "Praktische Sri-Lanka-Reisetipps von einem einheimischen Team aus Fahrer-Guides: privater Fahrer oder öffentliche Verkehrsmittel, die beste Reisezeit, der Zug von Kandy nach Ella, Verhalten im Tempel und Routenideen."
+  },
+  "dcf63cdf": {
+    "en": "Steep green mountain slopes under a blue sky with drifting cloud",
+    "de": "Steile grüne Berghänge unter blauem Himmel mit vorbeiziehenden Wolken"
+  },
+  "8fef0e63": {
+    "en": "Sri Lanka travel notes, <1>from the people who drive it.</1>",
+    "de": "Reisenotizen aus Sri Lanka, <1>von denen, die hier täglich unterwegs sind.</1>"
+  },
+  "a13b9749": {
+    "en": "Honest tips, a little culture and itinerary ideas to help you plan. If your question isn’t answered here, ask us on WhatsApp. Planning help is always free.",
+    "de": "Ehrliche Tipps, ein bisschen Kultur und Routenideen für Ihre Planung. Wenn Ihre Frage hier nicht beantwortet wird, fragen Sie uns per WhatsApp. Die Hilfe bei der Planung ist immer kostenlos."
+  },
+  "1dd6b3e8": {
+    "en": "Browse the guides <1/>",
+    "de": "Ratgeber durchstöbern <1/>"
+  },
+  "3bc5f6eb": {
+    "en": "<1/> Ask a question<2> (opens in a new tab)</2>",
+    "de": "<1/> Eine Frage stellen<2> (öffnet in einem neuen Tab)</2>"
+  },
+  "32cc9738": {
+    "en": "<1/>Featured guide",
+    "de": "<1/>Empfohlener Ratgeber"
+  },
+  "ac815169": {
+    "en": "Itinerary Ideas",
+    "de": "Routenideen"
+  },
+  "e155d28a": {
+    "en": "First time in Sri Lanka? How to plan a road trip that flows",
+    "de": "Zum ersten Mal in Sri Lanka? So planen Sie eine Rundreise, die einfach fließt"
+  },
+  "ccc58b6b": {
+    "en": "Loops not lines, two nights rather than one, and the right coast for your dates. Everything we tell friends who are planning their first trip.",
+    "de": "Runden statt Linien, zwei Nächte statt einer und die richtige Küste für Ihre Reisedaten. Alles, was wir Freunden vor ihrer ersten Reise sagen."
+  },
+  "9cda2219": {
+    "en": "<1/>6 min read",
+    "de": "<1/>6 Min. Lesezeit"
+  },
+  "9f0972e9": {
+    "en": "<1/>For 7 to 14-day trips",
+    "de": "<1/>Für Reisen von 7 bis 14 Tagen"
+  },
+  "c876ccb0": {
+    "en": "Read the guide <1/>",
+    "de": "Ratgeber lesen <1/>"
+  },
+  "d49cd519": {
+    "en": "Guides &amp; tips",
+    "de": "Ratgeber &amp; Tipps"
+  },
+  "1ec3a354": {
+    "en": "Plan smarter, travel slower",
+    "de": "Klüger planen, langsamer reisen"
+  },
+  "211b1abd": {
+    "en": "Short, practical reads on getting around, local customs and how to shape your days.",
+    "de": "Kurze, praktische Texte über das Reisen im Land, lokale Bräuche und die Gestaltung Ihrer Tage."
+  },
+  "e7422d11": {
+    "en": "Filter guides by category",
+    "de": "Ratgeber nach Kategorie filtern"
+  },
+  "7d3d59ee": {
+    "en": "All <1><2/>7<3> guides</3></1>",
+    "de": "Alle <1><2/>7<3> Ratgeber</3></1>"
+  },
+  "9b60654d": {
+    "en": "All guides",
+    "de": "Alle Ratgeber"
+  },
+  "49e1c964": {
+    "en": "Travel Tips <1><2/>3<3> guides</3></1>",
+    "de": "Reisetipps <1><2/>3<3> Ratgeber</3></1>"
+  },
+  "c6cac433": {
+    "en": "Travel Tips",
+    "de": "Reisetipps"
+  },
+  "44cbcbdc": {
+    "en": "Culture <1><2/>2<3> guides</3></1>",
+    "de": "Kultur <1><2/>2<3> Ratgeber</3></1>"
+  },
+  "1db19285": {
+    "en": "Culture",
+    "de": "Kultur"
+  },
+  "f7ed20a3": {
+    "en": "Itinerary Ideas <1><2/>2<3> guides</3></1>",
+    "de": "Routenideen <1><2/>2<3> Ratgeber</3></1>"
+  },
+  "719b0549": {
+    "en": "Private driver vs public transport",
+    "de": "Privater Fahrer oder öffentliche Verkehrsmittel"
+  },
+  "b96efe89": {
+    "en": "Buses and trains are cheap and full of character. A driver buys you time and comfort. Here’s how they compare.",
+    "de": "Busse und Züge sind günstig und voller Charakter. Ein Fahrer schenkt Ihnen Zeit und Komfort. So schneiden sie im Vergleich ab."
+  },
+  "9f217521": {
+    "en": "<1/>4 min read",
+    "de": "<1/>4 Min. Lesezeit"
+  },
+  "fe2de8dd": {
+    "en": "Best time to visit Sri Lanka",
+    "de": "Die beste Reisezeit für Sri Lanka"
+  },
+  "6ecad2c3": {
+    "en": "Two monsoons hit different coasts at different times, so somewhere on the island is almost always in season.",
+    "de": "Zwei Monsune treffen zu unterschiedlichen Zeiten auf unterschiedliche Küsten, sodass irgendwo auf der Insel fast immer Saison ist."
+  },
+  "88e2c0fd": {
+    "en": "Kandy to Ella train guide",
+    "de": "Der Zug von Kandy nach Ella"
+  },
+  "41764e79": {
+    "en": "The ride through tea country is a highlight of any trip. A few tips make it far more enjoyable.",
+    "de": "Die Fahrt durchs Teeland ist ein Höhepunkt jeder Reise. Mit ein paar Tipps wird sie noch viel schöner."
+  },
+  "9b91fa0f": {
+    "en": "<1/>5 min read",
+    "de": "<1/>5 Min. Lesezeit"
+  },
+  "e0d79b1e": {
+    "en": "Temple etiquette: what to wear and how to visit",
+    "de": "Verhalten im Tempel: was Sie tragen und wie Sie ihn besuchen"
+  },
+  "2e689cf2": {
+    "en": "Temples are living places of worship. A little preparation shows respect and makes every visit easy.",
+    "de": "Tempel sind lebendige Orte des Glaubens. Ein wenig Vorbereitung zeigt Respekt und macht jeden Besuch einfach."
+  },
+  "b1a2461b": {
+    "en": "<1/>3 min read",
+    "de": "<1/>3 Min. Lesezeit"
+  },
+  "1c92e565": {
+    "en": "Kandyan dance and the Esala Perahera",
+    "de": "Kandy-Tanz und die Esala Perahera"
+  },
+  "3624fa21": {
+    "en": "Drums, fire and dazzling costumes: where to see Kandyan dance, and how to plan around Kandy’s biggest festival.",
+    "de": "Trommeln, Feuer und prächtige Kostüme: wo Sie Kandy-Tanz erleben und wie Sie Ihre Reise um Kandys größtes Fest planen."
+  },
+  "db3297b5": {
+    "en": "Four easy days on the south coast",
+    "de": "Vier entspannte Tage an der Südküste"
+  },
+  "53ad1680": {
+    "en": "Beaches, a fort town and whales, without long drives. A gentle way to end a trip.",
+    "de": "Strände, eine Festungsstadt und Wale, ganz ohne lange Fahrten. Ein sanfter Abschluss für Ihre Reise."
+  },
+  "cc884c4a": {
+    "en": "Two slow days in tea country",
+    "de": "Zwei ruhige Tage im Teeland"
+  },
+  "e9c481c3": {
+    "en": "The hills reward a slower pace. How to spend two unhurried days between Nuwara Eliya and Ella.",
+    "de": "Die Berge belohnen ein langsameres Tempo. So verbringen Sie zwei gemütliche Tage zwischen Nuwara Eliya und Ella."
+  },
+  "40fde364": {
+    "en": "The guides in full",
+    "de": "Die Ratgeber in voller Länge"
+  },
+  "6a02281a": {
+    "en": "Sri Lanka looks small on the map, but winding roads mean every drive takes longer than you expect. A little planning makes the whole trip feel easy.",
+    "de": "Auf der Karte wirkt Sri Lanka klein, aber durch die kurvigen Straßen dauert jede Fahrt länger als erwartet. Mit ein wenig Planung fühlt sich die ganze Reise leicht an."
+  },
+  "0ad07cae": {
+    "en": "Think in loops, not lines",
+    "de": "In Runden denken, nicht in Linien"
+  },
+  "1be6104d": {
+    "en": "Most first trips follow a loop: north to the Cultural Triangle, into the hills around Kandy and Ella, down to Yala, then west along the south coast and back to the airport. You never double back, and the beach comes at the end, when you’ll want to slow down.",
+    "de": "Die meisten ersten Reisen folgen einer Runde: nach Norden ins Kulturelle Dreieck, in die Berge rund um Kandy und Ella, hinunter nach Yala, dann westwärts entlang der Südküste und zurück zum Flughafen. Sie fahren nie dieselbe Strecke zurück, und der Strand kommt am Ende, wenn Sie ohnehin langsamer machen möchten."
+  },
+  "546d8be9": {
+    "en": "Two nights beats one",
+    "de": "Zwei Nächte sind besser als eine"
+  },
+  "f33b983a": {
+    "en": "Moving every day is tiring. Two nights in places like Sigiriya, Ella and the coast gives you full days to explore, rather than living out of a suitcase.",
+    "de": "Jeden Tag weiterzuziehen ist anstrengend. Zwei Nächte an Orten wie Sigiriya, Ella und an der Küste schenken Ihnen ganze Tage zum Entdecken, statt aus dem Koffer zu leben."
+  },
+  "759bdb05": {
+    "en": "Match the coast to the season",
+    "de": "Die Küste nach der Saison wählen"
+  },
+  "8410e68d": {
+    "en": "The south and west coasts are best from December to April, and the east coast from May to September. We’ll point you to the right side of the island for your dates.",
+    "de": "Die Süd- und Westküste sind von Dezember bis April am schönsten, die Ostküste von Mai bis September. Wir zeigen Ihnen die richtige Seite der Insel für Ihre Reisedaten."
+  },
+  "1766df5e": {
+    "en": "<1>How many days?</1> Seven covers the highlights, ten is a comfortable pace, and fourteen lets you add the east coast or the ancient north. <2>See our sample journeys</2>.",
+    "de": "<1>Wie viele Tage?</1> Sieben reichen für die Höhepunkte, zehn sind ein angenehmes Tempo, und mit vierzehn können Sie die Ostküste oder den alten Norden dazunehmen. <2>Unsere Beispielrouten ansehen</2>."
+  },
+  "0928de14": {
+    "en": "Back to all guides <1/>",
+    "de": "Zurück zu allen Ratgebern <1/>"
+  },
+  "a81e3500": {
+    "en": "Ask us a question<1> (opens in a new tab)</1> <2/>",
+    "de": "Stellen Sie uns eine Frage<1> (öffnet in einem neuen Tab)</1> <2/>"
+  },
+  "3a3747e0": {
+    "en": "A brightly painted local bus parked beside a road",
+    "de": "Ein bunt bemalter Linienbus am Straßenrand"
+  },
+  "df276960": {
+    "en": "Sri Lanka’s buses and trains are cheap and part of the adventure. A private driver buys you time, comfort and flexibility. Here’s an honest comparison.",
+    "de": "Sri Lankas Busse und Züge sind günstig und gehören zum Abenteuer. Ein privater Fahrer schenkt Ihnen Zeit, Komfort und Flexibilität. Hier ein ehrlicher Vergleich."
+  },
+  "d97d91e5": {
+    "en": "Public transport reaches almost everywhere, but journeys often need a tuk-tuk at each end, and timetables can be unpredictable. With a private driver, the car is waiting when you are ready and stops wherever you like.",
+    "de": "Öffentliche Verkehrsmittel kommen fast überallhin, aber oft brauchen Sie an beiden Enden ein Tuk-Tuk, und die Fahrpläne sind nicht immer verlässlich. Mit einem privaten Fahrer wartet das Auto, wenn Sie bereit sind, und hält, wo immer Sie möchten."
+  },
+  "530a713c": {
+    "en": "Private driver and public transport compared",
+    "de": "Privater Fahrer und öffentliche Verkehrsmittel im Vergleich"
+  },
+  "451edd79": {
+    "en": "Factor",
+    "de": "Kriterium"
+  },
+  "d672c8bb": {
+    "en": "Private driver",
+    "de": "Privater Fahrer"
+  },
+  "3e9295d0": {
+    "en": "Public transport",
+    "de": "Öffentliche Verkehrsmittel"
+  },
+  "05557cb5": {
+    "en": "Door to door",
+    "de": "Von Tür zu Tür"
+  },
+  "710b1a92": {
+    "en": "Yes, from the airport to every hotel",
+    "de": "Ja, vom Flughafen zu jedem Hotel"
+  },
+  "2dd5ea66": {
+    "en": "Usually needs tuk-tuks at each end",
+    "de": "Meist mit Tuk-Tuks an beiden Enden"
+  },
+  "b6bd8cb2": {
+    "en": "Luggage",
+    "de": "Gepäck"
+  },
+  "d30ff869": {
+    "en": "Stays in the vehicle",
+    "de": "Bleibt im Fahrzeug"
+  },
+  "8d5f754a": {
+    "en": "Carried on and off busy buses",
+    "de": "Rein in volle Busse und wieder raus"
+  },
+  "098024dc": {
+    "en": "Timing",
+    "de": "Zeitplan"
+  },
+  "c82c6c2b": {
+    "en": "Leave when you’re ready, stop when you like",
+    "de": "Abfahrt, wenn Sie bereit sind, Halt, wann Sie möchten"
+  },
+  "3f042400": {
+    "en": "Fixed timetables",
+    "de": "Feste Fahrpläne"
+  },
+  "f72d5fc6": {
+    "en": "Comfort",
+    "de": "Komfort"
+  },
+  "673e5edb": {
+    "en": "Air-conditioned, a seat for everyone",
+    "de": "Klimatisiert, ein Sitzplatz für jeden"
+  },
+  "daf321a2": {
+    "en": "Often crowded, sometimes standing",
+    "de": "Oft voll, manchmal nur Stehplätze"
+  },
+  "64ae43e8": {
+    "en": "Cost",
+    "de": "Kosten"
+  },
+  "9dd39283": {
+    "en": "Higher, but fixed and shared by your group",
+    "de": "Höher, aber fest und auf Ihre Gruppe verteilt"
+  },
+  "69adf213": {
+    "en": "Very low",
+    "de": "Sehr niedrig"
+  },
+  "9be9e446": {
+    "en": "If you’re travelling solo on a tight budget with plenty of time, buses and trains are a great way to see local life. Many travellers mix both: a driver for the long road days, and the train to Ella for the views.",
+    "de": "Wenn Sie allein, mit kleinem Budget und viel Zeit reisen, sind Busse und Züge eine wunderbare Art, den Alltag vor Ort zu erleben. Viele Reisende kombinieren beides: einen Fahrer für die langen Fahrtage und den Zug nach Ella für die Aussicht."
+  },
+  "186cbaf7": {
+    "en": "<1>What a driver costs with us:</1> multi-day tours start from roughly <2/> a day for the vehicle and driver-guide, with no hidden fuel or toll charges.",
+    "de": "<1>Was ein Fahrer bei uns kostet:</1> Mehrtägige Touren beginnen bei etwa <2/> pro Tag für Fahrzeug und Fahrer-Guide, ohne versteckte Kosten für Sprit oder Maut."
+  },
+  "80bf4037": {
+    "en": "Dark monsoon clouds over a wide sandy beach, with a few people walking by the waves",
+    "de": "Dunkle Monsunwolken über einem breiten Sandstrand, an dem ein paar Menschen an den Wellen entlanggehen"
+  },
+  "8690e06c": {
+    "en": "Sri Lanka has two monsoons that reach different coasts at different times of year, so somewhere on the island is almost always in season.",
+    "de": "Sri Lanka hat zwei Monsune, die zu unterschiedlichen Jahreszeiten unterschiedliche Küsten erreichen, sodass irgendwo auf der Insel fast immer Saison ist."
+  },
+  "bdd885af": {
+    "en": "December to April: the west and south coasts",
+    "de": "Dezember bis April: West- und Südküste"
+  },
+  "3165c5f9": {
+    "en": "Dry, sunny days on the beaches from Colombo down to Galle and Mirissa, and the clearest views in the hill country. This is also the busiest time of year.",
+    "de": "Trockene, sonnige Tage an den Stränden von Colombo bis hinunter nach Galle und Mirissa und die klarste Sicht im Hochland. Es ist auch die geschäftigste Zeit des Jahres."
+  },
+  "8b8b8f09": {
+    "en": "May to September: the east coast",
+    "de": "Mai bis September: die Ostküste"
+  },
+  "ec9130ca": {
+    "en": "While the south-west monsoon brings rain to the south and west, the east coast around Trincomalee, Pasikudah and Arugam Bay is at its best.",
+    "de": "Während der Südwestmonsun Regen in den Süden und Westen bringt, zeigt sich die Ostküste rund um Trincomalee, Pasikudah und Arugam Bay von ihrer besten Seite."
+  },
+  "40e4bec0": {
+    "en": "The months in between",
+    "de": "Die Monate dazwischen"
+  },
+  "23eb481d": {
+    "en": "October and November, and the weeks around April and May, can bring afternoon thunderstorms across the island. Mornings are often clear, and it’s quieter everywhere.",
+    "de": "Oktober und November sowie die Wochen um April und Mai können auf der ganzen Insel Gewitter am Nachmittag bringen. Die Vormittage sind oft klar, und überall ist es ruhiger."
+  },
+  "908c694c": {
+    "en": "The Cultural Triangle and the hill country can be visited all year. Tell us your dates and we’ll plan a route that follows the sunshine.",
+    "de": "Das Kulturelle Dreieck und das Hochland können Sie das ganze Jahr über besuchen. Nennen Sie uns Ihre Reisedaten, und wir planen eine Route, die der Sonne folgt."
+  },
+  "a7da57ad": {
+    "en": "The train ride through tea country is a highlight of any trip to Sri Lanka. A few simple tips make it far more enjoyable.",
+    "de": "Die Zugfahrt durchs Teeland ist ein Höhepunkt jeder Sri-Lanka-Reise. Mit ein paar einfachen Tipps wird sie noch viel schöner."
+  },
+  "aba8160d": {
+    "en": "The full journey from Kandy to Ella takes around six to seven hours. Short on time? Board at Nanu Oya, near Nuwara Eliya, instead. The ride from there to Ella takes about three to four hours and has many of the best views.",
+    "de": "Die ganze Strecke von Kandy nach Ella dauert etwa sechs bis sieben Stunden. Wenig Zeit? Steigen Sie stattdessen in Nanu Oya bei Nuwara Eliya zu. Von dort bis Ella sind es etwa drei bis vier Stunden, mit vielen der schönsten Ausblicke."
+  },
+  "5c622a51": {
+    "en": "Tickets",
+    "de": "Tickets"
+  },
+  "27fc9342": {
+    "en": "Reserved seats sell out early in the busy season, so book as soon as your dates are fixed. We can help organise train tickets as part of your trip.",
+    "de": "Reservierte Plätze sind in der Hauptsaison früh ausverkauft, buchen Sie also, sobald Ihre Reisedaten feststehen. Wir können Ihnen helfen, die Zugtickets im Rahmen Ihrer Reise zu organisieren."
+  },
+  "0b2f3482": {
+    "en": "On board",
+    "de": "An Bord"
+  },
+  "fa2276d4": {
+    "en": "The views are good on both sides. Standing at the open doors makes for great photos, but hold on, and keep your head inside near tunnels and bridges.",
+    "de": "Die Aussicht ist auf beiden Seiten schön. An den offenen Türen gelingen tolle Fotos, aber halten Sie sich fest und lassen Sie den Kopf bei Tunneln und Brücken drinnen."
+  },
+  "008ec9d3": {
+    "en": "Your luggage",
+    "de": "Ihr Gepäck"
+  },
+  "3ed48ced": {
+    "en": "With a private driver, your bags travel by road and your driver meets you at the station, so you only need a day bag on the train.",
+    "de": "Mit einem privaten Fahrer reist Ihr Gepäck auf der Straße, und Ihr Fahrer holt Sie am Bahnhof ab. Im Zug brauchen Sie also nur einen Tagesrucksack."
+  },
+  "b41aea25": {
+    "en": "The ride is just as beautiful in the other direction, from Ella back towards Kandy.",
+    "de": "In der Gegenrichtung, von Ella zurück Richtung Kandy, ist die Fahrt genauso schön."
+  },
+  "6713fe2b": {
+    "en": "A golden Buddha statue inside a carved stone shrine at a temple",
+    "de": "Eine goldene Buddha-Statue in einem gemeißelten Steinschrein in einem Tempel"
+  },
+  "500a626e": {
+    "en": "Sri Lanka’s temples are living places of worship. A little preparation shows respect and makes every visit easy.",
+    "de": "Sri Lankas Tempel sind lebendige Orte des Glaubens. Ein wenig Vorbereitung zeigt Respekt und macht jeden Besuch einfach."
+  },
+  "7050ece3": {
+    "en": "<1>Cover shoulders and knees.</1> A light scarf or sarong in your day bag is handy.",
+    "de": "<1>Bedecken Sie Schultern und Knie.</1> Ein leichter Schal oder Sarong im Tagesrucksack ist praktisch."
+  },
+  "7f0814fa": {
+    "en": "<1>Take off shoes and hats</1> before entering temple grounds. Socks help on hot stone.",
+    "de": "<1>Ziehen Sie Schuhe und Hüte aus,</1> bevor Sie das Tempelgelände betreten. Auf heißem Stein helfen Socken."
+  },
+  "deb2ce74": {
+    "en": "<1>Never pose with your back to a Buddha statue</1> for photos, and don’t point your feet towards one.",
+    "de": "<1>Posieren Sie nie mit dem Rücken zu einer Buddha-Statue</1> für Fotos, und zeigen Sie nicht mit den Füßen auf eine."
+  },
+  "cd7c634c": {
+    "en": "<1>Walk clockwise</1> around dagobas and shrines.",
+    "de": "<1>Gehen Sie im Uhrzeigersinn</1> um Dagobas und Schreine."
+  },
+  "c479b49c": {
+    "en": "<1>Ask first</1> before photographing monks or people at prayer.",
+    "de": "<1>Fragen Sie vorher,</1> bevor Sie Mönche oder Betende fotografieren."
+  },
+  "3b3f6e3b": {
+    "en": "Many temples are busiest at puja times, when worshippers bring flowers and offerings. Visiting then is a lovely experience, as long as you keep to the side and stay quiet.",
+    "de": "Viele Tempel sind zu den Puja-Zeiten am vollsten, wenn Gläubige Blumen und Opfergaben bringen. Ein Besuch zu dieser Zeit ist ein schönes Erlebnis, solange Sie am Rand bleiben und leise sind."
+  },
+  "d6e5697b": {
+    "en": "Not sure what’s expected? Ask your driver-guide before you go in.",
+    "de": "Unsicher, was erwartet wird? Fragen Sie Ihren Fahrer-Guide, bevor Sie hineingehen."
+  },
+  "74dfafde": {
+    "en": "A Kandyan dancer in a beaded costume and silver headdress, mid-performance",
+    "de": "Ein Kandy-Tänzer in perlenbesetztem Kostüm und silbernem Kopfschmuck mitten im Auftritt"
+  },
+  "249ab1a0": {
+    "en": "Drums, fire and dazzling costumes. Kandyan dance is one of Sri Lanka’s great art forms, and the Perahera festival is its biggest stage.",
+    "de": "Trommeln, Feuer und prächtige Kostüme. Der Kandy-Tanz ist eine der großen Kunstformen Sri Lankas, und das Perahera-Fest ist seine größte Bühne."
+  },
+  "1acd3ebd": {
+    "en": "Kandyan dance grew from rituals performed in the old hill kingdom. Dancers wear beaded breastplates and silver headdresses, and move to fast, thunderous drumming.",
+    "de": "Der Kandy-Tanz entstand aus Ritualen des alten Königreichs im Hochland. Die Tänzer tragen perlenbesetzte Brustschilde und silbernen Kopfschmuck und bewegen sich zu schnellem, donnerndem Trommelschlag."
+  },
+  "c469840a": {
+    "en": "Seeing a show",
+    "de": "Eine Vorstellung erleben"
+  },
+  "06b68b37": {
+    "en": "Cultural shows run most evenings in Kandy and last about an hour. They pair well with the evening puja at the Temple of the Tooth.",
+    "de": "Kulturshows finden in Kandy an den meisten Abenden statt und dauern etwa eine Stunde. Sie lassen sich gut mit der Abend-Puja im Zahntempel verbinden."
+  },
+  "ef2b5f83": {
+    "en": "The Esala Perahera",
+    "de": "Die Esala Perahera"
+  },
+  "c6b70005": {
+    "en": "Each year, usually in July or August, Kandy holds around ten nights of processions in honour of the Sacred Tooth Relic, with dancers, drummers, fire performers and decorated elephants. Hotels fill up fast, so plan early if your dates line up.",
+    "de": "Jedes Jahr, meist im Juli oder August, feiert Kandy rund zehn Nächte lang Prozessionen zu Ehren der heiligen Zahnreliquie, mit Tänzern, Trommlern, Feuerkünstlern und geschmückten Elefanten. Die Hotels sind schnell ausgebucht, planen Sie also früh, wenn Ihre Reisedaten passen."
+  },
+  "3419542a": {
+    "en": "Travelling during the Perahera? Tell us early and we’ll help you find a hotel in or near Kandy.",
+    "de": "Sie reisen während der Perahera? Sagen Sie uns früh Bescheid, und wir helfen Ihnen, ein Hotel in oder bei Kandy zu finden."
+  },
+  "5f8c4898": {
+    "en": "Aerial view of Galle Fort on its headland, surrounded by turquoise sea",
+    "de": "Luftaufnahme des Galle Fort auf seiner Landzunge, umgeben von türkisfarbenem Meer"
+  },
+  "1d91521e": {
+    "en": "Beaches, a fort town and whales, without any long drives. A gentle way to end a trip.",
+    "de": "Strände, eine Festungsstadt und Wale, ganz ohne lange Fahrten. Ein sanfter Abschluss für Ihre Reise."
+  },
+  "a569d595": {
+    "en": "<1>Galle.</1> Arrive in the afternoon and walk the fort ramparts at sunset.",
+    "de": "<1>Galle.</1> Kommen Sie am Nachmittag an und spazieren Sie bei Sonnenuntergang über die Festungswälle."
+  },
+  "946704f7": {
+    "en": "<1>Weligama.</1> Take a beginner surf lesson, or simply watch the waves.",
+    "de": "<1>Weligama.</1> Nehmen Sie eine Surfstunde für Anfänger oder schauen Sie einfach den Wellen zu."
+  },
+  "a4d470c2": {
+    "en": "<1>Mirissa.</1> Whale watching at dawn in season, then sunset at Coconut Tree Hill.",
+    "de": "<1>Mirissa.</1> In der Saison Walbeobachtung im Morgengrauen, danach Sonnenuntergang am Coconut Tree Hill."
+  },
+  "209aa2ad": {
+    "en": "<1>Back to the airport.</1> An easy expressway drive, or stay on longer if you can.",
+    "de": "<1>Zurück zum Flughafen.</1> Eine entspannte Fahrt über die Autobahn, oder bleiben Sie länger, wenn Sie können."
+  },
+  "bfc574ac": {
+    "en": "Distances along the south coast are short, so you’ll spend more time on the sand than in the car.",
+    "de": "Die Entfernungen an der Südküste sind kurz, also verbringen Sie mehr Zeit im Sand als im Auto."
+  },
+  "6e98287b": {
+    "en": "This works best from December to April. Visiting in the summer months? Ask us about the east coast instead.",
+    "de": "Am besten funktioniert das von Dezember bis April. Sie kommen in den Sommermonaten? Fragen Sie uns stattdessen nach der Ostküste."
+  },
+  "60a89dcb": {
+    "en": "The hills reward a slower pace. Here’s how to spend two unhurried days between Nuwara Eliya and Ella.",
+    "de": "Die Berge belohnen ein langsameres Tempo. So verbringen Sie zwei gemütliche Tage zwischen Nuwara Eliya und Ella."
+  },
+  "3f80ecc4": {
+    "en": "Day 1: Nuwara Eliya",
+    "de": "Tag 1: Nuwara Eliya"
+  },
+  "ce468a92": {
+    "en": "Wind up through the tea estates, stopping at a waterfall and a working tea factory. Finish with an evening walk by Gregory Lake, and bring a warm layer.",
+    "de": "Schlängeln Sie sich durch die Teeplantagen hinauf, mit Halt an einem Wasserfall und einer aktiven Teefabrik. Zum Abschluss ein Abendspaziergang am Gregory-See – und nehmen Sie etwas Warmes zum Anziehen mit."
+  },
+  "b8abcca1": {
+    "en": "Day 2: The train to Ella",
+    "de": "Tag 2: Mit dem Zug nach Ella"
+  },
+  "f44184ad": {
+    "en": "Take the morning train from Nanu Oya and spend the afternoon at the Nine Arches Bridge. Save Little Adam’s Peak for sunrise the next day.",
+    "de": "Nehmen Sie den Morgenzug ab Nanu Oya und verbringen Sie den Nachmittag an der Nine Arches Bridge. Heben Sie sich den Little Adam’s Peak für den Sonnenaufgang am nächsten Tag auf."
+  },
+  "0dd16820": {
+    "en": "Hill roads are narrow and winding, so we never rush them. Our drivers have a 100% safe driving record.",
+    "de": "Die Bergstraßen sind schmal und kurvig, deshalb fahren wir sie nie in Eile. Unsere Fahrer haben eine zu 100&nbsp;% unfallfreie Bilanz."
+  },
+  "ebb4ba91": {
+    "en": "Still planning?",
+    "de": "Noch in der Planung?"
+  },
+  "e95b245d": {
+    "en": "Ask a local, for free",
+    "de": "Fragen Sie einen Einheimischen – kostenlos"
+  },
+  "650eb035": {
+    "en": "Message us any time on WhatsApp. We’re happy to answer questions and sketch out a route, even if you’re not ready to book.",
+    "de": "Schreiben Sie uns jederzeit per WhatsApp. Wir beantworten gern Ihre Fragen und skizzieren eine Route, auch wenn Sie noch nicht buchen möchten."
+  },
+  "fecc5a8f": {
+    "en": "A guest and their driver-guide at a railing above a forested gorge, with a waterfall in the distance",
+    "de": "Ein Gast und sein Fahrer-Guide an einem Geländer über einer bewaldeten Schlucht, in der Ferne ein Wasserfall"
+  }
+}

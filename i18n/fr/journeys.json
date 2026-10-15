@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "language": "fr",
+    "bundle": "journeys",
+    "status": "draft – needs native review",
+    "about": "Text on journeys.html. Translate the \"fr\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "fa4337c0": {
+    "en": "Sample 7, 10 &amp; 14-Day Sri Lanka Itineraries | Damneth Tours &amp; Travels",
+    "fr": "Exemples de circuits de 7, 10 et 14 jours au Sri Lanka | Damneth Tours &amp; Travels"
+  },
+  "afa2970c": {
+    "en": "Sample 7, 10 and 14-day private driver round trips around Sri Lanka, with day-by-day plans. Fixed-price quotes with no hidden fuel or toll charges, planned free on WhatsApp.",
+    "fr": "Exemples de circuits de 7, 10 et 14 jours avec chauffeur privé au Sri Lanka, avec programme jour par jour. Devis à prix fixe, sans frais cachés de carburant ni de péage, préparés gratuitement sur WhatsApp."
+  },
+  "800c04a0": {
+    "en": "Aerial view of a road winding along a forested ridge between mountains",
+    "fr": "Vue aérienne d’une route serpentant sur une crête boisée entre les montagnes"
+  },
+  "5ea107b5": {
+    "en": "Three ways to see the island. <1>All with your own driver.</1>",
+    "fr": "Trois façons de découvrir l’île. <1>Toutes avec votre chauffeur.</1>"
+  },
+  "5753af32": {
+    "en": "Sample 7, 10 and 14-day round trips in a comfortable private vehicle with a local driver-guide. Use one as it is, or as a starting point we shape together on WhatsApp, for free.",
+    "fr": "Des exemples de circuits de 7, 10 et 14 jours dans un véhicule privé confortable avec un chauffeur-guide local. Suivez-en un tel quel, ou partez-en pour construire ensemble le vôtre sur WhatsApp, gratuitement."
+  },
+  "96fd9f16": {
+    "en": "<1/> Plan my journey<2> (opens in a new tab)</2>",
+    "fr": "<1/> Organiser mon voyage<2> (s’ouvre dans un nouvel onglet)</2>"
+  },
+  "180e0346": {
+    "en": "Jump to a journey",
+    "fr": "Aller à un circuit"
+  },
+  "e4313617": {
+    "en": "What you pay for",
+    "fr": "Ce que vous payez"
+  },
+  "441c31ed": {
+    "en": "Fuel and tolls<1>No hidden charges</1>",
+    "fr": "Carburant et péages<1>Aucun frais caché</1>"
+  },
+  "3e2c5704": {
+    "en": "Included",
+    "fr": "Inclus"
+  },
+  "632bacfe": {
+    "en": "Itinerary planning<1>On WhatsApp, 24/7</1>",
+    "fr": "Préparation de l’itinéraire<1>Sur WhatsApp, 24 h/24, 7 j/7</1>"
+  },
+  "d5cb3036": {
+    "en": "The route",
+    "fr": "L’itinéraire"
+  },
+  "34d8b60f": {
+    "en": "Hide",
+    "fr": "Masquer"
+  },
+  "987b9ced": {
+    "en": "Day",
+    "fr": "Jour"
+  },
+  "22dc4893": {
+    "en": "<1/> Plan this on WhatsApp<2> (opens in a new tab)</2>",
+    "fr": "<1/> Organiser ce circuit sur WhatsApp<2> (s’ouvre dans un nouvel onglet)</2>"
+  },
+  "2adbb683": {
+    "en": "From first message to arrivals hall",
+    "fr": "Du premier message au hall des arrivées"
+  },
+  "3fd8418d": {
+    "en": "Planning is free and happens on WhatsApp, at whatever pace suits you. Ask as many questions as you like before you decide.",
+    "fr": "La préparation est gratuite et se fait sur WhatsApp, au rythme qui vous convient. Posez toutes les questions que vous voulez avant de vous décider."
+  },
+  "d78ffdf2": {
+    "en": "Tell us your dates",
+    "fr": "Indiquez vos dates"
+  },
+  "e0b8d03b": {
+    "en": "Send your dates, group size and anything you’d love to see. A sample journey is a great place to start.",
+    "fr": "Envoyez vos dates, la taille du groupe et tout ce que vous aimeriez voir. Un exemple de circuit est un excellent point de départ."
+  },
+  "2be7567f": {
+    "en": "Get a plan and a fixed price",
+    "fr": "Recevez un programme et un prix fixe"
+  },
+  "78367fec": {
+    "en": "We shape the route around you and send a 100% fixed-price quote, with no hidden fuel or toll charges.",
+    "fr": "Nous construisons l’itinéraire autour de vous et vous envoyons un devis 100&nbsp;% à prix fixe, sans frais cachés de carburant ni de péage."
+  },
+  "0ddd4bd7": {
+    "en": "We meet you at arrivals",
+    "fr": "Nous vous accueillons à l’arrivée"
+  },
+  "215d1ed2": {
+    "en": "Your driver is waiting at Bandaranaike International Airport, and we’re on WhatsApp 24/7 for the whole trip.",
+    "fr": "Votre chauffeur vous attend à l’aéroport international Bandaranaike, et nous restons joignables sur WhatsApp 24 h/24, 7 j/7 pendant tout le voyage."
+  },
+  "798d5470": {
+    "en": "Not quite right?",
+    "fr": "Pas tout à fait ce qu’il vous faut&nbsp;?"
+  },
+  "ec71b8b6": {
+    "en": "Build your own journey",
+    "fr": "Composez votre propre voyage"
+  },
+  "eebd8987": {
+    "en": "Start from the places and experiences you love instead. Add them to your trip as you browse, and we’ll turn them into a route that fits your dates.",
+    "fr": "Partez plutôt des lieux et des expériences qui vous plaisent. Ajoutez-les à votre voyage au fil de la navigation, et nous en ferons un itinéraire adapté à vos dates."
+  },
+  "31e0309c": {
+    "en": "Browse destinations <1/>",
+    "fr": "Parcourir les destinations <1/>"
+  },
+  "e0a7eed1": {
+    "en": "See experiences <1/>",
+    "fr": "Voir les expériences <1/>"
+  },
+  "b50acffd": {
+    "en": "Three guests standing beside a white car on a sandy forest track",
+    "fr": "Trois voyageurs à côté d’une voiture blanche sur une piste forestière sablonneuse"
+  }
+}

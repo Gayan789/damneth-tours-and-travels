@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "All aboard the bullock cart",
+    "alt": "Guests sitting in a thatched bullock cart, one holding the reins",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 330,
+    "image": "/assets/images/gallery/gal-bullock-cart-ride-1200.webp"
+  },
+  "de": {
+    "title": "Alle einsteigen in den Ochsenkarren",
+    "alt": "Gäste sitzen in einem strohgedeckten Ochsenkarren, einer hält die Zügel"
+  },
+  "fr": {
+    "title": "Tous à bord de la charrette à bœufs",
+    "alt": "Des voyageurs assis dans une charrette à bœufs au toit de chaume, l’un d’eux tenant les rênes"
+  },
+  "ru": {
+    "title": "Все в воловью повозку",
+    "alt": "Гости сидят в воловьей повозке с соломенной крышей, один держит поводья"
+  },
+  "he": {
+    "title": "כולם לעגלת השוורים",
+    "alt": "אורחים יושבים בעגלת שוורים עם גג קש, ואחד מהם אוחז במושכות"
+  }
+}

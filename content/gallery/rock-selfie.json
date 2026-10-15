@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Thumbs up from the top",
+    "alt": "A young guest giving a thumbs-up beside their driver-guide on a rocky hilltop",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 440,
+    "image": "/assets/images/gallery/gal-rock-selfie-1200.webp"
+  },
+  "de": {
+    "title": "Daumen hoch auf dem Gipfel",
+    "alt": "Ein junger Gast zeigt neben seinem Fahrer-Guide auf einem felsigen Hügel den Daumen nach oben"
+  },
+  "fr": {
+    "title": "Pouce levé au sommet",
+    "alt": "Un jeune voyageur levant le pouce à côté de son chauffeur-guide au sommet d’une colline rocheuse"
+  },
+  "ru": {
+    "title": "Палец вверх на вершине",
+    "alt": "Юный гость показывает большой палец рядом с водителем-гидом на скалистой вершине холма"
+  },
+  "he": {
+    "title": "אגודל למעלה מהפסגה",
+    "alt": "אורח צעיר מרים אגודל ליד הנהג־מדריך שלו על ראש גבעה סלעית"
+  }
+}

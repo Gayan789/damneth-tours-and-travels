@@ -1,0 +1,644 @@
+{
+  "23148331": {
+    "en": "Ideal stay <1>1 night nearby</1>",
+    "fr": "Séjour idéal <1>1 nuit à proximité</1>"
+  },
+  "33509233": {
+    "en": "Stroll or take a boat on Gregory Lake",
+    "fr": "Balade ou tour en bateau sur le lac Gregory"
+  },
+  "52020617": {
+    "en": "<1/> Plan my route<2> (opens in a new tab)</2>",
+    "fr": "<1/> Organiser mon itinéraire<2> (s’ouvre dans un nouvel onglet)</2>"
+  },
+  "61208125": {
+    "en": "The Elephant Transit Home at feeding time",
+    "fr": "L’Elephant Transit Home à l’heure du repas"
+  },
+  "_meta": {
+    "language": "fr",
+    "bundle": "destinations",
+    "status": "draft – needs native review",
+    "about": "Text on destinations.html. Translate the \"fr\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "d2bf9b87": {
+    "en": "Sri Lanka Destinations by Region | Damneth Tours &amp; Travels",
+    "fr": "Destinations au Sri Lanka par région | Damneth Tours &amp; Travels"
+  },
+  "c709b71b": {
+    "en": "Explore Sri Lanka by region, from the Cultural Triangle and hill country to the south and east coasts and the wildlife parks. Add the places you love and get a free, fixed-price route plan on WhatsApp.",
+    "fr": "Découvrez le Sri Lanka par région, du Triangle culturel et des hautes terres aux côtes sud et est, en passant par les parcs animaliers. Ajoutez les lieux qui vous plaisent et recevez gratuitement sur WhatsApp un itinéraire à prix fixe."
+  },
+  "c523a1b5": {
+    "en": "Golden sunrise light over layers of forested hills near Ella",
+    "fr": "Lumière dorée du lever du soleil sur des collines boisées près d’Ella"
+  },
+  "0faaf885": {
+    "en": "Five regions, one easy road trip. <1>Pick the places you love.</1>",
+    "fr": "Cinq régions, un road trip tout simple. <1>Choisissez vos coups de cœur.</1>"
+  },
+  "080b1c45": {
+    "en": "Ancient cities, misty tea hills, golden beaches and wild national parks. Tap “Add to my trip” on anything that catches your eye, and we’ll plan the route with you for free on WhatsApp.",
+    "fr": "Cités antiques, collines de thé dans la brume, plages dorées et parcs nationaux sauvages. Touchez «&nbsp;Ajouter à mon voyage&nbsp;» sur tout ce qui vous tente, et nous préparons l’itinéraire avec vous, gratuitement, sur WhatsApp."
+  },
+  "46fee60d": {
+    "en": "See the regions <1/>",
+    "fr": "Voir les régions <1/>"
+  },
+  "be5e6b19": {
+    "en": "<1/>Your own private driver",
+    "fr": "<1/>Votre propre chauffeur privé"
+  },
+  "b0ff790b": {
+    "en": "Browse the regions",
+    "fr": "Parcourez les régions"
+  },
+  "bc81e99f": {
+    "en": "Five areas, from ancient cities to quiet beaches.",
+    "fr": "Cinq régions, des cités antiques aux plages tranquilles."
+  },
+  "ab0fc188": {
+    "en": "Add what you love",
+    "fr": "Ajoutez vos coups de cœur"
+  },
+  "e2d2be76": {
+    "en": "Your picks are saved as you move between pages.",
+    "fr": "Vos choix sont conservés d’une page à l’autre."
+  },
+  "020dff75": {
+    "en": "Send them to us",
+    "fr": "Envoyez-les-nous"
+  },
+  "d22145ed": {
+    "en": "We reply on WhatsApp with a route and a fixed price.",
+    "fr": "Nous vous répondons sur WhatsApp avec un itinéraire et un prix fixe."
+  },
+  "67be1a9e": {
+    "en": "Filter destinations by region",
+    "fr": "Filtrer les destinations par région"
+  },
+  "48bbde58": {
+    "en": "All regions <1><2/>17<3> places</3></1>",
+    "fr": "Toutes les régions <1><2/>17<3> lieux</3></1>"
+  },
+  "3fc0ba1b": {
+    "en": "All regions",
+    "fr": "Toutes les régions"
+  },
+  "3a4a722c": {
+    "en": "Cultural Triangle <1><2/>5<3> places</3></1>",
+    "fr": "Triangle culturel <1><2/>5<3> lieux</3></1>"
+  },
+  "2194aaa8": {
+    "en": "Hill Country <1><2/>3<3> places</3></1>",
+    "fr": "Hautes terres <1><2/>3<3> lieux</3></1>"
+  },
+  "75092ac7": {
+    "en": "Hill Country",
+    "fr": "Hautes terres"
+  },
+  "d85f2d76": {
+    "en": "Southern Coast <1><2/>3<3> places</3></1>",
+    "fr": "Côte sud <1><2/>3<3> lieux</3></1>"
+  },
+  "24d9ad5a": {
+    "en": "Southern Coast",
+    "fr": "Côte sud"
+  },
+  "caed0c09": {
+    "en": "East Coast <1><2/>3<3> places</3></1>",
+    "fr": "Côte est <1><2/>3<3> lieux</3></1>"
+  },
+  "579342ba": {
+    "en": "Wildlife Parks <1><2/>3<3> places</3></1>",
+    "fr": "Parcs animaliers <1><2/>3<3> lieux</3></1>"
+  },
+  "b3e031a3": {
+    "en": "Wildlife Parks",
+    "fr": "Parcs animaliers"
+  },
+  "93fdc667": {
+    "en": "Ancient kingdoms",
+    "fr": "Royaumes antiques"
+  },
+  "ee7e5d6d": {
+    "en": "Rock fortresses, cave temples and ruined royal cities sit close together on the dry central plains. Most travellers stay near Sigiriya and take short drives out each day, then finish in Kandy on the way to the hills.",
+    "fr": "Forteresses rocheuses, temples-grottes et cités royales en ruine se côtoient dans les plaines sèches du centre. La plupart des voyageurs logent près de Sigiriya, rayonnent chaque jour en courts trajets, puis terminent par Kandy en route vers les hautes terres."
+  },
+  "b2e80e14": {
+    "en": "<1/>Best January to September",
+    "fr": "<1/>Idéal de janvier à septembre"
+  },
+  "f4d8ad66": {
+    "en": "<1/>Allow 2 to 4 days",
+    "fr": "<1/>Prévoir 2 à 4 jours"
+  },
+  "db4eeace": {
+    "en": "<1/>UNESCO World Heritage",
+    "fr": "<1/>Patrimoine mondial de l’UNESCO"
+  },
+  "1a956f6c": {
+    "en": "The 5th-century rock fortress rises straight out of the jungle, with painted frescoes and giant lion’s paws halfway up. It’s the island’s most famous climb, and worth every step. We also run Sigiriya as a day tour.",
+    "fr": "La forteresse rocheuse du Ve siècle surgit tout droit de la jungle, avec ses fresques peintes et ses gigantesques pattes de lion à mi-hauteur. C’est l’ascension la plus célèbre de l’île, et elle vaut chaque marche. Nous proposons aussi Sigiriya en excursion à la journée."
+  },
+  "0f9a6fb7": {
+    "en": "Climb at opening time, before the heat and the crowds",
+    "fr": "Montez dès l’ouverture, avant la chaleur et la foule"
+  },
+  "187b88c0": {
+    "en": "Watch the sunrise over Sigiriya from nearby Pidurangala Rock",
+    "fr": "Admirez le lever du soleil sur Sigiriya depuis le rocher voisin de Pidurangala"
+  },
+  "05d6fe35": {
+    "en": "An easy base for Dambulla, Polonnaruwa and Minneriya",
+    "fr": "Une base pratique pour Dambulla, Polonnaruwa et Minneriya"
+  },
+  "95b34dc2": {
+    "en": "Ideal stay <1>2 nights</1>",
+    "fr": "Séjour idéal <1>2 nuits</1>"
+  },
+  "7c1b15a5": {
+    "en": "Rows of golden Buddha statues lining a painted cave temple",
+    "fr": "Rangées de statues dorées du Bouddha dans un temple-grotte peint"
+  },
+  "984945fe": {
+    "en": "Dambulla",
+    "fr": "Dambulla"
+  },
+  "4d04b358": {
+    "en": "Five cave shrines carved into a granite outcrop, filled with painted ceilings and more than 150 Buddha statues. It sits on the road to Kandy, so it fits neatly into a travel day.",
+    "fr": "Cinq sanctuaires creusés dans un affleurement de granit, aux plafonds peints et abritant plus de 150 statues du Bouddha. Le site est sur la route de Kandy et s’intègre donc facilement à une journée de trajet."
+  },
+  "1b94bbf4": {
+    "en": "Cave paintings that cover every surface",
+    "fr": "Des peintures qui recouvrent chaque paroi des grottes"
+  },
+  "c675626d": {
+    "en": "Wide views over the plains from the terrace",
+    "fr": "Une vue dégagée sur les plaines depuis la terrasse"
+  },
+  "d518f4e6": {
+    "en": "Cover shoulders and knees, and leave shoes at the gate",
+    "fr": "Couvrez épaules et genoux, et laissez vos chaussures à l’entrée"
+  },
+  "35c3a1a2": {
+    "en": "Ideal stay <1>Half a day</1>",
+    "fr": "Séjour idéal <1>Une demi-journée</1>"
+  },
+  "b1170873": {
+    "en": "Add Dambulla to my trip",
+    "fr": "Ajouter Dambulla à mon voyage"
+  },
+  "a23d14fb": {
+    "en": "Ancient stone columns and carved steps among the ruins at Polonnaruwa",
+    "fr": "Colonnes de pierre anciennes et marches sculptées parmi les ruines de Polonnaruwa"
+  },
+  "1988a456": {
+    "en": "Polonnaruwa",
+    "fr": "Polonnaruwa"
+  },
+  "d8308f54": {
+    "en": "A medieval royal capital of palaces, temples and the calm, rock-cut Buddhas of Gal Vihara, spread across a leafy, walkable site.",
+    "fr": "Une capitale royale médiévale de palais, de temples et de bouddhas sereins taillés dans la roche à Gal Vihara, répartis sur un site arboré qui se visite à pied."
+  },
+  "d16aae90": {
+    "en": "The Gal Vihara rock carvings",
+    "fr": "Les sculptures rupestres de Gal Vihara"
+  },
+  "8c00da01": {
+    "en": "Explore the ruins by bicycle",
+    "fr": "Explorer les ruines à vélo"
+  },
+  "96bbb1a9": {
+    "en": "Pairs well with an afternoon safari at Minneriya",
+    "fr": "Se combine bien avec un safari l’après-midi à Minneriya"
+  },
+  "0335cdfc": {
+    "en": "Ideal stay <1>1 day</1>",
+    "fr": "Séjour idéal <1>1 jour</1>"
+  },
+  "80d2c23b": {
+    "en": "Add Polonnaruwa to my trip",
+    "fr": "Ajouter Polonnaruwa à mon voyage"
+  },
+  "7a0512f5": {
+    "en": "A great white dagoba rising behind palm trees under a clear blue sky in Anuradhapura",
+    "fr": "Un grand dagoba blanc qui s’élève derrière des palmiers sous un ciel bleu limpide à Anuradhapura"
+  },
+  "08f1428b": {
+    "en": "Anuradhapura",
+    "fr": "Anuradhapura"
+  },
+  "cbc69a8a": {
+    "en": "Sri Lanka’s first great capital, with vast white dagobas and a sacred fig tree that is one of the oldest known trees in the world. Quieter and more spread out than Polonnaruwa.",
+    "fr": "La première grande capitale du Sri Lanka, avec d’immenses dagobas blancs et un figuier sacré parmi les plus vieux arbres connus au monde. Plus calme et plus étendue que Polonnaruwa."
+  },
+  "425789ce": {
+    "en": "The huge white Ruwanwelisaya dagoba",
+    "fr": "L’immense dagoba blanc de Ruwanwelisaya"
+  },
+  "8046f60a": {
+    "en": "The sacred Sri Maha Bodhi tree",
+    "fr": "L’arbre sacré Sri Maha Bodhi"
+  },
+  "d0b9269a": {
+    "en": "Best on a longer trip of 10 days or more",
+    "fr": "Idéal pour un voyage plus long, de 10 jours ou plus"
+  },
+  "d78ef7c2": {
+    "en": "Add Anuradhapura to my trip",
+    "fr": "Ajouter Anuradhapura à mon voyage"
+  },
+  "55cfedc8": {
+    "en": "The old hill capital wraps around a lake and is home to the Temple of the Sacred Tooth Relic. It’s the gateway between the ancient cities and tea country.",
+    "fr": "L’ancienne capitale des hautes terres s’enroule autour d’un lac et abrite le temple de la Dent sacrée. C’est la porte entre les cités antiques et le pays du thé."
+  },
+  "2fee4397": {
+    "en": "Evening puja (prayers) at the Temple of the Tooth",
+    "fr": "La puja (prière) du soir au temple de la Dent"
+  },
+  "d7f7b450": {
+    "en": "The Royal Botanic Gardens at Peradeniya",
+    "fr": "Le jardin botanique royal de Peradeniya"
+  },
+  "09d12e8a": {
+    "en": "We also run a Kandy cultural day tour",
+    "fr": "Nous proposons aussi une excursion culturelle d’une journée à Kandy"
+  },
+  "f68d9363": {
+    "en": "Ideal stay <1>1 to 2 nights</1>",
+    "fr": "Séjour idéal <1>1 à 2 nuits</1>"
+  },
+  "76b100a3": {
+    "en": "Tea and cool air",
+    "fr": "Thé et air frais"
+  },
+  "c50e018e": {
+    "en": "Cool air, tea on every slope, waterfalls and the famous blue train. The roads up here are narrow and winding, which is exactly where a careful, unhurried driver makes all the difference.",
+    "fr": "Air frais, thé sur chaque pente, cascades et le célèbre train bleu. Les routes y sont étroites et sinueuses&nbsp;: c’est précisément là qu’un chauffeur prudent, qui prend son temps, fait toute la différence."
+  },
+  "5fdd28a6": {
+    "en": "<1/>Clearest views January to April",
+    "fr": "<1/>Vues les plus dégagées de janvier à avril"
+  },
+  "69abb959": {
+    "en": "<1/>Allow 3 to 4 days",
+    "fr": "<1/>Prévoir 3 à 4 jours"
+  },
+  "a3c25d58": {
+    "en": "A laid-back hill village with big views in every direction. Days here are for short hikes, long breakfasts and watching the train cross the Nine Arches Bridge.",
+    "fr": "Un village de montagne décontracté avec de grandes vues dans toutes les directions. Ici, les journées sont faites de courtes randonnées, de longs petits-déjeuners et du passage du train sur le pont des Neuf Arches."
+  },
+  "f5fa3b0e": {
+    "en": "An easy sunrise walk up Little Adam’s Peak",
+    "fr": "Une balade facile au lever du soleil jusqu’au Little Adam’s Peak"
+  },
+  "2f0ab1bb": {
+    "en": "See a train cross the Nine Arches Bridge",
+    "fr": "Voir un train franchir le pont des Neuf Arches"
+  },
+  "a34f137e": {
+    "en": "Arrive on the scenic train from Kandy or Nanu Oya",
+    "fr": "Arrivée par le train panoramique depuis Kandy ou Nanu Oya"
+  },
+  "eae5cd20": {
+    "en": "A lone tree on a green lawn beside a calm lake under a bright blue sky",
+    "fr": "Un arbre isolé sur une pelouse verte au bord d’un lac paisible, sous un ciel d’un bleu éclatant"
+  },
+  "b77618fa": {
+    "en": "Nuwara Eliya",
+    "fr": "Nuwara Eliya"
+  },
+  "ad7b083c": {
+    "en": "Known as “Little England” for its colonial bungalows and cool climate, this is the heart of tea country.",
+    "fr": "Surnommée «&nbsp;la petite Angleterre&nbsp;» pour ses bungalows coloniaux et son climat frais, c’est le cœur du pays du thé."
+  },
+  "035c32bc": {
+    "en": "Tour a working tea factory and taste fresh tea",
+    "fr": "Visiter une usine de thé en activité et goûter le thé frais"
+  },
+  "60b18204": {
+    "en": "Bring a warm layer for the evenings",
+    "fr": "Prévoyez une couche chaude pour le soir"
+  },
+  "3fa158a4": {
+    "en": "Ideal stay <1>1 night</1>",
+    "fr": "Séjour idéal <1>1 nuit</1>"
+  },
+  "d36778f2": {
+    "en": "Add Nuwara Eliya to my trip",
+    "fr": "Ajouter Nuwara Eliya à mon voyage"
+  },
+  "f184e2ba": {
+    "en": "A sheer, grassy cliff edge dropping into a misty valley far below",
+    "fr": "Une falaise herbeuse à pic plongeant vers une vallée brumeuse tout en bas"
+  },
+  "9fb1a7af": {
+    "en": "Horton Plains",
+    "fr": "Horton Plains"
+  },
+  "b2597dad": {
+    "en": "A high, windswept plateau of grassland and cloud forest that ends at a sheer drop called World’s End.",
+    "fr": "Un haut plateau venteux de prairies et de forêt de nuages qui s’achève sur un à-pic vertigineux appelé World’s End, le «&nbsp;bout du monde&nbsp;»."
+  },
+  "1a09f7ae": {
+    "en": "The World’s End loop walk, about 9 km",
+    "fr": "La boucle de World’s End, environ 9 km"
+  },
+  "5d8d21a1": {
+    "en": "Start at dawn, before the mist rolls in",
+    "fr": "Partez à l’aube, avant l’arrivée de la brume"
+  },
+  "8bc6cf02": {
+    "en": "Baker’s Falls along the way",
+    "fr": "Les chutes de Baker en chemin"
+  },
+  "47a3e567": {
+    "en": "Add Horton Plains to my trip",
+    "fr": "Ajouter Horton Plains à mon voyage"
+  },
+  "7cbf6959": {
+    "en": "Beaches and a fort town",
+    "fr": "Plages et ville fortifiée"
+  },
+  "4d2155d6": {
+    "en": "Palm-lined bays, the old Dutch fort at Galle and whale boats heading out at dawn. The south coast is where most trips slow down for a few days on the sand.",
+    "fr": "Baies bordées de palmiers, le vieux fort hollandais de Galle et les bateaux d’observation des baleines qui partent à l’aube. C’est sur la côte sud que la plupart des voyages ralentissent pour quelques jours sur le sable."
+  },
+  "3d79490d": {
+    "en": "<1/>Best December to April",
+    "fr": "<1/>Idéal de décembre à avril"
+  },
+  "bc1c81e0": {
+    "en": "<1/>Allow 3 to 5 days",
+    "fr": "<1/>Prévoir 3 à 5 jours"
+  },
+  "0c28aef9": {
+    "en": "A walled 17th-century fort town of cobbled lanes, cafés and small shops, wrapped in ramparts above the sea.",
+    "fr": "Une ville fortifiée du XVIIe siècle, avec ses ruelles pavées, ses cafés et ses petites boutiques, enserrée dans des remparts au-dessus de la mer."
+  },
+  "ab31eea7": {
+    "en": "Walk the ramparts at sunset",
+    "fr": "Marcher sur les remparts au coucher du soleil"
+  },
+  "04976413": {
+    "en": "The lighthouse, churches and old Dutch streets",
+    "fr": "Le phare, les églises et les vieilles rues hollandaises"
+  },
+  "3b4f0f27": {
+    "en": "An easy expressway drive back to the airport",
+    "fr": "Un retour facile vers l’aéroport par la voie express"
+  },
+  "6348c219": {
+    "en": "Tall palm trees on a red-earth headland above a turquoise sea at Mirissa",
+    "fr": "De hauts palmiers sur un promontoire de terre rouge au-dessus d’une mer turquoise à Mirissa"
+  },
+  "57e8e401": {
+    "en": "Mirissa",
+    "fr": "Mirissa"
+  },
+  "18455b97": {
+    "en": "A curve of golden sand with a relaxed beach-town feel, and the best-known place on the island to go whale watching.",
+    "fr": "Une courbe de sable doré à l’ambiance de petite station balnéaire décontractée, et le lieu le plus connu de l’île pour observer les baleines."
+  },
+  "445cbc20": {
+    "en": "Whale-watching boats, roughly November to April",
+    "fr": "Sorties d’observation des baleines, environ de novembre à avril"
+  },
+  "b2c59c84": {
+    "en": "Sunset at Coconut Tree Hill",
+    "fr": "Coucher de soleil sur Coconut Tree Hill"
+  },
+  "9cf6001c": {
+    "en": "Calm swimming in the bay in season",
+    "fr": "Baignade calme dans la baie en saison"
+  },
+  "335fc062": {
+    "en": "Add Mirissa to my trip",
+    "fr": "Ajouter Mirissa à mon voyage"
+  },
+  "51ec2e5a": {
+    "en": "Weligama",
+    "fr": "Weligama"
+  },
+  "d89d3164": {
+    "en": "A wide, sandy bay with soft, rolling waves that make it one of the best places in Sri Lanka to learn to surf.",
+    "fr": "Une large baie de sable aux vagues douces et régulières, l’un des meilleurs endroits du Sri Lanka pour apprendre à surfer."
+  },
+  "9cbc676f": {
+    "en": "Beginner-friendly waves and surf schools on the beach",
+    "fr": "Des vagues adaptées aux débutants et des écoles de surf sur la plage"
+  },
+  "b691195e": {
+    "en": "See the stilt fishermen near Koggala",
+    "fr": "Voir les pêcheurs sur échasses près de Koggala"
+  },
+  "b3695ec2": {
+    "en": "Ask us about surf trip transfers",
+    "fr": "Renseignez-vous sur nos transferts pour le surf"
+  },
+  "ab4c055d": {
+    "en": "Ideal stay <1>2 to 3 nights</1>",
+    "fr": "Séjour idéal <1>2 à 3 nuits</1>"
+  },
+  "8f9f3451": {
+    "en": "Add Weligama to my trip",
+    "fr": "Ajouter Weligama à mon voyage"
+  },
+  "d3dce29f": {
+    "en": "The other monsoon",
+    "fr": "L’autre mousson"
+  },
+  "b05885a7": {
+    "en": "When the rains reach the south and west, the east coast comes into its own: calm turquoise water, coral reefs and long, quiet beaches.",
+    "fr": "Quand les pluies atteignent le sud et l’ouest, la côte est se révèle&nbsp;: eau turquoise et calme, récifs coralliens et longues plages tranquilles."
+  },
+  "20463c03": {
+    "en": "<1/>Best May to September",
+    "fr": "<1/>Idéal de mai à septembre"
+  },
+  "53f94122": {
+    "en": "Trincomalee",
+    "fr": "Trincomalee"
+  },
+  "fd1c8269": {
+    "en": "A deep natural harbour with clifftop temples, and white-sand beaches at Nilaveli and Uppuveli just up the coast.",
+    "fr": "Un profond port naturel aux temples perchés sur les falaises, avec les plages de sable blanc de Nilaveli et d’Uppuveli un peu plus haut sur la côte."
+  },
+  "f85de0f6": {
+    "en": "Snorkel among reef fish at Pigeon Island",
+    "fr": "Snorkeling parmi les poissons du récif à Pigeon Island"
+  },
+  "3bec3213": {
+    "en": "Koneswaram Temple on Swami Rock",
+    "fr": "Le temple de Koneswaram sur le Swami Rock"
+  },
+  "33fdcb61": {
+    "en": "Beach days at Nilaveli and Uppuveli",
+    "fr": "Journées plage à Nilaveli et Uppuveli"
+  },
+  "da7dbff1": {
+    "en": "Add Trincomalee to my trip",
+    "fr": "Ajouter Trincomalee à mon voyage"
+  },
+  "3d066ce3": {
+    "en": "Aerial view of colourful fishing boats pulled up on a sandy beach as waves roll in",
+    "fr": "Vue aérienne de bateaux de pêche colorés tirés sur une plage de sable tandis que les vagues déferlent"
+  },
+  "f012d17f": {
+    "en": "Arugam Bay",
+    "fr": "Arugam Bay"
+  },
+  "8c1b0f81": {
+    "en": "A surf town on the far south-east coast, famous for its long point break and easy-going village life.",
+    "fr": "Un village de surf tout au sud-est de la côte, célèbre pour sa longue vague de pointe et sa vie de village paisible."
+  },
+  "afcb7f01": {
+    "en": "A world-famous point break for surfers",
+    "fr": "Une vague de pointe mondialement connue des surfeurs"
+  },
+  "298b23e8": {
+    "en": "Lagoon and wildlife trips towards Kumana",
+    "fr": "Sorties lagune et faune vers Kumana"
+  },
+  "14fe59cc": {
+    "en": "Best on a 10 to 14-day trip",
+    "fr": "Idéal pour un voyage de 10 à 14 jours"
+  },
+  "69f964f3": {
+    "en": "Ideal stay <1>3 nights</1>",
+    "fr": "Séjour idéal <1>3 nuits</1>"
+  },
+  "ab17b0b7": {
+    "en": "Add Arugam Bay to my trip",
+    "fr": "Ajouter Arugam Bay à mon voyage"
+  },
+  "c17507a0": {
+    "en": "The bow of a small boat heading out across calm, clear blue water",
+    "fr": "La proue d’un petit bateau s’élançant sur une eau bleue calme et limpide"
+  },
+  "363cde17": {
+    "en": "Pasikudah",
+    "fr": "Pasikudah"
+  },
+  "034d7588": {
+    "en": "A shallow, sheltered bay where you can wade a long way out in warm, calm water. Lovely for families.",
+    "fr": "Une baie peu profonde et abritée où l’on peut marcher loin dans une eau chaude et calme. Idéal pour les familles."
+  },
+  "dce7bc5a": {
+    "en": "Shallow water, great for children",
+    "fr": "Eau peu profonde, parfaite pour les enfants"
+  },
+  "95c3312d": {
+    "en": "Glassy, calm sea in season",
+    "fr": "Mer lisse et calme en saison"
+  },
+  "550b367e": {
+    "en": "We can help you book a hotel here",
+    "fr": "Nous pouvons vous aider à réserver un hôtel ici"
+  },
+  "02afca68": {
+    "en": "Add Pasikudah to my trip",
+    "fr": "Ajouter Pasikudah à mon voyage"
+  },
+  "eb8920f2": {
+    "en": "Leopards and elephants",
+    "fr": "Léopards et éléphants"
+  },
+  "ae0b301b": {
+    "en": "Leopards, elephants, crocodiles and hundreds of bird species. Jeep safaris run early in the morning and late in the afternoon, when the animals are most active.",
+    "fr": "Léopards, éléphants, crocodiles et des centaines d’espèces d’oiseaux. Les safaris en jeep partent tôt le matin et en fin d’après-midi, quand les animaux sont les plus actifs."
+  },
+  "f543658a": {
+    "en": "<1/>Good most of the year",
+    "fr": "<1/>Bien presque toute l’année"
+  },
+  "fd5d94a2": {
+    "en": "<1/>Allow 1 day per park",
+    "fr": "<1/>Prévoir 1 jour par parc"
+  },
+  "3025620f": {
+    "en": "Sri Lanka’s best-known national park, famous for its leopards, with elephants, sloth bears and crocodiles too.",
+    "fr": "Le parc national le plus connu du Sri Lanka, célèbre pour ses léopards, avec aussi des éléphants, des ours lippus et des crocodiles."
+  },
+  "adc3e5e2": {
+    "en": "Early-morning jeep safaris for the best sightings",
+    "fr": "Safaris en jeep au petit matin pour les meilleures observations"
+  },
+  "489f9d49": {
+    "en": "The park often closes for a few weeks around September",
+    "fr": "Le parc ferme souvent quelques semaines autour de septembre"
+  },
+  "a66665bc": {
+    "en": "We arrange Yala safari day tours",
+    "fr": "Nous organisons des excursions safari d’une journée à Yala"
+  },
+  "9c3f862b": {
+    "en": "A family of elephants walking through tall green grass",
+    "fr": "Une famille d’éléphants marchant dans les hautes herbes vertes"
+  },
+  "22780d30": {
+    "en": "Udawalawe",
+    "fr": "Udawalawe"
+  },
+  "b6917227": {
+    "en": "Open grassland around a large reservoir, and one of the most reliable places on the island to see wild elephants.",
+    "fr": "Des prairies ouvertes autour d’un grand réservoir, et l’un des endroits les plus sûrs de l’île pour voir des éléphants sauvages."
+  },
+  "b6754e40": {
+    "en": "Herds of elephants all year round",
+    "fr": "Des troupeaux d’éléphants toute l’année"
+  },
+  "d646793b": {
+    "en": "An easy stop on the way to the south coast",
+    "fr": "Une étape facile sur la route de la côte sud"
+  },
+  "336b20bc": {
+    "en": "Add Udawalawe to my trip",
+    "fr": "Ajouter Udawalawe à mon voyage"
+  },
+  "e994f623": {
+    "en": "A herd of elephants wading across a wide, shallow river",
+    "fr": "Un troupeau d’éléphants traversant une large rivière peu profonde"
+  },
+  "1d8611a9": {
+    "en": "Minneriya",
+    "fr": "Minneriya"
+  },
+  "a572634b": {
+    "en": "In the dry season, hundreds of elephants gather on the grassy shores of the ancient Minneriya reservoir.",
+    "fr": "À la saison sèche, des centaines d’éléphants se rassemblent sur les rives herbeuses de l’ancien réservoir de Minneriya."
+  },
+  "fd5c5201": {
+    "en": "“The Gathering”, roughly July to October",
+    "fr": "Le «&nbsp;Gathering&nbsp;», le grand rassemblement, environ de juillet à octobre"
+  },
+  "813fb111": {
+    "en": "Nearby Kaudulla when the herds move on",
+    "fr": "Le parc voisin de Kaudulla quand les troupeaux se déplacent"
+  },
+  "b612f51a": {
+    "en": "Close to Sigiriya and Polonnaruwa",
+    "fr": "Proche de Sigiriya et de Polonnaruwa"
+  },
+  "d530fb30": {
+    "en": "Add Minneriya to my trip",
+    "fr": "Ajouter Minneriya à mon voyage"
+  },
+  "125da6c7": {
+    "en": "Where most trips begin",
+    "fr": "Là où commencent la plupart des voyages"
+  },
+  "272fbc5d": {
+    "en": "Colombo and the airport",
+    "fr": "Colombo et l’aéroport"
+  },
+  "b9ae012b": {
+    "en": "We meet you at arrivals at Bandaranaike International Airport and drive you to wherever your trip begins. Spend a night in Colombo for its markets, temples and seafront, or head straight for the hills. Day transfers start from <1/>.",
+    "fr": "Nous vous accueillons dans le hall des arrivées de l’aéroport international Bandaranaike et vous conduisons là où commence votre voyage. Passez une nuit à Colombo pour ses marchés, ses temples et son front de mer, ou filez directement vers les collines. Transferts à la journée à partir de <1/>."
+  },
+  "cdf72699": {
+    "en": "Ask about airport pick-up<1> (opens in a new tab)</1> <2/>",
+    "fr": "Se renseigner sur l’accueil à l’aéroport<1> (s’ouvre dans un nouvel onglet)</1> <2/>"
+  }
+}

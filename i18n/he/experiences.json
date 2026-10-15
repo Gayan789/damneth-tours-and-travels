@@ -1,0 +1,324 @@
+{
+  "_meta": {
+    "language": "he",
+    "bundle": "experiences",
+    "status": "draft – needs native review",
+    "about": "Text on experiences.html. Translate the \"he\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "756d598f": {
+    "en": "Sri Lanka Experiences: Safari, Train, Surf &amp; More | Damneth Tours &amp; Travels",
+    "he": "חוויות בסרי לנקה: ספארי, רכבת, גלישה ועוד | Damneth Tours &amp; Travels"
+  },
+  "a5754b07": {
+    "en": "Yala safari, the Ella train, surfing, tea plantation walks and whale watching. Add the experiences you love and we’ll link them into one easy private-driver route, planned free on WhatsApp.",
+    "he": "ספארי ביאלה, הרכבת לאלה, גלישה, הליכות במטעי תה וצפייה בלווייתנים. הוסיפו את החוויות שאתם אוהבים ונחבר אותן למסלול נוח אחד עם נהג פרטי, שמתוכנן בחינם בוואטסאפ."
+  },
+  "2a1df757": {
+    "en": "A blue train crossing a stone arch bridge through dense forest, seen from above",
+    "he": "רכבת כחולה חוצה גשר קשתות מאבן ביער סבוך, במבט מלמעלה"
+  },
+  "e7ed9210": {
+    "en": "The moments that make the trip. <1>Mix and match them.</1>",
+    "he": "הרגעים שעושים את הטיול. <1>שלבו ביניהם כרצונכם.</1>"
+  },
+  "3b4a9c2a": {
+    "en": "Leopards at dawn, the slow train through tea country, your first wave, a walk among the tea pickers and whales off the south coast. Add the ones you love and we’ll fit them into one easy route.",
+    "he": "נמרים עם שחר, הרכבת האיטית דרך ארץ התה, הגל הראשון שלכם, הליכה בין קוטפות התה ולווייתנים מול החוף הדרומי. הוסיפו את מה שאתם אוהבים ונשלב הכול במסלול נוח אחד."
+  },
+  "573b4442": {
+    "en": "<1/> Plan my experiences<2> (opens in a new tab)</2>",
+    "he": "<1/> לתכנן את החוויות שלי<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "1a8ab92d": {
+    "en": "See my picks <1/>",
+    "he": "לצפייה בבחירות שלי <1/>"
+  },
+  "8759e223": {
+    "en": "<1/>24/7 support on WhatsApp",
+    "he": "<1/>תמיכה 24/7 בוואטסאפ"
+  },
+  "fca77b7e": {
+    "en": "At a glance",
+    "he": "במבט אחד"
+  },
+  "3c5bd207": {
+    "en": "Yala safari",
+    "he": "ספארי ביאלה"
+  },
+  "3b40fc9a": {
+    "en": "Easy<1/><2/>Half or full day",
+    "he": "קל<1/><2/>חצי יום או יום מלא"
+  },
+  "74dba89c": {
+    "en": "Ella train ride",
+    "he": "נסיעת הרכבת לאלה"
+  },
+  "72325baf": {
+    "en": "Easy<1/><2/>2 to 7 hours",
+    "he": "קל<1/><2/>2 עד 7 שעות"
+  },
+  "d38658f4": {
+    "en": "Surfing",
+    "he": "גלישה"
+  },
+  "baf380f8": {
+    "en": "Active<1/><2/>2 hours a session",
+    "he": "פעיל<1/><2/>שעתיים לסשן"
+  },
+  "70aa2e4f": {
+    "en": "Tea plantation walk",
+    "he": "הליכה במטע תה"
+  },
+  "3f8bfa97": {
+    "en": "Moderate<1/><2/>2 to 3 hours",
+    "he": "בינוני<1/><2/>2 עד 3 שעות"
+  },
+  "8a4f6db9": {
+    "en": "Whale watching",
+    "he": "צפייה בלווייתנים"
+  },
+  "d21f4750": {
+    "en": "Easy<1/><2/>3 to 5 hours",
+    "he": "קל<1/><2/>3 עד 5 שעות"
+  },
+  "b9950eef": {
+    "en": "A leopard resting on a rock, looking straight at the camera",
+    "he": "נמר נח על סלע ומביט ישר אל המצלמה"
+  },
+  "8082200f": {
+    "en": "Wildlife · Day tour",
+    "he": "חיות בר · טיול יום"
+  },
+  "d29059b8": {
+    "en": "Bump along sandy tracks in an open jeep, scanning the scrub for leopards, elephants, sloth bears and crocodiles. Early starts bring the softest light and the best chance of a sighting.",
+    "he": "קפצו על דרכי חול בג׳יפ פתוח וסרקו את השיחים בחיפוש אחר נמרים, פילים, דובי שפתיים ותנינים. יציאה מוקדמת מביאה את האור הרך ביותר ואת הסיכוי הטוב ביותר לתצפית."
+  },
+  "5e50a9c9": {
+    "en": "<1/>Activity level",
+    "he": "<1/>רמת מאמץ"
+  },
+  "15dfc0f1": {
+    "en": "<1/>Easy<2>You stay in the jeep the whole time</2>",
+    "he": "<1/>קל<2>נשארים בג׳יפ כל הזמן</2>"
+  },
+  "0db75946": {
+    "en": "<1/>Duration",
+    "he": "<1/>משך"
+  },
+  "bbf40cc0": {
+    "en": "Half or full day<1>A morning drive is about 3 to 4 hours</1>",
+    "he": "חצי יום או יום מלא<1>נסיעת בוקר נמשכת כ־3 עד 4 שעות</1>"
+  },
+  "b6c1f077": {
+    "en": "<1/>Best season",
+    "he": "<1/>העונה הטובה ביותר"
+  },
+  "e6762ad5": {
+    "en": "February to July<1>The park often closes for a few weeks around September</1>",
+    "he": "פברואר עד יולי<1>הפארק נסגר לעיתים קרובות לכמה שבועות בסביבות ספטמבר</1>"
+  },
+  "7b6f9886": {
+    "en": "<1/>Ideal for",
+    "he": "<1/>מתאים במיוחד ל"
+  },
+  "17514d17": {
+    "en": "Families and first-timers",
+    "he": "משפחות ומי שמגיעים בפעם הראשונה"
+  },
+  "c806bec3": {
+    "en": "Add Yala safari to my trip",
+    "he": "הוספת ספארי ביאלה לטיול שלי"
+  },
+  "89339c58": {
+    "en": "Ask about a Yala safari<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על ספארי ביאלה<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "c0bb5e28": {
+    "en": "Yala safaris are one of our day tours, and we can also fit one into a longer trip.",
+    "he": "ספארי ביאלה הוא אחד מטיולי היום שלנו, ואפשר גם לשלב אותו בטיול ארוך יותר."
+  },
+  "228377aa": {
+    "en": "Scenic rail",
+    "he": "מסילה נופית"
+  },
+  "2113e21b": {
+    "en": "Lean out of an open door as the train climbs through tea estates, tunnels and cloud forest. Many travellers call it the most beautiful train ride in the world, and it’s easy to see why.",
+    "he": "הישענו החוצה מדלת פתוחה כשהרכבת מטפסת בין מטעי תה, מנהרות ויער עננים. מטיילים רבים קוראים לה נסיעת הרכבת היפה בעולם, וקל להבין למה."
+  },
+  "1c797f9f": {
+    "en": "<1/>Easy<2>Sit back, or stand at the door for photos</2>",
+    "he": "<1/>קל<2>שבו בנחת, או עמדו ליד הדלת לצילומים</2>"
+  },
+  "342eec43": {
+    "en": "About 2 to 7 hours<1>Depending on where you board</1>",
+    "he": "בערך 2 עד 7 שעות<1>תלוי איפה עולים</1>"
+  },
+  "56e06519": {
+    "en": "Runs all year<1>Clearest views January to April</1>",
+    "he": "פועלת כל השנה<1>הנופים הצלולים ביותר מינואר עד אפריל</1>"
+  },
+  "20aea31c": {
+    "en": "Couples and photographers",
+    "he": "זוגות וצלמים"
+  },
+  "7d4a65fe": {
+    "en": "Add Ella train ride to my trip",
+    "he": "הוספת נסיעת הרכבת לאלה לטיול שלי"
+  },
+  "da3ab75c": {
+    "en": "Ask about train tickets<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על כרטיסי רכבת<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "e0a58ecc": {
+    "en": "We organised Ella train tickets for a family of five on their 12-day trip. While you ride, your driver takes your bags by road and meets you at the other end.",
+    "he": "סידרנו כרטיסי רכבת לאלה למשפחה בת חמש נפשות בטיול של 12 ימים. בזמן שאתם נוסעים ברכבת, הנהג מוביל את המזוודות בכביש ומחכה לכם בצד השני."
+  },
+  "03703bfe": {
+    "en": "A surfer carving along the face of a breaking wave",
+    "he": "גולש חותך לאורך דופן של גל נשבר"
+  },
+  "52bba152": {
+    "en": "On the water",
+    "he": "על המים"
+  },
+  "a30dbd98": {
+    "en": "From gentle beginner waves at Weligama to the famous point break at Arugam Bay, Sri Lanka is a brilliant place to learn or to chase better waves. We get you, and your boards, there.",
+    "he": "מגלים עדינים למתחילים בוליגמה ועד גל הפוינט המפורסם בארוגם ביי, סרי לנקה היא מקום מצוין ללמוד לגלוש או לרדוף אחרי גלים טובים יותר. אנחנו נביא אתכם לשם, ואת הגלשנים שלכם."
+  },
+  "d056fcf7": {
+    "en": "<1/>Active<2>Lessons suit complete beginners</2>",
+    "he": "<1/>פעיל<2>השיעורים מתאימים גם למתחילים גמורים</2>"
+  },
+  "e6f35b0c": {
+    "en": "About 2 hours a session<1>Most people surf mornings or late afternoons</1>",
+    "he": "כשעתיים לסשן<1>רוב האנשים גולשים בבוקר או בשעות אחר הצהריים המאוחרות</1>"
+  },
+  "ec54e226": {
+    "en": "South coast: November to April<1>Arugam Bay: May to September</1>",
+    "he": "החוף הדרומי: נובמבר עד אפריל<1>ארוגם ביי: מאי עד ספטמבר</1>"
+  },
+  "2fdce298": {
+    "en": "Beginners and keen surfers",
+    "he": "מתחילים וגולשים נלהבים"
+  },
+  "45b670a6": {
+    "en": "Add Surfing to my trip",
+    "he": "הוספת גלישה לטיול שלי"
+  },
+  "8dd3061a": {
+    "en": "Ask about surf transfers<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על העברות לגלישה<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "3c57716c": {
+    "en": "Lessons and board hire are with local surf schools on the beach. We handle the surf trip transfers in between.",
+    "he": "השיעורים והשכרת הגלשנים הם אצל בתי ספר מקומיים לגלישה על החוף. אנחנו דואגים להעברות שביניהם."
+  },
+  "4a7b9de6": {
+    "en": "A guest sipping tea at a tea shop table while their driver-guide takes a selfie",
+    "he": "אורחת לוגמת תה ליד שולחן בבית תה בזמן שהנהג־מדריך מצלם סלפי"
+  },
+  "dce86017": {
+    "en": "Follow the narrow paths between the tea bushes, see the pickers at work and finish at a factory to watch the leaves become your cup of tea. One of the gentlest, most memorable days in the hills.",
+    "he": "לכו בשבילים הצרים בין שיחי התה, צפו בקוטפות בעבודה וסיימו במפעל כדי לראות איך העלים הופכים לכוס התה שלכם. אחד הימים הרגועים והבלתי נשכחים ביותר בהרים."
+  },
+  "065d9c71": {
+    "en": "<1/>Moderate<2>Some uphill paths</2>",
+    "he": "<1/>בינוני<2>יש כמה שבילים בעלייה</2>"
+  },
+  "77004ad4": {
+    "en": "2 to 3 hours<1>Plus time for a factory visit</1>",
+    "he": "2 עד 3 שעות<1>ועוד זמן לביקור במפעל</1>"
+  },
+  "4359f03f": {
+    "en": "All year<1>Mornings are usually clearest</1>",
+    "he": "כל השנה<1>בבקרים בדרך כלל הכי בהיר</1>"
+  },
+  "6bc7ca7d": {
+    "en": "Walkers and tea lovers",
+    "he": "אוהבי הליכה ואוהבי תה"
+  },
+  "88988ac8": {
+    "en": "Add Tea plantation walk to my trip",
+    "he": "הוספת הליכה במטע תה לטיול שלי"
+  },
+  "b4ec40e8": {
+    "en": "Ask about a tea walk<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על הליכה במטע תה<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "5158344b": {
+    "en": "This isn’t one of our fixed day tours. Ask us on WhatsApp and we’ll suggest how to fit a walk into your days around Nuwara Eliya or Ella.",
+    "he": "זה לא אחד מטיולי היום הקבועים שלנו. שאלו אותנו בוואטסאפ, ונציע איך לשלב הליכה בימים שלכם באזור נוורה אליה או אלה."
+  },
+  "f403929a": {
+    "en": "A whale’s tail rising out of the sea as it dives",
+    "he": "זנב של לווייתן מתרומם מן הים כשהוא צולל"
+  },
+  "76022a00": {
+    "en": "Ocean",
+    "he": "אוקיינוס"
+  },
+  "40a7decf": {
+    "en": "Head out from Mirissa harbour at first light in search of blue whales, sperm whales and spinner dolphins. Seeing a blue whale surface beside the boat is something you never forget.",
+    "he": "צאו מנמל מיריסה עם אור ראשון בחיפוש אחר לווייתנים כחולים, ראשתנים ודולפינים מסתובבים. לראות לווייתן כחול עולה לצד הסירה זה משהו שלא שוכחים."
+  },
+  "c19644e6": {
+    "en": "<1/>Easy<2>An early start, and the sea can be choppy</2>",
+    "he": "<1/>קל<2>יציאה מוקדמת, והים יכול להיות גלי</2>"
+  },
+  "8e092805": {
+    "en": "3 to 5 hours<1>Boats leave around dawn</1>",
+    "he": "3 עד 5 שעות<1>הסירות יוצאות סביב הזריחה</1>"
+  },
+  "537fe377": {
+    "en": "Mirissa: November to April<1>Trincomalee: roughly March to August</1>",
+    "he": "מיריסה: נובמבר עד אפריל<1>טרינקומלי: בערך מרץ עד אוגוסט</1>"
+  },
+  "a63f82ff": {
+    "en": "Nature lovers",
+    "he": "אוהבי טבע"
+  },
+  "ffe5988b": {
+    "en": "Add Whale watching to my trip",
+    "he": "הוספת צפייה בלווייתנים לטיול שלי"
+  },
+  "5f10b2e4": {
+    "en": "Ask about whale watching<1> (opens in a new tab)</1> <2/>",
+    "he": "לשאול על צפייה בלווייתנים<1> (נפתח בכרטיסייה חדשה)</1> <2/>"
+  },
+  "b8fec499": {
+    "en": "Boat trips are run by local operators. We’ll plan your stay nearby and get you to the harbour in time.",
+    "he": "את השיט מפעילים מפעילים מקומיים. אנחנו נתכנן לכם לינה בקרבת מקום ונביא אתכם לנמל בזמן."
+  },
+  "618079e4": {
+    "en": "Mix and match",
+    "he": "לשלב ולהתאים"
+  },
+  "73e3d2ac": {
+    "en": "Pick a few. We’ll make them flow.",
+    "he": "בחרו כמה. אנחנו נדאג שהכול יזרום."
+  },
+  "ab7bf493": {
+    "en": "A safari one morning, the train the next, then a few slow days by the sea. Send us your picks on WhatsApp and we’ll reply with a route that links them up, at an easy pace and a fixed price.",
+    "he": "ספארי בבוקר אחד, הרכבת למחרת, ואז כמה ימים רגועים ליד הים. שלחו לנו את הבחירות שלכם בוואטסאפ, ונחזור אליכם עם מסלול שמחבר ביניהן, בקצב נינוח ובמחיר קבוע."
+  },
+  "bf5f7ece": {
+    "en": "<1/>Your own private driver-guide",
+    "he": "<1/>נהג־מדריך פרטי משלכם"
+  },
+  "f8acd4ea": {
+    "en": "Your picks",
+    "he": "הבחירות שלכם"
+  },
+  "c9003d89": {
+    "en": "Nothing added yet. Tap “Add to my trip” on any experience.",
+    "he": "עדיין לא נוסף דבר. הקישו על „הוספה לטיול שלי” בכל חוויה."
+  },
+  "779aab9d": {
+    "en": "<1/> Send my picks on WhatsApp<2> (opens in a new tab)</2>",
+    "he": "<1/> שליחת הבחירות שלי בוואטסאפ<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "3033026c": {
+    "en": "Add destinations <1/>",
+    "he": "הוספת יעדים <1/>"
+  }
+}

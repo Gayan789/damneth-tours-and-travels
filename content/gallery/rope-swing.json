@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Swinging out over the sea",
+    "alt": "A person on a tall rope swing above the beach, with waves rolling in behind",
+    "type": "image",
+    "category": "coast",
+    "with_guests": false,
+    "order": 70,
+    "image": "/assets/images/gallery/gal-rope-swing-1200.webp"
+  },
+  "de": {
+    "title": "Schwungvoll über dem Meer",
+    "alt": "Eine Person auf einer hohen Seilschaukel über dem Strand, dahinter rollen Wellen heran"
+  },
+  "fr": {
+    "title": "Se balancer au-dessus de la mer",
+    "alt": "Une personne sur une haute balançoire à corde au-dessus de la plage, les vagues déferlant derrière"
+  },
+  "ru": {
+    "title": "Качели над морем",
+    "alt": "Человек на высоких верёвочных качелях над пляжем, позади набегают волны"
+  },
+  "he": {
+    "title": "מתנדנדים מעל הים",
+    "alt": "אדם על נדנדת חבל גבוהה מעל החוף, וגלים מתגלגלים מאחור"
+  }
+}

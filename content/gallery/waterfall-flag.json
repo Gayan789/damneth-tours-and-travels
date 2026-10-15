@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Flying the flag at a waterfall",
+    "alt": "Guests and their driver-guide holding up a Sri Lankan flag in front of a tall waterfall",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 100,
+    "image": "/assets/images/gallery/gal-waterfall-flag-1200.webp"
+  },
+  "de": {
+    "title": "Flagge zeigen am Wasserfall",
+    "alt": "Gäste und ihr Fahrer-Guide halten vor einem hohen Wasserfall eine sri-lankische Flagge hoch"
+  },
+  "fr": {
+    "title": "Drapeau au vent devant la cascade",
+    "alt": "Des voyageurs et leur chauffeur-guide brandissant un drapeau sri-lankais devant une haute cascade"
+  },
+  "ru": {
+    "title": "С флагом у водопада",
+    "alt": "Гости и их водитель-гид держат флаг Шри-Ланки перед высоким водопадом"
+  },
+  "he": {
+    "title": "מניפים דגל ליד המפל",
+    "alt": "אורחים והנהג־מדריך שלהם מניפים דגל של סרי לנקה מול מפל גבוה"
+  }
+}

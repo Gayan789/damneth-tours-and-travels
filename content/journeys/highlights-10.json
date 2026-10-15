@@ -1,0 +1,503 @@
+{
+  "en": {
+    "anchor": "highlights-10",
+    "order": 2,
+    "title": "10-Day Island Highlights",
+    "eyebrow": "Made for a 10-day holiday",
+    "intro": "The ancient cities, tea country, the Ella train, a safari and the south coast, at a pace that gives you time to enjoy each place instead of rushing through it.",
+    "main_image": "/assets/images/story-coast-road-1600.webp",
+    "main_alt": "Aerial view of a coastal road running beside a sandy beach and turquoise sea",
+    "second_image": "/assets/images/dest-minneriya-1000.webp",
+    "second_alt": "A herd of elephants wading across a wide, shallow river",
+    "third_image": "/assets/images/gallery/gal-nine-arches-1200.webp",
+    "third_alt": "Looking down on the curving Nine Arches Bridge as the railway runs into a tunnel through the jungle, with people walking along the tracks",
+    "route": [
+      "Airport",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Mirissa",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "AC private vehicle"
+      },
+      {
+        "icon": "chat",
+        "text": "English-speaking driver"
+      },
+      {
+        "icon": "fuel",
+        "text": "All tolls & fuel included"
+      },
+      {
+        "icon": "bed",
+        "text": "Hotel booking assistance"
+      }
+    ],
+    "days": [
+      {
+        "title": "Airport to Sigiriya",
+        "text": "Your driver meets you at arrivals at Bandaranaike International Airport and takes you north to the Cultural Triangle.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Sigiriya Rock",
+        "text": "Climb Sigiriya at opening time, or Pidurangala for the view of it. A free afternoon by the pool or on a village walk.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa and Minneriya",
+        "text": "Cycle around the ancient city of Polonnaruwa, then an afternoon jeep safari to see elephants at Minneriya or nearby Kaudulla.",
+        "stay": "Overnight: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Dambulla to Kandy",
+        "text": "Visit the Dambulla cave temples on the way into the hills, with a stop at a spice garden. Evening puja at the Temple of the Tooth.",
+        "stay": "Overnight: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "A slow day in Kandy",
+        "text": "The Royal Botanic Gardens at Peradeniya, a walk around the lake and a Kandyan dance show in the evening.",
+        "stay": "Overnight: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Tea country",
+        "text": "Up through tea estates and past waterfalls to Nuwara Eliya, with a tea factory visit along the way.",
+        "stay": "Overnight: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "The train to Ella",
+        "text": "Ride the scenic train to Ella while your driver brings your bags by road. Afternoon at the Nine Arches Bridge.",
+        "stay": "Overnight: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Ella to Yala",
+        "text": "Little Adam’s Peak at sunrise, then down to Yala for an afternoon jeep safari.",
+        "stay": "Overnight: Near Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "To the south coast",
+        "text": "Along the coast to Mirissa for an afternoon on the beach and sunset at Coconut Tree Hill.",
+        "stay": "Overnight: Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle and the airport",
+        "text": "Whale watching if it’s in season, or a slow morning. Then Galle Fort and the expressway to the airport.",
+        "stay": "Airport drop-off",
+        "stay_icon": "plane"
+      }
+    ],
+    "note": ""
+  },
+  "de": {
+    "title": "Inselhöhepunkte in 10 Tagen",
+    "eyebrow": "Wie gemacht für 10 Tage Urlaub",
+    "intro": "Die alten Königsstädte, das Teeland, der Zug nach Ella, eine Safari und die Südküste – in einem Tempo, das Ihnen Zeit lässt, jeden Ort zu genießen, statt hindurchzuhetzen.",
+    "main_alt": "Luftaufnahme einer Küstenstraße entlang eines Sandstrands und eines türkisfarbenen Meeres",
+    "second_alt": "Eine Elefantenherde, die einen breiten, flachen Fluss durchquert",
+    "third_alt": "Blick hinunter auf die geschwungene Nine Arches Bridge, wo die Bahnstrecke in einen Tunnel durch den Dschungel führt und Menschen auf den Gleisen laufen",
+    "route": [
+      "Flughafen",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Mirissa",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Privatfahrzeug mit Klimaanlage"
+      },
+      {
+        "icon": "chat",
+        "text": "Englischsprachiger Fahrer"
+      },
+      {
+        "icon": "fuel",
+        "text": "Alle Mautgebühren & Sprit inklusive"
+      },
+      {
+        "icon": "bed",
+        "text": "Hilfe bei der Hotelbuchung"
+      }
+    ],
+    "days": [
+      {
+        "title": "Vom Flughafen nach Sigiriya",
+        "text": "Ihr Fahrer empfängt Sie in der Ankunftshalle des Bandaranaike International Airport und bringt Sie nach Norden ins Kulturdreieck.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Der Sigiriya-Felsen",
+        "text": "Besteigen Sie Sigiriya gleich zur Öffnung oder den Pidurangala-Felsen für den Blick darauf. Ein freier Nachmittag am Pool oder bei einem Dorfspaziergang.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa und Minneriya",
+        "text": "Mit dem Fahrrad durch die alte Königsstadt Polonnaruwa, dann eine Jeep-Safari am Nachmittag zu den Elefanten in Minneriya oder im nahen Kaudulla.",
+        "stay": "Übernachtung: Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Von Dambulla nach Kandy",
+        "text": "Besuchen Sie auf dem Weg in die Berge die Höhlentempel von Dambulla, mit einem Halt in einem Gewürzgarten. Abend-Puja im Zahntempel.",
+        "stay": "Übernachtung: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Ein ruhiger Tag in Kandy",
+        "text": "Der Königliche Botanische Garten in Peradeniya, ein Spaziergang um den See und am Abend eine Kandy-Tanzshow.",
+        "stay": "Übernachtung: Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Im Teeland",
+        "text": "Hinauf durch Teeplantagen und vorbei an Wasserfällen nach Nuwara Eliya, mit Besuch einer Teefabrik unterwegs.",
+        "stay": "Übernachtung: Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Mit dem Zug nach Ella",
+        "text": "Fahren Sie mit dem Panoramazug nach Ella, während Ihr Fahrer Ihr Gepäck auf der Straße bringt. Nachmittag an der Nine Arches Bridge.",
+        "stay": "Übernachtung: Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Von Ella nach Yala",
+        "text": "Little Adam’s Peak zum Sonnenaufgang, dann hinunter nach Yala zu einer Jeep-Safari am Nachmittag.",
+        "stay": "Übernachtung: in der Nähe von Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "An die Südküste",
+        "text": "Entlang der Küste nach Mirissa für einen Nachmittag am Strand und den Sonnenuntergang am Coconut Tree Hill.",
+        "stay": "Übernachtung: Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle und zum Flughafen",
+        "text": "Walbeobachtung, wenn Saison ist, oder ein ruhiger Morgen. Dann Galle Fort und über die Schnellstraße zum Flughafen.",
+        "stay": "Transfer zum Flughafen",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "fr": {
+    "title": "Incontournables en 10 jours",
+    "eyebrow": "Pensé pour 10 jours de vacances",
+    "intro": "Les cités anciennes, le pays du thé, le train d’Ella, un safari et la côte sud, à un rythme qui vous laisse le temps de profiter de chaque lieu au lieu de courir.",
+    "main_alt": "Vue aérienne d’une route côtière longeant une plage de sable et une mer turquoise",
+    "second_alt": "Un troupeau d’éléphants traversant une large rivière peu profonde",
+    "third_alt": "Vue plongeante sur le pont incurvé des Neuf Arches, là où la voie ferrée entre dans un tunnel à travers la jungle, avec des gens marchant sur les rails",
+    "route": [
+      "Aéroport",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Mirissa",
+      "Galle"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Véhicule privé climatisé"
+      },
+      {
+        "icon": "chat",
+        "text": "Chauffeur anglophone"
+      },
+      {
+        "icon": "fuel",
+        "text": "Péages et carburant inclus"
+      },
+      {
+        "icon": "bed",
+        "text": "Aide à la réservation d’hôtels"
+      }
+    ],
+    "days": [
+      {
+        "title": "De l’aéroport à Sigiriya",
+        "text": "Votre chauffeur vous accueille dans le hall des arrivées de l’aéroport international Bandaranaike et vous emmène vers le nord, dans le Triangle culturel.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le rocher de Sigiriya",
+        "text": "Gravissez Sigiriya dès l’ouverture, ou le rocher de Pidurangala pour la vue sur Sigiriya. Après-midi libre au bord de la piscine ou pour une balade au village.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Polonnaruwa et Minneriya",
+        "text": "Tour à vélo de la cité ancienne de Polonnaruwa, puis safari en jeep l’après-midi pour voir les éléphants à Minneriya ou dans le parc voisin de Kaudulla.",
+        "stay": "Nuit : Sigiriya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "De Dambulla à Kandy",
+        "text": "Visite des temples-grottes de Dambulla sur la route des collines, avec un arrêt dans un jardin d’épices. Puja du soir au temple de la Dent.",
+        "stay": "Nuit : Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Une journée tranquille à Kandy",
+        "text": "Le jardin botanique royal de Peradeniya, une balade autour du lac et un spectacle de danse kandyenne le soir.",
+        "stay": "Nuit : Kandy",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le pays du thé",
+        "text": "Montée entre plantations de thé et cascades jusqu’à Nuwara Eliya, avec la visite d’une fabrique de thé en chemin.",
+        "stay": "Nuit : Nuwara Eliya",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Le train pour Ella",
+        "text": "Prenez le train panoramique jusqu’à Ella pendant que votre chauffeur apporte vos bagages par la route. Après-midi au pont des Neuf Arches.",
+        "stay": "Nuit : Ella",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "D’Ella à Yala",
+        "text": "Little Adam’s Peak au lever du soleil, puis descente vers Yala pour un safari en jeep l’après-midi.",
+        "stay": "Nuit : près de Yala",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Vers la côte sud",
+        "text": "Le long de la côte jusqu’à Mirissa pour un après-midi à la plage et le coucher du soleil à Coconut Tree Hill.",
+        "stay": "Nuit : Mirissa",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Galle et l’aéroport",
+        "text": "Observation des baleines si c’est la saison, ou une matinée tranquille. Puis le fort de Galle et l’autoroute jusqu’à l’aéroport.",
+        "stay": "Dépose à l’aéroport",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "ru": {
+    "title": "Главное на острове за 10 дней",
+    "eyebrow": "Для 10-дневного отпуска",
+    "intro": "Древние города, чайный край, поезд в Эллу, сафари и южное побережье — в темпе, который оставляет время насладиться каждым местом, а не пробегать мимо.",
+    "main_alt": "Вид сверху на прибрежную дорогу вдоль песчаного пляжа и бирюзового моря",
+    "second_alt": "Стадо слонов переходит вброд широкую мелкую реку",
+    "third_alt": "Вид сверху на изогнутый мост Девяти арок: железная дорога уходит в туннель в джунглях, по путям идут люди",
+    "route": [
+      "Аэропорт",
+      "Сигирия",
+      "Полоннарува",
+      "Канди",
+      "Нувара-Элия",
+      "Элла",
+      "Яла",
+      "Мирисса",
+      "Галле"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "Личный автомобиль с кондиционером"
+      },
+      {
+        "icon": "chat",
+        "text": "Англоговорящий водитель"
+      },
+      {
+        "icon": "fuel",
+        "text": "Платные дороги и топливо включены"
+      },
+      {
+        "icon": "bed",
+        "text": "Помощь с бронированием отелей"
+      }
+    ],
+    "days": [
+      {
+        "title": "Из аэропорта в Сигирию",
+        "text": "Водитель встречает вас в зоне прилёта международного аэропорта Бандаранаике и везёт на север, в Культурный треугольник.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Скала Сигирия",
+        "text": "Поднимитесь на Сигирию к открытию или на скалу Пидурангала, чтобы увидеть её со стороны. Свободное время после обеда — у бассейна или на прогулке по деревне.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Полоннарува и Миннерия",
+        "text": "Велопрогулка по древнему городу Полоннарува, затем дневное сафари на джипе к слонам в Миннерии или соседней Каудулле.",
+        "stay": "Ночёвка: Сигирия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Из Дамбуллы в Канди",
+        "text": "По дороге в горы — пещерные храмы Дамбуллы и остановка в саду специй. Вечерняя пуджа в Храме Зуба.",
+        "stay": "Ночёвка: Канди",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Неспешный день в Канди",
+        "text": "Королевский ботанический сад в Перадении, прогулка вокруг озера и вечером шоу кандийских танцев.",
+        "stay": "Ночёвка: Канди",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Чайный край",
+        "text": "Вверх через чайные плантации и мимо водопадов в Нувара-Элию, с посещением чайной фабрики по пути.",
+        "stay": "Ночёвка: Нувара-Элия",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Поезд в Эллу",
+        "text": "Живописный поезд в Эллу, пока водитель везёт ваш багаж по дороге. Вторая половина дня — у моста Девяти арок.",
+        "stay": "Ночёвка: Элла",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Из Эллы в Ялу",
+        "text": "Малый пик Адама на рассвете, затем вниз, в Ялу, на дневное сафари на джипе.",
+        "stay": "Ночёвка: рядом с Ялой",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "На южное побережье",
+        "text": "Вдоль побережья в Мириссу: день на пляже и закат на Кокосовом холме.",
+        "stay": "Ночёвка: Мирисса",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "Галле и аэропорт",
+        "text": "Наблюдение за китами, если сезон, или неспешное утро. Затем форт Галле и скоростная трасса до аэропорта.",
+        "stay": "Трансфер в аэропорт",
+        "stay_icon": "plane"
+      }
+    ]
+  },
+  "he": {
+    "title": "עיקרי האי ב־10 ימים",
+    "eyebrow": "מותאם לחופשה של 10 ימים",
+    "intro": "הערים העתיקות, ארץ התה, הרכבת לאלה, ספארי והחוף הדרומי, בקצב שמשאיר לכם זמן ליהנות מכל מקום במקום לרוץ ממנו הלאה.",
+    "main_alt": "מבט מלמעלה על כביש חוף לצד חוף חולי וים בצבע טורקיז",
+    "second_alt": "עדר פילים חוצה נהר רחב ורדוד",
+    "third_alt": "מבט מלמעלה על גשר תשע הקשתות המתעקל, כשמסילת הרכבת נכנסת למנהרה בג׳ונגל ואנשים הולכים לאורך הפסים",
+    "route": [
+      "שדה התעופה",
+      "סיגיריה",
+      "פולונארווה",
+      "קנדי",
+      "נוורה אליה",
+      "אלה",
+      "יאלה",
+      "מיריסה",
+      "גאלה"
+    ],
+    "inclusions": [
+      {
+        "icon": "van",
+        "text": "רכב פרטי ממוזג"
+      },
+      {
+        "icon": "chat",
+        "text": "נהג דובר אנגלית"
+      },
+      {
+        "icon": "fuel",
+        "text": "כל האגרות והדלק כלולים"
+      },
+      {
+        "icon": "bed",
+        "text": "עזרה בהזמנת מלונות"
+      }
+    ],
+    "days": [
+      {
+        "title": "משדה התעופה לסיגיריה",
+        "text": "הנהג שלכם מחכה לכם באולם הנוסעים הנכנסים בנמל התעופה הבינלאומי בנדרנאיקה ולוקח אתכם צפונה אל המשולש התרבותי.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "סלע סיגיריה",
+        "text": "טפסו על סיגיריה עם הפתיחה, או על פידורנגלה בשביל הנוף אליה. אחר צהריים חופשי ליד הבריכה או בטיול בכפר.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "פולונארווה ומינריה",
+        "text": "רכיבה על אופניים בעיר העתיקה פולונארווה, ואז ספארי ג׳יפים אחר הצהריים לראות פילים במינריה או בקאודולה הסמוכה.",
+        "stay": "לינה: סיגיריה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "מדמבולה לקנדי",
+        "text": "ביקור במקדשי המערות של דמבולה בדרך אל ההרים, עם עצירה בגן תבלינים. פוג׳ה של ערב במקדש השן.",
+        "stay": "לינה: קנדי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "יום רגוע בקנדי",
+        "text": "הגנים הבוטניים המלכותיים בפרדניה, הליכה סביב האגם ומופע ריקודי קנדי בערב.",
+        "stay": "לינה: קנדי",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "ארץ התה",
+        "text": "עלייה דרך מטעי תה ועל פני מפלים לנוורה אליה, עם ביקור במפעל תה בדרך.",
+        "stay": "לינה: נוורה אליה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "הרכבת לאלה",
+        "text": "נסיעה ברכבת הנופית לאלה, בזמן שהנהג מביא את המזוודות בכביש. אחר הצהריים ליד גשר תשע הקשתות.",
+        "stay": "לינה: אלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "מאלה ליאלה",
+        "text": "פסגת אדם הקטנה בזריחה, ואז ירידה ליאלה לספארי ג׳יפים אחר הצהריים.",
+        "stay": "לינה: ליד יאלה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "אל החוף הדרומי",
+        "text": "לאורך החוף למיריסה לאחר צהריים בחוף ושקיעה בגבעת עצי הקוקוס.",
+        "stay": "לינה: מיריסה",
+        "stay_icon": "bed"
+      },
+      {
+        "title": "גאלה ושדה התעופה",
+        "text": "צפייה בלווייתנים אם זו העונה, או בוקר רגוע. אחר כך מבצר גאלה והכביש המהיר לשדה התעופה.",
+        "stay": "הסעה לשדה התעופה",
+        "stay_icon": "plane"
+      }
+    ]
+  }
+}

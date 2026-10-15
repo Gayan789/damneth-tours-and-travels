@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Waterfall viewpoint",
+    "alt": "A guest and their driver-guide at a railing above a forested gorge, with a waterfall in the distance",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 200,
+    "image": "/assets/images/gallery/gal-gorge-viewpoint-1200.webp"
+  },
+  "de": {
+    "title": "Aussichtspunkt am Wasserfall",
+    "alt": "Ein Gast und sein Fahrer-Guide an einem Geländer über einer bewaldeten Schlucht, in der Ferne ein Wasserfall"
+  },
+  "fr": {
+    "title": "Point de vue sur la cascade",
+    "alt": "Un voyageur et son chauffeur-guide à une rambarde au-dessus d’une gorge boisée, avec une cascade au loin"
+  },
+  "ru": {
+    "title": "Смотровая площадка у водопада",
+    "alt": "Гость и водитель-гид у перил над лесистым ущельем, вдали водопад"
+  },
+  "he": {
+    "title": "תצפית על המפל",
+    "alt": "אורח והנהג־מדריך שלו ליד מעקה מעל ערוץ מיוער, ומפל ברקע"
+  }
+}

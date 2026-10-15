@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "An elephant in the river",
+    "alt": "A guest sitting on an elephant’s back in a shallow river while someone takes a photo",
+    "type": "image",
+    "category": "wildlife",
+    "with_guests": false,
+    "order": 170,
+    "image": "/assets/images/gallery/gal-elephant-river-1200.webp"
+  },
+  "de": {
+    "title": "Ein Elefant im Fluss",
+    "alt": "Ein Gast sitzt auf dem Rücken eines Elefanten in einem flachen Fluss, während jemand ein Foto macht"
+  },
+  "fr": {
+    "title": "Un éléphant dans la rivière",
+    "alt": "Un voyageur assis sur le dos d’un éléphant dans une rivière peu profonde pendant que quelqu’un prend une photo"
+  },
+  "ru": {
+    "title": "Слон в реке",
+    "alt": "Гость сидит на спине слона в мелкой реке, а кто-то его фотографирует"
+  },
+  "he": {
+    "title": "פיל בנהר",
+    "alt": "אורח יושב על גבו של פיל בנהר רדוד בזמן שמישהו מצלם"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Bullock-cart ride",
+    "alt": "A bullock pulling a thatched-roof cart full of guests along a forest track",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 80,
+    "image": "/assets/images/gallery/gal-bullock-cart-1200.webp"
+  },
+  "de": {
+    "title": "Fahrt im Ochsenkarren",
+    "alt": "Ein Ochse zieht einen Karren mit Strohdach voller Gäste über einen Waldweg"
+  },
+  "fr": {
+    "title": "Balade en charrette à bœufs",
+    "alt": "Un bœuf tirant une charrette au toit de chaume pleine de voyageurs sur une piste forestière"
+  },
+  "ru": {
+    "title": "Поездка на воловьей повозке",
+    "alt": "Вол тянет повозку с соломенной крышей, полную гостей, по лесной дороге"
+  },
+  "he": {
+    "title": "נסיעה בעגלת שוורים",
+    "alt": "שור מושך עגלה עם גג קש מלאה באורחים לאורך שביל ביער"
+  }
+}

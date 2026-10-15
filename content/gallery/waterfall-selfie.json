@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Waterfall selfie",
+    "alt": "A young guest and their driver-guide taking a selfie in front of a waterfall",
+    "type": "image",
+    "category": "hills",
+    "with_guests": true,
+    "order": 350,
+    "image": "/assets/images/gallery/gal-waterfall-selfie-1200.webp"
+  },
+  "de": {
+    "title": "Wasserfall-Selfie",
+    "alt": "Ein junger Gast und sein Fahrer-Guide machen ein Selfie vor einem Wasserfall"
+  },
+  "fr": {
+    "title": "Selfie à la cascade",
+    "alt": "Un jeune voyageur et son chauffeur-guide prenant un selfie devant une cascade"
+  },
+  "ru": {
+    "title": "Селфи у водопада",
+    "alt": "Юный гость и водитель-гид делают селфи на фоне водопада"
+  },
+  "he": {
+    "title": "סלפי ליד המפל",
+    "alt": "אורח צעיר והנהג־מדריך שלו מצטלמים בסלפי מול מפל"
+  }
+}

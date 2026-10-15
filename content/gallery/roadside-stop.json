@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "A roadside stop",
+    "alt": "Two guests and their driver-guide taking a selfie at a roadside stop",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 370,
+    "image": "/assets/images/gallery/gal-roadside-stop-1600.webp"
+  },
+  "de": {
+    "title": "Ein Halt am Straßenrand",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide machen ein Selfie bei einem Halt am Straßenrand"
+  },
+  "fr": {
+    "title": "Un arrêt en bord de route",
+    "alt": "Deux voyageurs et leur chauffeur-guide prenant un selfie lors d’un arrêt en bord de route"
+  },
+  "ru": {
+    "title": "Остановка у дороги",
+    "alt": "Двое гостей и их водитель-гид делают селфи на остановке у дороги"
+  },
+  "he": {
+    "title": "עצירה בצד הדרך",
+    "alt": "שני אורחים והנהג־מדריך שלהם מצטלמים בסלפי בעצירה בצד הדרך"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "language": "he",
+    "bundle": "gallery",
+    "status": "draft – needs native review",
+    "about": "Text on gallery.html. Translate the \"he\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "47a37812": {
+    "en": "Gallery: Photos &amp; Videos from Our Sri Lanka Trips | Damneth Tours &amp; Travels",
+    "he": "גלריה: תמונות וסרטונים מהטיולים שלנו בסרי לנקה | Damneth Tours &amp; Travels"
+  },
+  "6d71e815": {
+    "en": "Photos and short videos from Sri Lanka trips with our guests: elephants, waterfalls, Sigiriya, the Nine Arches Bridge, village lunches and boat rides.",
+    "he": "תמונות וסרטונים קצרים מטיולים בסרי לנקה עם האורחים שלנו: פילים, מפלים, סיגיריה, גשר תשע הקשתות, ארוחות צהריים בכפר ושיט בסירות."
+  },
+  "66fba13b": {
+    "en": "A guest perched on a stilt-fishing pole at the water’s edge, with waves breaking around rocks behind",
+    "he": "אורח יושב על עמוד של דייגי הכלונסאות בקו המים, ומאחוריו גלים נשברים על הסלעים"
+  },
+  "ac597687": {
+    "en": "Real trips, <1>real smiles.</1>",
+    "he": "טיולים אמיתיים, <1>חיוכים אמיתיים.</1>"
+  },
+  "da581e7c": {
+    "en": "Snapshots from the road with our guests: elephants and waterfalls, village lunches, boat rides and the odd stilt-fishing pole.",
+    "he": "רגעים מהדרך עם האורחים שלנו: פילים ומפלים, ארוחות צהריים בכפר, שיט בסירות ופה ושם עמוד של דייגי כלונסאות."
+  },
+  "88a7856b": {
+    "en": "Browse the gallery <1/>",
+    "he": "לעיון בגלריה <1/>"
+  },
+  "344a910f": {
+    "en": "<1/> Plan a trip like this<2> (opens in a new tab)</2>",
+    "he": "<1/> לתכנן טיול כזה<2> (נפתח בכרטיסייה חדשה)</2>"
+  },
+  "2230defb": {
+    "en": "Jump to a gallery category",
+    "he": "מעבר לקטגוריה בגלריה"
+  },
+  "89e4407f": {
+    "en": "From the road",
+    "he": "מהדרך"
+  },
+  "1af64e83": {
+    "en": "Moments from our guests’ trips",
+    "he": "רגעים מהטיולים של האורחים שלנו"
+  },
+  "9ae049a1": {
+    "en": "Filter the gallery",
+    "he": "סינון הגלריה"
+  },
+  "8a4e6047": {
+    "en": "Your turn",
+    "he": "עכשיו תורכם"
+  },
+  "89d65ecc": {
+    "en": "Want to be in the next photo?",
+    "he": "רוצים להופיע בתמונה הבאה?"
+  },
+  "326b0561": {
+    "en": "Tell us your dates and what you’d love to see. We’ll sketch a route on WhatsApp, and planning help is always free.",
+    "he": "ספרו לנו על התאריכים ועל מה שהייתם רוצים לראות. נשרטט מסלול בוואטסאפ, והעזרה בתכנון תמיד בחינם."
+  },
+  "73889efb": {
+    "en": "Two guests and their driver-guide sitting on a colourful mat with a spread of dishes, tall crops behind",
+    "he": "שני אורחים והנהג־מדריך שלהם יושבים על מחצלת צבעונית מול מגוון מנות, ומאחוריהם גידולים גבוהים"
+  },
+  "7d02c42c": {
+    "en": "Gallery viewer",
+    "he": "מציג הגלריה"
+  },
+  "b9fbfc7e": {
+    "en": "Close viewer",
+    "he": "סגירת המציג"
+  },
+  "50f94286": {
+    "en": "Previous",
+    "he": "הקודם"
+  },
+  "bc981983": {
+    "en": "Next",
+    "he": "הבא"
+  }
+}

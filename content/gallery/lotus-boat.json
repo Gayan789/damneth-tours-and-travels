@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lotus flowers on a boat ride",
+    "alt": "Two guests on a canopy boat, one holding a lotus flower and the other wearing a lotus-leaf hat",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 180,
+    "image": "/assets/images/gallery/gal-lotus-boat-1200.webp"
+  },
+  "de": {
+    "title": "Lotusblüten bei einer Bootsfahrt",
+    "alt": "Zwei Gäste in einem Boot mit Sonnendach, einer hält eine Lotusblüte, der andere trägt einen Hut aus einem Lotusblatt"
+  },
+  "fr": {
+    "title": "Fleurs de lotus en balade en bateau",
+    "alt": "Deux voyageurs sur un bateau à toit, l’un tenant une fleur de lotus, l’autre coiffé d’un chapeau en feuille de lotus"
+  },
+  "ru": {
+    "title": "Цветы лотоса на прогулке на лодке",
+    "alt": "Двое гостей в лодке с навесом: один держит цветок лотоса, другой в шляпе из листа лотоса"
+  },
+  "he": {
+    "title": "פרחי לוטוס בשיט בסירה",
+    "alt": "שני אורחים בסירה עם גגון, אחד מחזיק פרח לוטוס והשני חובש כובע מעלה לוטוס"
+  }
+}

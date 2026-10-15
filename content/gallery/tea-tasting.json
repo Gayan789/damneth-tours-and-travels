@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "A cup of Ceylon tea",
+    "alt": "A guest sipping tea at a tea shop table while their driver-guide takes a selfie",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 240,
+    "image": "/assets/images/gallery/gal-tea-tasting-1600.webp"
+  },
+  "de": {
+    "title": "Eine Tasse Ceylon-Tee",
+    "alt": "Eine Gästin trinkt Tee an einem Tisch in einem Teeladen, während ihr Fahrer-Guide ein Selfie macht"
+  },
+  "fr": {
+    "title": "Une tasse de thé de Ceylan",
+    "alt": "Une voyageuse sirotant un thé à la table d’un salon de thé pendant que son chauffeur-guide prend un selfie"
+  },
+  "ru": {
+    "title": "Чашка цейлонского чая",
+    "alt": "Гостья пьёт чай за столиком в чайной, пока водитель-гид делает селфи"
+  },
+  "he": {
+    "title": "כוס תה צילון",
+    "alt": "אורחת לוגמת תה ליד שולחן בבית תה בזמן שהנהג־מדריך מצלם סלפי"
+  }
+}

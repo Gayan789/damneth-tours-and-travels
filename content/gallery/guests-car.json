@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "On the road",
+    "alt": "Three guests standing beside a white car on a sandy forest track",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 310,
+    "image": "/assets/images/gallery/gal-guests-car-1600.webp"
+  },
+  "de": {
+    "title": "Unterwegs",
+    "alt": "Drei Gäste neben einem weißen Auto auf einem sandigen Waldweg"
+  },
+  "fr": {
+    "title": "Sur la route",
+    "alt": "Trois voyageurs à côté d’une voiture blanche sur une piste forestière sablonneuse"
+  },
+  "ru": {
+    "title": "В дороге",
+    "alt": "Трое гостей у белого автомобиля на песчаной лесной дороге"
+  },
+  "he": {
+    "title": "בדרכים",
+    "alt": "שלושה אורחים עומדים ליד מכונית לבנה בדרך עפר חולית ביער"
+  }
+}

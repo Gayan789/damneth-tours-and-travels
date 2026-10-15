@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lunch break",
+    "alt": "A guest at a restaurant table with a plate of flatbread, their driver-guide smiling beside them",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 490,
+    "image": "/assets/images/gallery/gal-restaurant-meal-1600.webp"
+  },
+  "de": {
+    "title": "Zeit fürs Mittagessen",
+    "alt": "Ein Gast an einem Restauranttisch mit einem Teller Fladenbrot, daneben lächelt der Fahrer-Guide"
+  },
+  "fr": {
+    "title": "Pause déjeuner",
+    "alt": "Un voyageur à une table de restaurant avec une assiette de galettes, son chauffeur-guide souriant à côté"
+  },
+  "ru": {
+    "title": "Обеденный перерыв",
+    "alt": "Гость за столиком в ресторане с тарелкой лепёшек, рядом улыбается водитель-гид"
+  },
+  "he": {
+    "title": "הפסקת צהריים",
+    "alt": "אורח ליד שולחן במסעדה עם צלחת לחם שטוח, והנהג־מדריך מחייך לצדו"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "language": "ru",
+    "bundle": "journeys",
+    "status": "draft – needs native review",
+    "about": "Text on journeys.html. Translate the \"ru\" value of each entry. Keep the numbered markers exactly: <1>…</1> wraps words that are a link or styled, <2/> stands for an icon, price or number. Keep &amp; &lt; &gt; &nbsp; as they are. Leave a value empty to show the English."
+  },
+  "fa4337c0": {
+    "en": "Sample 7, 10 &amp; 14-Day Sri Lanka Itineraries | Damneth Tours &amp; Travels",
+    "ru": "Примеры маршрутов по Шри-Ланке на 7, 10 и 14 дней | Damneth Tours &amp; Travels"
+  },
+  "afa2970c": {
+    "en": "Sample 7, 10 and 14-day private driver round trips around Sri Lanka, with day-by-day plans. Fixed-price quotes with no hidden fuel or toll charges, planned free on WhatsApp.",
+    "ru": "Примеры кольцевых маршрутов на 7, 10 и 14 дней по Шри-Ланке с личным водителем и планом по дням. Расчёт по фиксированной цене без скрытых доплат за топливо и платные дороги, бесплатное планирование в WhatsApp."
+  },
+  "800c04a0": {
+    "en": "Aerial view of a road winding along a forested ridge between mountains",
+    "ru": "Вид сверху на дорогу, петляющую по лесистому хребту между горами"
+  },
+  "5ea107b5": {
+    "en": "Three ways to see the island. <1>All with your own driver.</1>",
+    "ru": "Три способа увидеть остров. <1>И всегда с личным водителем.</1>"
+  },
+  "5753af32": {
+    "en": "Sample 7, 10 and 14-day round trips in a comfortable private vehicle with a local driver-guide. Use one as it is, or as a starting point we shape together on WhatsApp, for free.",
+    "ru": "Примеры маршрутов на 7, 10 и 14 дней в удобном личном автомобиле с местным водителем-гидом. Возьмите любой как есть или как основу, которую мы вместе доработаем в WhatsApp, — бесплатно."
+  },
+  "96fd9f16": {
+    "en": "<1/> Plan my journey<2> (opens in a new tab)</2>",
+    "ru": "<1/> Спланировать поездку<2> (откроется в новой вкладке)</2>"
+  },
+  "180e0346": {
+    "en": "Jump to a journey",
+    "ru": "Перейти к маршруту"
+  },
+  "e4313617": {
+    "en": "What you pay for",
+    "ru": "За что вы платите"
+  },
+  "441c31ed": {
+    "en": "Fuel and tolls<1>No hidden charges</1>",
+    "ru": "Топливо и платные дороги<1>Без скрытых доплат</1>"
+  },
+  "3e2c5704": {
+    "en": "Included",
+    "ru": "Включено"
+  },
+  "632bacfe": {
+    "en": "Itinerary planning<1>On WhatsApp, 24/7</1>",
+    "ru": "Составление маршрута<1>В WhatsApp, 24/7</1>"
+  },
+  "d5cb3036": {
+    "en": "The route",
+    "ru": "Маршрут"
+  },
+  "34d8b60f": {
+    "en": "Hide",
+    "ru": "Скрыть"
+  },
+  "987b9ced": {
+    "en": "Day",
+    "ru": "День"
+  },
+  "22dc4893": {
+    "en": "<1/> Plan this on WhatsApp<2> (opens in a new tab)</2>",
+    "ru": "<1/> Спланировать в WhatsApp<2> (откроется в новой вкладке)</2>"
+  },
+  "2adbb683": {
+    "en": "From first message to arrivals hall",
+    "ru": "От первого сообщения до зоны прилёта"
+  },
+  "3fd8418d": {
+    "en": "Planning is free and happens on WhatsApp, at whatever pace suits you. Ask as many questions as you like before you decide.",
+    "ru": "Планирование бесплатное и проходит в WhatsApp в удобном вам темпе. Задавайте сколько угодно вопросов, прежде чем решить."
+  },
+  "d78ffdf2": {
+    "en": "Tell us your dates",
+    "ru": "Сообщите даты"
+  },
+  "e0b8d03b": {
+    "en": "Send your dates, group size and anything you’d love to see. A sample journey is a great place to start.",
+    "ru": "Пришлите даты, размер группы и всё, что хотите увидеть. Пример маршрута — отличная отправная точка."
+  },
+  "2be7567f": {
+    "en": "Get a plan and a fixed price",
+    "ru": "Получите план и фиксированную цену"
+  },
+  "78367fec": {
+    "en": "We shape the route around you and send a 100% fixed-price quote, with no hidden fuel or toll charges.",
+    "ru": "Мы выстроим маршрут под вас и пришлём расчёт по 100% фиксированной цене без скрытых доплат за топливо и платные дороги."
+  },
+  "0ddd4bd7": {
+    "en": "We meet you at arrivals",
+    "ru": "Мы встретим вас в аэропорту"
+  },
+  "215d1ed2": {
+    "en": "Your driver is waiting at Bandaranaike International Airport, and we’re on WhatsApp 24/7 for the whole trip.",
+    "ru": "Водитель ждёт вас в международном аэропорту Бандаранаике, а мы на связи в WhatsApp 24/7 всю поездку."
+  },
+  "798d5470": {
+    "en": "Not quite right?",
+    "ru": "Не совсем то?"
+  },
+  "ec71b8b6": {
+    "en": "Build your own journey",
+    "ru": "Соберите свою поездку"
+  },
+  "eebd8987": {
+    "en": "Start from the places and experiences you love instead. Add them to your trip as you browse, and we’ll turn them into a route that fits your dates.",
+    "ru": "Вместо этого начните с мест и впечатлений, которые вам нравятся. Добавляйте их в поездку по ходу просмотра, а мы превратим их в маршрут под ваши даты."
+  },
+  "31e0309c": {
+    "en": "Browse destinations <1/>",
+    "ru": "Смотреть направления <1/>"
+  },
+  "e0a7eed1": {
+    "en": "See experiences <1/>",
+    "ru": "Смотреть впечатления <1/>"
+  },
+  "b50acffd": {
+    "en": "Three guests standing beside a white car on a sandy forest track",
+    "ru": "Трое гостей у белого автомобиля на песчаной лесной дороге"
+  }
+}

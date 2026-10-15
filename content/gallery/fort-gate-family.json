@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "At the fort gate",
+    "alt": "A family with a toddler and their driver-guide taking a selfie in front of an old gateway topped with a coat of arms",
+    "type": "image",
+    "category": "culture",
+    "with_guests": true,
+    "order": 360,
+    "image": "/assets/images/gallery/gal-fort-gate-family-1600.webp"
+  },
+  "de": {
+    "title": "Am Festungstor",
+    "alt": "Eine Familie mit Kleinkind und ihr Fahrer-Guide machen ein Selfie vor einem alten Tor mit Wappen"
+  },
+  "fr": {
+    "title": "À la porte du fort",
+    "alt": "Une famille avec un tout-petit et leur chauffeur-guide prenant un selfie devant une vieille porte surmontée d’armoiries"
+  },
+  "ru": {
+    "title": "У ворот форта",
+    "alt": "Семья с малышом и их водитель-гид делают селфи перед старыми воротами с гербом наверху"
+  },
+  "he": {
+    "title": "בשער המבצר",
+    "alt": "משפחה עם פעוט והנהג־מדריך שלהם מצטלמים בסלפי מול שער עתיק שבראשו סמל"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Nine Arches Bridge, Ella",
+    "alt": "Looking down on the curving Nine Arches Bridge as the railway runs into a tunnel through the jungle, with people walking along the tracks",
+    "type": "image",
+    "category": "hills",
+    "with_guests": false,
+    "order": 10,
+    "image": "/assets/images/gallery/gal-nine-arches-1200.webp"
+  },
+  "de": {
+    "title": "Nine Arches Bridge, Ella",
+    "alt": "Blick hinunter auf die geschwungene Nine Arches Bridge, wo die Bahnstrecke in einen Tunnel durch den Dschungel führt und Menschen auf den Gleisen laufen"
+  },
+  "fr": {
+    "title": "Pont des Neuf Arches, Ella",
+    "alt": "Vue plongeante sur le pont incurvé des Neuf Arches, là où la voie ferrée entre dans un tunnel à travers la jungle, avec des gens marchant sur les rails"
+  },
+  "ru": {
+    "title": "Мост Девяти арок, Элла",
+    "alt": "Вид сверху на изогнутый мост Девяти арок: железная дорога уходит в туннель в джунглях, по путям идут люди"
+  },
+  "he": {
+    "title": "גשר תשע הקשתות, אלה",
+    "alt": "מבט מלמעלה על גשר תשע הקשתות המתעקל, כשמסילת הרכבת נכנסת למנהרה בג׳ונגל ואנשים הולכים לאורך הפסים"
+  }
+}
