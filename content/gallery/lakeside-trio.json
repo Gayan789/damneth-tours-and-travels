@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Lakeside stop",
+    "alt": "Two guests and their driver-guide on a lawn beside a lake, with wooded hills across the water",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 500,
+    "image": "/assets/images/gallery/gal-lakeside-trio-1080.webp"
+  },
+  "de": {
+    "title": "Halt am See",
+    "alt": "Zwei Gäste und ihr Fahrer-Guide auf einer Wiese am See, gegenüber bewaldete Hügel"
+  },
+  "fr": {
+    "title": "Halte au bord du lac",
+    "alt": "Deux voyageurs et leur chauffeur-guide sur une pelouse au bord d’un lac, face aux collines boisées"
+  },
+  "ru": {
+    "title": "Остановка у озера",
+    "alt": "Двое гостей и их водитель-гид на лужайке у озера, на другом берегу лесистые холмы"
+  },
+  "he": {
+    "title": "עצירה ליד האגם",
+    "alt": "שני אורחים והנהג־מדריך שלהם על מדשאה לחוף אגם, ומעבר למים גבעות מיוערות"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Sigiriya on the horizon",
+    "alt": "Three people standing on a bare rock summit beside a huge boulder, with Sigiriya Rock rising from the forest behind them",
+    "type": "image",
+    "category": "culture",
+    "with_guests": true,
+    "order": 45,
+    "image": "/assets/images/gallery/gal-sigiriya-view-1080.webp"
+  },
+  "de": {
+    "title": "Sigiriya am Horizont",
+    "alt": "Drei Menschen stehen auf einem kahlen Felsgipfel neben einem riesigen Findling, dahinter ragt der Sigiriya-Felsen aus dem Wald"
+  },
+  "fr": {
+    "title": "Sigiriya à l’horizon",
+    "alt": "Trois personnes debout sur un sommet rocheux nu près d’un énorme rocher, avec le rocher de Sigiriya qui s’élève de la forêt derrière elles"
+  },
+  "ru": {
+    "title": "Сигирия на горизонте",
+    "alt": "Трое стоят на голой скальной вершине рядом с огромным валуном, а позади из леса поднимается скала Сигирия"
+  },
+  "he": {
+    "title": "סיגיריה באופק",
+    "alt": "שלושה אנשים עומדים על פסגת סלע חשופה ליד סלע ענק, ומאחוריהם מתנשא סלע סיגיריה מתוך היער"
+  }
+}

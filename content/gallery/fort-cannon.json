@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Cannon on the ramparts",
+    "alt": "A guest resting a foot on the carriage of an old cannon on a fort rampart, with a clock tower in the distance",
+    "type": "image",
+    "category": "culture",
+    "with_guests": true,
+    "order": 215,
+    "image": "/assets/images/gallery/gal-fort-cannon-1080.webp"
+  },
+  "de": {
+    "title": "Kanone auf dem Wall",
+    "alt": "Ein Gast stellt einen Fuß auf die Lafette einer alten Kanone auf einem Festungswall, in der Ferne ein Uhrturm"
+  },
+  "fr": {
+    "title": "Un canon sur les remparts",
+    "alt": "Un voyageur pose le pied sur l’affût d’un vieux canon sur le rempart d’un fort, avec une tour de l’horloge au loin"
+  },
+  "ru": {
+    "title": "Пушка на крепостном валу",
+    "alt": "Гость поставил ногу на лафет старой пушки на крепостном валу, вдали видна часовая башня"
+  },
+  "he": {
+    "title": "תותח על החומות",
+    "alt": "אורח מניח רגל על כן של תותח עתיק על חומת מבצר, ומגדל שעון באופק"
+  }
+}

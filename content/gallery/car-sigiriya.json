@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "A stop near Sigiriya",
+    "alt": "A white car parked on a dirt clearing, with Sigiriya Rock rising above the trees behind it",
+    "type": "image",
+    "category": "culture",
+    "with_guests": false,
+    "order": 60,
+    "image": "/assets/images/gallery/gal-car-sigiriya-960.webp"
+  },
+  "de": {
+    "title": "Ein Halt bei Sigiriya",
+    "alt": "Ein weißes Auto auf einer sandigen Lichtung, dahinter ragt der Sigiriya-Felsen über die Bäume"
+  },
+  "fr": {
+    "title": "Une halte près de Sigiriya",
+    "alt": "Une voiture blanche garée dans une clairière de terre, avec le rocher de Sigiriya qui domine les arbres derrière elle"
+  },
+  "ru": {
+    "title": "Остановка у Сигирии",
+    "alt": "Белая машина на грунтовой поляне, а за ней над деревьями возвышается скала Сигирия"
+  },
+  "he": {
+    "title": "עצירה ליד סיגיריה",
+    "alt": "מכונית לבנה חונה בקרחת עפר, ומאחוריה מתנשא סלע סיגיריה מעל העצים"
+  }
+}

@@ -1,6 +1,6 @@
 # Image credits
 
-Placeholder photography from Unsplash (Unsplash License — free to use). Several of these slots now show Damneth's own photos instead (see **Client photos and videos** below). Replace the rest with real Damneth photos before launch.
+Placeholder photography from Unsplash (Unsplash License — free to use). Several of these slots now show Damneth's own photos instead (see **Client photos** below). Replace the rest with real Damneth photos before launch.
 
 | File | Photographer | Source |
 |---|---|---|
@@ -79,89 +79,101 @@ Placeholder footage from Pexels (Pexels License — free to use, no attribution 
 | logo-120/180/240/360/480.webp | Earlier trimmed copies of logo.png. No longer used by the pages. |
 | ../icons/favicon-32.png, favicon-192.png, apple-touch-icon.png, ../../favicon.ico | Gold island mark (from logo.png) on a deep ocean tile, for browser tabs and home screens. |
 
-## Client photos and videos
+## Client photos
 
-Damneth's own photos and videos, supplied by the client in `../Treavel Images/` (65 photos, 2 videos). The originals are left untouched there.
+Damneth's own photos, supplied by the client in `../Treavel Images/` (79 photos, colour-edited by the client). The originals are left untouched there.
 
-- **Photos:** each one picked for the site was resized into `gallery/` as WebP at three widths: `gal-<name>-480.webp`, `-960.webp` and `-1200.webp` (portrait, 3:4) or `-1600.webp` (landscape, 4:3). Every page loads these copies, never the originals.
-- **Videos:** played straight from the original MP4 files (paths URL-encoded for the spaces). Each has a poster frame in `gallery/`.
-- Everything below appears on `gallery.html`. "Also used on" lists the other pages that show it.
+- **Photos:** each one picked for the site was resized into `gallery/` as WebP (quality 76) at three widths: `gal-<name>-480.webp`, `-960.webp` and `-1080.webp`, portrait 3:4 (1080 x 1440) or landscape 4:3 (1080 x 810). The originals are 1080 px wide at most, so nothing is upscaled; `gal-car-sigiriya` comes from a 960 px original and has only the 480 and 960 copies. Every page loads these copies, never the originals.
+- The earlier videos, `gal-hornbills` and `gal-trio-selfie` were taken off the site when their originals were removed from the folder.
+- Everything below appears on `gallery.html`, in gallery order. "Also used on" lists the other pages that show it.
 
 | Gallery file | Title on the gallery | Original file | Gallery filter | Sizes | Also used on |
 |---|---|---|---|---|---|
-| gal-nine-arches | Nine Arches Bridge, Ella | WhatsApp Image 2026-10-12 at 9.57.09 AM.jpeg | Hill Country | 480 / 960 / 1200 (3:4) | index.html, destinations.html, experiences.html, journeys.html, journal.html |
-| gal-elephant-bath | Bath time in the river | WhatsApp Image 2026-10-12 at 9.57.04 AM.jpeg | Wildlife | 480 / 960 / 1200 (3:4) | — |
-| gal-stilt-fishermen | Stilt fishing poles | WhatsApp Image 2026-10-12 at 10.03.47 AM (1).jpeg | Beaches & Coast | 480 / 960 / 1600 (4:3) | journal.html |
-| gal-sigiriya-road | Sigiriya Rock | WhatsApp Image 2026-10-12 at 10.03.46 AM.jpeg | Culture & Heritage | 480 / 960 / 1200 (3:4) | index.html, destinations.html |
-| gal-terrace-lunch | Lunch with a hill-country view | WhatsApp Image 2026-10-12 at 9.57.06 AM (1).jpeg | Hill Country, With our guests | 480 / 960 / 1600 (4:3) | index.html |
-| gal-video-elephants | Meeting the elephants | WhatsApp Video 2026-10-12 at 9.57.04 AM.mp4 | Wildlife, Videos | poster `-poster.webp`; video played from the original file | — |
-| gal-rope-swing | Swinging out over the sea | WhatsApp Image 2026-10-12 at 10.03.36 AM (2).jpeg | Beaches & Coast | 480 / 960 / 1200 (3:4) | — |
-| gal-bullock-cart | Bullock-cart ride | WhatsApp Image 2026-10-12 at 10.03.41 AM (1).jpeg | Culture & Heritage | 480 / 960 / 1200 (3:4) | — |
-| gal-airport-pickup | Airport pick-up | WhatsApp Image 2026-10-12 at 10.03.35 AM.jpeg | With our guests | 480 / 960 / 1200 (3:4) | index.html |
-| gal-waterfall-flag | Flying the flag at a waterfall | WhatsApp Image 2026-10-12 at 10.03.42 AM (1).jpeg | Hill Country | 480 / 960 / 1200 (3:4) | — |
-| gal-hornbills | Hornbills in the treetops | WhatsApp Image 2026-10-12 at 10.03.10 AM.jpeg | Wildlife | 480 / 960 / 1200 (3:4) | — |
-| gal-cooking-class | Lotus flowers in the village | WhatsApp Image 2026-10-12 at 10.03.48 AM (2).jpeg | Culture & Heritage | 480 / 960 / 1600 (4:3) | — |
-| gal-welcome-garlands | Welcome garlands | WhatsApp Image 2026-10-12 at 10.03.39 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | index.html |
-| gal-guardstones | Ancient guardstones | WhatsApp Image 2026-10-12 at 10.03.43 AM (2).jpeg | Culture & Heritage | 480 / 960 / 1600 (4:3) | — |
-| gal-coastal-palms | Palms above the sea | WhatsApp Image 2026-10-12 at 10.03.46 AM (2).jpeg | Beaches & Coast, With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-ambewela-station | Ambewela station | WhatsApp Image 2026-10-12 at 10.03.43 AM.jpeg | Hill Country | 480 / 960 / 1600 (4:3) | experiences.html, journal.html |
-| gal-elephant-river | An elephant in the river | WhatsApp Image 2026-10-12 at 9.57.05 AM (2).jpeg | Wildlife | 480 / 960 / 1200 (3:4) | — |
-| gal-lotus-boat | Lotus flowers on a boat ride | WhatsApp Image 2026-10-12 at 9.57.07 AM.jpeg | Culture & Heritage | 480 / 960 / 1200 (3:4) | — |
-| gal-family-car | Ready for the road | WhatsApp Image 2026-10-12 at 10.03.08 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-gorge-viewpoint | Waterfall viewpoint | WhatsApp Image 2026-10-12 at 9.57.06 AM.jpeg | Hill Country | 480 / 960 / 1200 (3:4) | journal.html |
-| gal-fort-gate | An old fort gateway | WhatsApp Image 2026-10-12 at 10.03.45 AM (2).jpeg | Culture & Heritage | 480 / 960 / 1200 (3:4) | — |
-| gal-video-fish-spa | A fish foot spa | WhatsApp Video 2026-10-12 at 10.03.35 AM.mp4 | Videos | poster `-poster.webp`; video played from the original file | — |
-| gal-sea-boat | Out on the water | WhatsApp Image 2026-10-12 at 10.03.50 AM.jpeg | Beaches & Coast | 480 / 960 / 1600 (4:3) | — |
-| gal-tea-tasting | A cup of Ceylon tea | WhatsApp Image 2026-10-12 at 10.03.46 AM (1).jpeg | Hill Country | 480 / 960 / 1600 (4:3) | experiences.html |
-| gal-elephant-mahout | An elephant and its mahout | WhatsApp Image 2026-10-12 at 9.57.10 AM (2).jpeg | Wildlife | 480 / 960 / 1200 (3:4) | — |
-| gal-village-cooking | A village spread | WhatsApp Image 2026-10-12 at 9.57.06 AM (2).jpeg | Culture & Heritage | 480 / 960 / 1600 (4:3) | — |
-| gal-hotel-arrival | Arriving at the hotel | WhatsApp Image 2026-10-12 at 9.57.08 AM.jpeg | With our guests | 480 / 960 / 1200 (3:4) | — |
-| gal-waterfall-shower | Under the waterfall | WhatsApp Image 2026-10-12 at 10.03.38 AM.jpeg | Hill Country | 480 / 960 / 1200 (3:4) | — |
-| gal-picnic-lunch | Picnic lunch in the fields | WhatsApp Image 2026-10-12 at 10.03.42 AM.jpeg | Culture & Heritage | 480 / 960 / 1600 (4:3) | — |
-| gal-lagoon-boat | A catch on the boat | WhatsApp Image 2026-10-12 at 10.03.39 AM (1).jpeg | Beaches & Coast | 480 / 960 / 1200 (3:4) | — |
-| gal-guests-car | On the road | WhatsApp Image 2026-10-12 at 10.03.09 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | journeys.html |
-| gal-mountain-top | Mountain selfie | WhatsApp Image 2026-10-12 at 10.03.36 AM (1).jpeg | Hill Country, With our guests | 480 / 960 / 1600 (4:3) | index.html |
-| gal-bullock-cart-ride | All aboard the bullock cart | WhatsApp Image 2026-10-12 at 10.03.40 AM (2).jpeg | Culture & Heritage | 480 / 960 / 1200 (3:4) | — |
-| gal-king-coconuts | King coconuts in the shade | WhatsApp Image 2026-10-12 at 9.57.08 AM (1).jpeg | With our guests | 480 / 960 / 1200 (3:4) | — |
-| gal-waterfall-selfie | Waterfall selfie | WhatsApp Image 2026-10-12 at 10.03.38 AM (1).jpeg | Hill Country, With our guests | 480 / 960 / 1200 (3:4) | — |
-| gal-fort-gate-family | At the fort gate | WhatsApp Image 2026-10-12 at 10.03.45 AM (1).jpeg | Culture & Heritage, With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-roadside-stop | A roadside stop | WhatsApp Image 2026-10-12 at 9.57.07 AM (1).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-red-rock-arch | Through the red-brick arch | WhatsApp Image 2026-10-12 at 10.03.48 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-night-out | An evening drive | WhatsApp Image 2026-10-12 at 10.03.11 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-bamboo-grove | In the bamboo grove | WhatsApp Image 2026-10-12 at 10.03.40 AM (1).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-brass-lamps | Among the brass lamps | WhatsApp Image 2026-10-12 at 10.03.48 AM (1).jpeg | Culture & Heritage, With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-lakeside-hills | By the lake | WhatsApp Image 2026-10-12 at 9.57.10 AM (1).jpeg | Hill Country, With our guests | 480 / 960 / 1200 (3:4) | journal.html |
-| gal-restaurant-lunch | Lunch stop | WhatsApp Image 2026-10-12 at 10.03.47 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-rock-selfie | Thumbs up from the top | WhatsApp Image 2026-10-12 at 10.03.38 AM (2).jpeg | With our guests | 480 / 960 / 1200 (3:4) | — |
-| gal-indoor-smiles | All smiles | WhatsApp Image 2026-10-12 at 10.03.44 AM.jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-colonial-building | Before the next stop | WhatsApp Image 2026-10-12 at 10.03.44 AM (1).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-selfie-55 | Friends on the road | WhatsApp Image 2026-10-12 at 10.03.47 AM (2).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-selfie-60 | Happy travellers | WhatsApp Image 2026-10-12 at 10.03.49 AM (1).jpeg | With our guests | 480 / 960 / 1200 (3:4) | — |
-| gal-restaurant-meal | Lunch break | WhatsApp Image 2026-10-12 at 10.03.50 AM (1).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
-| gal-trio-selfie | Selfie time | WhatsApp Image 2026-10-12 at 10.03.50 AM (2).jpeg | With our guests | 480 / 960 / 1600 (4:3) | — |
+| gal-nine-arches | Nine Arches Bridge, Ella | WhatsApp Image 2026-10-12 at 9.57.09 AM.jpg | Hill Country | 480 / 960 / 1080 (3:4) | index.html, destinations.html, experiences.html, journeys.html, journal.html |
+| gal-elephant-bath | Bath time in the river | WhatsApp Image 2026-10-12 at 9.57.04 AM.jpg | Wildlife | 480 / 960 / 1080 (3:4) | — |
+| gal-stilt-fishermen | Stilt fishing poles | WhatsApp Image 2026-10-12 at 10.03.47 AM (1).jpg | Beaches & Coast | 480 / 960 / 1080 (4:3) | journal.html |
+| gal-sigiriya-road | Sigiriya Rock | WhatsApp Image 2026-10-12 at 10.03.46 AM.jpg | Culture & Heritage | 480 / 960 / 1080 (3:4) | — |
+| gal-sigiriya-view | Sigiriya on the horizon | WhatsApp Image 2026-10-14 at 7.54.45 PM.jpg | Culture & Heritage, With our guests | 480 / 960 / 1080 (3:4) | index.html, destinations.html |
+| gal-terrace-lunch | Lunch with a hill-country view | WhatsApp Image 2026-10-12 at 9.57.06 AM (1).jpg | Hill Country, With our guests | 480 / 960 / 1080 (4:3) | index.html |
+| gal-car-sigiriya | A stop near Sigiriya | WhatsApp Image 2026-10-14 at 7.56.03 PM.jpg | Culture & Heritage | 480 / 960 (3:4) | — |
+| gal-rope-swing | Swinging out over the sea | WhatsApp Image 2026-10-12 at 10.03.36 AM (2).jpg | Beaches & Coast | 480 / 960 / 1080 (3:4) | — |
+| gal-bullock-cart | Bullock-cart ride | WhatsApp Image 2026-10-12 at 10.03.41 AM (1).jpg | Culture & Heritage | 480 / 960 / 1080 (3:4) | — |
+| gal-airport-pickup | Airport pick-up | WhatsApp Image 2026-10-12 at 10.03.35 AM.jpg | With our guests | 480 / 960 / 1080 (3:4) | index.html |
+| gal-waterfall-flag | Flying the flag at a waterfall | WhatsApp Image 2026-10-12 at 10.03.42 AM (1).jpg | Hill Country | 480 / 960 / 1080 (3:4) | — |
+| gal-temple-tooth | At the Temple of the Tooth | WhatsApp Image 2026-10-14 at 7.54.52 PM.jpg | Culture & Heritage, With our guests | 480 / 960 / 1080 (3:4) | index.html, destinations.html, journeys.html |
+| gal-cooking-class | Lotus flowers in the village | WhatsApp Image 2026-10-12 at 10.03.48 AM (2).jpg | Culture & Heritage | 480 / 960 / 1080 (4:3) | — |
+| gal-welcome-garlands | Welcome garlands | WhatsApp Image 2026-10-12 at 10.03.39 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | index.html |
+| gal-guardstones | Ancient guardstones | WhatsApp Image 2026-10-12 at 10.03.43 AM (2).jpg | Culture & Heritage | 480 / 960 / 1080 (4:3) | — |
+| gal-coastal-palms | Palms above the sea | WhatsApp Image 2026-10-12 at 10.03.46 AM (2).jpg | Beaches & Coast, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-ambewela-station | Ambewela station | WhatsApp Image 2026-10-12 at 10.03.43 AM.jpg | Hill Country | 480 / 960 / 1080 (4:3) | experiences.html, journal.html |
+| gal-elephant-river | An elephant in the river | WhatsApp Image 2026-10-12 at 9.57.05 AM (2).jpg | Wildlife | 480 / 960 / 1080 (3:4) | — |
+| gal-lotus-boat | Lotus flowers on a boat ride | WhatsApp Image 2026-10-12 at 9.57.07 AM.jpg | Culture & Heritage | 480 / 960 / 1080 (3:4) | — |
+| gal-family-car | Ready for the road | WhatsApp Image 2026-10-12 at 10.03.08 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-gorge-viewpoint | Waterfall viewpoint | WhatsApp Image 2026-10-12 at 9.57.06 AM.jpg | Hill Country | 480 / 960 / 1080 (3:4) | journal.html |
+| gal-fort-gate | An old fort gateway | WhatsApp Image 2026-10-12 at 10.03.45 AM (2).jpg | Culture & Heritage | 480 / 960 / 1080 (3:4) | — |
+| gal-fort-cannon | Cannon on the ramparts | WhatsApp Image 2026-10-14 at 7.54.46 PM.jpg | Culture & Heritage, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-gorge-selfie | Above the gorge | WhatsApp Image 2026-10-14 at 7.54.43 PM.jpg | Hill Country, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-sea-boat | Out on the water | WhatsApp Image 2026-10-12 at 10.03.50 AM.jpg | Beaches & Coast | 480 / 960 / 1080 (4:3) | — |
+| gal-tea-tasting | A cup of Ceylon tea | WhatsApp Image 2026-10-12 at 10.03.46 AM (1).jpg | Hill Country | 480 / 960 / 1080 (4:3) | experiences.html |
+| gal-elephant-mahout | An elephant and its mahout | WhatsApp Image 2026-10-12 at 9.57.10 AM (2).jpg | Wildlife | 480 / 960 / 1080 (3:4) | — |
+| gal-village-cooking | A village spread | WhatsApp Image 2026-10-12 at 9.57.06 AM (2).jpg | Culture & Heritage | 480 / 960 / 1080 (4:3) | — |
+| gal-hotel-arrival | Arriving at the hotel | WhatsApp Image 2026-10-12 at 9.57.08 AM.jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-waterfall-shower | Under the waterfall | WhatsApp Image 2026-10-12 at 10.03.38 AM.jpg | Hill Country | 480 / 960 / 1080 (3:4) | — |
+| gal-waterfall-platform | Below the falls | WhatsApp Image 2026-10-14 at 7.54.48 PM.jpg | Hill Country, With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-picnic-lunch | Picnic lunch in the fields | WhatsApp Image 2026-10-12 at 10.03.42 AM.jpg | Culture & Heritage | 480 / 960 / 1080 (4:3) | — |
+| gal-lagoon-boat | A catch on the boat | WhatsApp Image 2026-10-12 at 10.03.39 AM (1).jpg | Beaches & Coast | 480 / 960 / 1080 (3:4) | — |
+| gal-guests-car | On the road | WhatsApp Image 2026-10-12 at 10.03.09 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | journeys.html |
+| gal-mountain-top | Mountain selfie | WhatsApp Image 2026-10-12 at 10.03.36 AM (1).jpg | Hill Country, With our guests | 480 / 960 / 1080 (4:3) | index.html |
+| gal-valley-selfie | High above the valley | WhatsApp Image 2026-10-14 at 7.54.51 PM (1).jpg | Hill Country, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-bullock-cart-ride | All aboard the bullock cart | WhatsApp Image 2026-10-12 at 10.03.40 AM (2).jpg | Culture & Heritage | 480 / 960 / 1080 (3:4) | — |
+| gal-king-coconuts | King coconuts in the shade | WhatsApp Image 2026-10-12 at 9.57.08 AM (1).jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-waterfall-selfie | Waterfall selfie | WhatsApp Image 2026-10-12 at 10.03.38 AM (1).jpg | Hill Country, With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-fort-gate-family | At the fort gate | WhatsApp Image 2026-10-12 at 10.03.45 AM (1).jpg | Culture & Heritage, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-roadside-stop | A roadside stop | WhatsApp Image 2026-10-12 at 9.57.07 AM (1).jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-red-rock-arch | Through the red-brick arch | WhatsApp Image 2026-10-12 at 10.03.48 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-night-out | An evening drive | WhatsApp Image 2026-10-12 at 10.03.11 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-bamboo-grove | In the bamboo grove | WhatsApp Image 2026-10-12 at 10.03.40 AM (1).jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-brass-lamps | Among the brass lamps | WhatsApp Image 2026-10-12 at 10.03.48 AM (1).jpg | Culture & Heritage, With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-lakeside-hills | By the lake | WhatsApp Image 2026-10-12 at 9.57.10 AM (1).jpg | Hill Country, With our guests | 480 / 960 / 1080 (3:4) | journal.html |
+| gal-restaurant-lunch | Lunch stop | WhatsApp Image 2026-10-12 at 10.03.47 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-rock-selfie | Thumbs up from the top | WhatsApp Image 2026-10-12 at 10.03.38 AM (2).jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-indoor-smiles | All smiles | WhatsApp Image 2026-10-12 at 10.03.44 AM.jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-colonial-building | Before the next stop | WhatsApp Image 2026-10-12 at 10.03.44 AM (1).jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-selfie-55 | Friends on the road | WhatsApp Image 2026-10-12 at 10.03.47 AM (2).jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-selfie-60 | Happy travellers | WhatsApp Image 2026-10-12 at 10.03.49 AM (1).jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-restaurant-meal | Lunch break | WhatsApp Image 2026-10-12 at 10.03.50 AM (1).jpg | With our guests | 480 / 960 / 1080 (4:3) | — |
+| gal-lakeside-trio | Lakeside stop | WhatsApp Image 2026-10-14 at 7.54.51 PM.jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
+| gal-balcony-thumbs | Thumbs up on the veranda | WhatsApp Image 2026-10-15 at 4.48.56 PM (1).jpg | With our guests | 480 / 960 / 1080 (3:4) | — |
 
 ### Originals not used
 
 | Original file | Why |
 |---|---|
-| WhatsApp Image 2026-10-12 at 9.56.38 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 9.56.38 AM (1).jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 9.57.05 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 9.57.05 AM (1).jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 9.57.08 AM (2).jpeg | A ready-made collage with a phone number or name written on it. |
-| WhatsApp Image 2026-10-12 at 9.57.09 AM (1).jpeg | A ready-made collage with a phone number or name written on it. |
-| WhatsApp Image 2026-10-12 at 9.57.10 AM.jpeg | A ready-made collage with a phone number or name written on it. |
-| WhatsApp Image 2026-10-12 at 9.57.11 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.36 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.37 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.37 AM (1).jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.40 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.41 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.43 AM (1).jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.45 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.49 AM.jpeg | A near-duplicate of a photo that is used. |
-| WhatsApp Image 2026-10-12 at 10.03.49 AM (2).jpeg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 9.56.38 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 9.56.38 AM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 9.57.05 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 9.57.05 AM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 9.57.09 AM (1).jpg | A ready-made collage with a phone number or name written on it. |
+| WhatsApp Image 2026-10-12 at 9.57.10 AM.jpg | A ready-made collage with a phone number or name written on it. |
+| WhatsApp Image 2026-10-12 at 9.57.11 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.36 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.37 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.37 AM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.40 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.41 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.43 AM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.45 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.49 AM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-12 at 10.03.49 AM (2).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-14 at 7.54.45 PM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-14 at 7.54.47 PM.jpg | A ready-made collage of several photos. |
+| WhatsApp Image 2026-10-14 at 7.54.47 PM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-14 at 7.54.49 PM.jpg | A ready-made collage of several photos. |
+| WhatsApp Image 2026-10-14 at 7.54.50 PM.jpg | A ready-made collage of several photos. |
+| WhatsApp Image 2026-10-14 at 7.54.52 PM (1).jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-15 at 4.48.56 PM.jpg | A near-duplicate of a photo that is used. |
+| WhatsApp Image 2026-10-17 at 2.43.06 PM.jpg | A near-duplicate of a photo that is used. |
 
 ### Placeholders replaced
 
-These Unsplash photos (listed above) are no longer shown on any page, though the files are still in this folder: `dest-ella`, `dest-sigiriya`, `journal-galle-lighthouse`, `journal-nine-arch-train`, `service-airport-arrival`, `service-hotel-pool`.
+These Unsplash photos (listed above) are no longer shown on any page, though the files are still in this folder: `dest-ella`, `dest-kandy`, `dest-sigiriya`, `journal-galle-lighthouse`, `journal-nine-arch-train`, `service-airport-arrival`, `service-hotel-pool`.

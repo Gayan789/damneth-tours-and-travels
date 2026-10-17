@@ -7,8 +7,8 @@
     "intro": "The island’s highlights in one week: the rock fortress at Sigiriya, Kandy’s sacred temple, the train through tea country, a leopard safari in Yala and a last walk around Galle Fort.",
     "main_image": "/assets/images/intro-sigiriya-view-1600.webp",
     "main_alt": "A couple sitting on a rock, looking out across the forest to Sigiriya rock fortress",
-    "second_image": "/assets/images/dest-kandy-1000.webp",
-    "second_alt": "The Temple of the Sacred Tooth Relic in Kandy, hung with Buddhist flags and reflected in the moat",
+    "second_image": "/assets/images/gallery/gal-temple-tooth-1080.webp",
+    "second_alt": "Two guests holding lotus-flower offerings in front of the white octagonal pavilion of the Temple of the Sacred Tooth Relic in Kandy",
     "third_image": "/assets/images/journey-galle-aerial-1000.webp",
     "third_alt": "Aerial view of Galle Fort on its headland, surrounded by turquoise sea",
     "route": [
@@ -89,7 +89,7 @@
     "eyebrow": "Für wenig Zeit",
     "intro": "Die Höhepunkte der Insel in einer Woche: die Felsenfestung Sigiriya, Kandys heiliger Tempel, die Zugfahrt durchs Teeland, eine Leoparden-Safari in Yala und ein letzter Spaziergang durch Galle Fort.",
     "main_alt": "Ein Paar sitzt auf einem Felsen und blickt über den Wald zur Felsenfestung Sigiriya",
-    "second_alt": "Der Zahntempel in Kandy, geschmückt mit buddhistischen Fahnen und gespiegelt im Wassergraben",
+    "second_alt": "Zwei Gäste mit Lotusblüten als Opfergabe vor dem weißen achteckigen Pavillon des Zahntempels in Kandy",
     "third_alt": "Luftaufnahme des Galle Fort auf seiner Landzunge, umgeben von türkisfarbenem Meer",
     "route": [
       "Flughafen",
@@ -168,7 +168,7 @@
     "eyebrow": "Pour les séjours courts",
     "intro": "Les incontournables de l’île en une semaine : la forteresse rocheuse de Sigiriya, le temple sacré de Kandy, le train à travers le pays du thé, un safari léopards à Yala et une dernière balade dans le fort de Galle.",
     "main_alt": "Un couple assis sur un rocher, contemplant la forêt jusqu’à la forteresse rocheuse de Sigiriya",
-    "second_alt": "Le temple de la Dent sacrée à Kandy, orné de drapeaux bouddhistes et se reflétant dans les douves",
+    "second_alt": "Deux voyageurs tenant des offrandes de fleurs de lotus devant le pavillon octogonal blanc du temple de la Dent sacrée, à Kandy",
     "third_alt": "Vue aérienne du fort de Galle sur son promontoire, entouré d’une mer turquoise",
     "route": [
       "Aéroport",
@@ -247,7 +247,7 @@
     "eyebrow": "Если мало времени",
     "intro": "Главное на острове за одну неделю: скальная крепость Сигирия, священный храм Канди, поезд через чайный край, сафари на леопардов в Яле и последняя прогулка по форту Галле.",
     "main_alt": "Пара сидит на скале и смотрит через лес на скальную крепость Сигирия",
-    "second_alt": "Храм Зуба Будды в Канди, украшенный буддийскими флагами и отражающийся во рву",
+    "second_alt": "Двое гостей с подношением из цветов лотоса перед белым восьмиугольным павильоном Храма Зуба Будды в Канди",
     "third_alt": "Вид сверху на форт Галле на мысу в окружении бирюзового моря",
     "route": [
       "Аэропорт",
@@ -326,7 +326,7 @@
     "eyebrow": "כשאין הרבה זמן",
     "intro": "עיקר האי בשבוע אחד: מבצר הסלע בסיגיריה, המקדש הקדוש של קנדי, הרכבת דרך ארץ התה, ספארי נמרים ביאלה וטיול אחרון במבצר גאלה.",
     "main_alt": "זוג יושב על סלע ומשקיף מעבר ליער אל מבצר הסלע סיגיריה",
-    "second_alt": "מקדש השן הקדושה בקנדי, מקושט בדגלים בודהיסטיים ומשתקף בתעלה",
+    "second_alt": "שני אורחים אוחזים מנחה של פרחי לוטוס מול הביתן המתומן הלבן של מקדש השן הקדושה בקנדי",
     "third_alt": "מבט מלמעלה על מבצר גאלה על לשון היבשה, מוקף ים בצבע טורקיז",
     "route": [
       "שדה התעופה",

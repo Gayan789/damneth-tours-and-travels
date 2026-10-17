@@ -36,7 +36,7 @@
     "cms:j.highlights-10.jump": "<1/>Incontournables en 10 jours",
     "cms:j.ultimate-14.jump": "<1/>Grand Tour en 14 jours",
     "cms:j.classic-7.main_alt": "Un couple assis sur un rocher, contemplant la forêt jusqu’à la forteresse rocheuse de Sigiriya",
-    "cms:j.classic-7.second_alt": "Le temple de la Dent sacrée à Kandy, orné de drapeaux bouddhistes et se reflétant dans les douves",
+    "cms:j.classic-7.second_alt": "Deux voyageurs tenant des offrandes de fleurs de lotus devant le pavillon octogonal blanc du temple de la Dent sacrée, à Kandy",
     "cms:j.classic-7.third_alt": "Vue aérienne du fort de Galle sur son promontoire, entouré d’une mer turquoise",
     "cms:j.classic-7.len": "jours",
     "cms:j.classic-7.eyebrow": "Pour les séjours courts",

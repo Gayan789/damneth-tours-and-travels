@@ -36,7 +36,7 @@
     "cms:j.highlights-10.jump": "<1/>Inselhöhepunkte in 10 Tagen",
     "cms:j.ultimate-14.jump": "<1/>Große 14-Tage-Rundreise",
     "cms:j.classic-7.main_alt": "Ein Paar sitzt auf einem Felsen und blickt über den Wald zur Felsenfestung Sigiriya",
-    "cms:j.classic-7.second_alt": "Der Zahntempel in Kandy, geschmückt mit buddhistischen Fahnen und gespiegelt im Wassergraben",
+    "cms:j.classic-7.second_alt": "Zwei Gäste mit Lotusblüten als Opfergabe vor dem weißen achteckigen Pavillon des Zahntempels in Kandy",
     "cms:j.classic-7.third_alt": "Luftaufnahme des Galle Fort auf seiner Landzunge, umgeben von türkisfarbenem Meer",
     "cms:j.classic-7.len": "Tage",
     "cms:j.classic-7.eyebrow": "Für wenig Zeit",

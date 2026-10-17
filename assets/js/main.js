@@ -873,8 +873,17 @@
     const observer = new IntersectionObserver((entries, obs) => {
       entries.forEach((entry) => {
         if (!entry.isIntersecting) return;
-        entry.target.classList.add('is-visible');
-        obs.unobserve(entry.target);
+        const el = entry.target;
+        // Once it has risen into place, drop the reveal classes so the element's own hover
+        // transitions (card lift, shadow, border) apply again instead of the slow, delayed rise
+        const settle = (e) => {
+          if (e.target !== el || e.propertyName !== 'transform') return;
+          el.removeEventListener('transitionend', settle);
+          el.classList.remove('reveal', 'is-visible');
+        };
+        el.addEventListener('transitionend', settle);
+        el.classList.add('is-visible');
+        obs.unobserve(el);
       });
     }, { threshold: 0.12, rootMargin: '0px 0px -6% 0px' });
     reveals.forEach((el) => observer.observe(el));

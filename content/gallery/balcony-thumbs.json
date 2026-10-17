@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Thumbs up on the veranda",
+    "alt": "A guest and their driver-guide giving a thumbs-up from bar stools on a wooden veranda",
+    "type": "image",
+    "category": "guests",
+    "with_guests": false,
+    "order": 510,
+    "image": "/assets/images/gallery/gal-balcony-thumbs-1080.webp"
+  },
+  "de": {
+    "title": "Daumen hoch auf der Veranda",
+    "alt": "Ein Gast und sein Fahrer-Guide zeigen auf Barhockern auf einer Holzveranda den Daumen nach oben"
+  },
+  "fr": {
+    "title": "Pouce levé sur la véranda",
+    "alt": "Un voyageur et son chauffeur-guide lèvent le pouce, assis sur des tabourets de bar sur une véranda en bois"
+  },
+  "ru": {
+    "title": "Всё отлично на веранде",
+    "alt": "Гость и его водитель-гид на барных стульях на деревянной веранде показывают большой палец"
+  },
+  "he": {
+    "title": "אגודל למעלה במרפסת",
+    "alt": "אורח והנהג־מדריך שלו מרימים אגודל מכיסאות בר במרפסת עץ"
+  }
+}

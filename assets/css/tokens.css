@@ -95,6 +95,7 @@
   /* Sunset Gold: brand #F2A900 = 500 */
   --color-gold-600: #d99700;
   --color-gold-500: #f2a900;
+  --color-gold-400: #f6b928; /* hover: a touch brighter than the brand gold, still saturated */
   --color-gold-300: #f8cc66;
   --color-gold-100: #fdf0cc;
   --color-gold-700: #8a6300; /* AA-safe gold for small text on light backgrounds */
@@ -138,9 +139,12 @@
 
   --color-primary: var(--color-ocean-700);
   --color-primary-hover: var(--color-ocean-800);
+  --color-primary-pressed: var(--color-ocean-900);
   --color-primary-soft: var(--color-ocean-50);
+  --color-primary-soft-strong: var(--color-ocean-100);
   --color-accent: var(--color-gold-500);
-  --color-accent-hover: var(--color-gold-300);
+  --color-accent-hover: var(--color-gold-400);
+  --color-accent-pressed: var(--color-gold-600);
   --color-on-accent: var(--color-ocean-900);
   --color-accent-text: var(--color-gold-700);
   --color-accent-soft: var(--color-gold-100);
@@ -151,6 +155,9 @@
   --color-border-inverse: rgb(255 255 255 / 0.18);
   --color-focus: var(--color-ocean-700);
   --color-header-solid: rgb(249 249 246 / 0.92);
+  --color-header-line: rgb(13 92 117 / 0.1);
+  /* Cards lean towards ocean at the edge when hovered */
+  --color-border-hover: color-mix(in srgb, var(--color-ocean-700) 28%, var(--color-sand-300));
   --color-error: var(--color-red-700);
   --color-success: var(--color-green-700);
 
@@ -235,11 +242,16 @@
   --border-thick: 2px;
   --border-focus: 3px;
 
-  /* ---------- Shadows (tinted with ocean) ---------- */
-  --shadow-sm: 0 1px 2px rgb(8 48 61 / 0.06), 0 2px 8px rgb(8 48 61 / 0.06);
-  --shadow-md: 0 10px 30px -12px rgb(8 48 61 / 0.25);
-  --shadow-lg: 0 30px 70px -28px rgb(8 48 61 / 0.45);
-  --shadow-accent: 0 12px 28px -12px rgb(242 169 0 / 0.75);
+  /* ---------- Shadows (tinted with ocean) ----------
+     Each one pairs a tight contact shadow with a soft, wide one, so raised things sit on the
+     page instead of floating over it. */
+  --shadow-xs: 0 1px 2px rgb(8 48 61 / 0.08);
+  --shadow-sm: 0 1px 2px rgb(8 48 61 / 0.05), 0 4px 12px -2px rgb(8 48 61 / 0.08);
+  --shadow-md: 0 2px 6px -1px rgb(8 48 61 / 0.06), 0 16px 34px -14px rgb(8 48 61 / 0.28);
+  --shadow-lg: 0 4px 12px -4px rgb(8 48 61 / 0.08), 0 30px 70px -28px rgb(8 48 61 / 0.45);
+  --shadow-accent: 0 1px 2px rgb(138 99 0 / 0.2), 0 12px 28px -12px rgb(242 169 0 / 0.75);
+  --shadow-accent-hover: 0 2px 4px rgb(138 99 0 / 0.18), 0 18px 34px -14px rgb(242 169 0 / 0.85);
+  --shadow-primary: 0 1px 2px rgb(5 30 40 / 0.2), 0 14px 28px -14px rgb(13 92 117 / 0.7);
   --shadow-focus: 0 0 0 3px var(--color-focus);
 
   /* ---------- Motion ---------- */
@@ -268,6 +280,8 @@
   --color-border: var(--color-border-inverse);
   --color-focus: var(--color-gold-500);
   --color-primary-soft: var(--overlay-glass);
+  --color-primary-soft-strong: rgb(255 255 255 / 0.18);
+  --color-border-hover: rgb(255 255 255 / 0.32);
   color: var(--color-text);
 }
 
@@ -280,5 +294,7 @@
   --color-border: var(--color-sand-300);
   --color-focus: var(--color-ocean-700);
   --color-primary-soft: var(--color-ocean-50);
+  --color-primary-soft-strong: var(--color-ocean-100);
+  --color-border-hover: color-mix(in srgb, var(--color-ocean-700) 28%, var(--color-sand-300));
   color: var(--color-text);
 }

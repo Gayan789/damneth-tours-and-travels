@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "At the Temple of the Tooth",
+    "alt": "Two guests holding lotus-flower offerings in front of the white octagonal pavilion of the Temple of the Sacred Tooth Relic in Kandy",
+    "type": "image",
+    "category": "culture",
+    "with_guests": true,
+    "order": 110,
+    "image": "/assets/images/gallery/gal-temple-tooth-1080.webp"
+  },
+  "de": {
+    "title": "Am Zahntempel",
+    "alt": "Zwei Gäste mit Lotusblüten als Opfergabe vor dem weißen achteckigen Pavillon des Zahntempels in Kandy"
+  },
+  "fr": {
+    "title": "Au temple de la Dent",
+    "alt": "Deux voyageurs tenant des offrandes de fleurs de lotus devant le pavillon octogonal blanc du temple de la Dent sacrée, à Kandy"
+  },
+  "ru": {
+    "title": "У Храма Зуба",
+    "alt": "Двое гостей с подношением из цветов лотоса перед белым восьмиугольным павильоном Храма Зуба Будды в Канди"
+  },
+  "he": {
+    "title": "במקדש השן",
+    "alt": "שני אורחים אוחזים מנחה של פרחי לוטוס מול הביתן המתומן הלבן של מקדש השן הקדושה בקנדי"
+  }
+}

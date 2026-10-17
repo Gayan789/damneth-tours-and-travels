@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "High above the valley",
+    "alt": "A guest with a camera and their driver-guide taking a selfie high above a green valley with a waterfall",
+    "type": "image",
+    "category": "hills",
+    "with_guests": true,
+    "order": 325,
+    "image": "/assets/images/gallery/gal-valley-selfie-1080.webp"
+  },
+  "de": {
+    "title": "Hoch über dem Tal",
+    "alt": "Ein Gast mit Kamera und sein Fahrer-Guide machen ein Selfie hoch über einem grünen Tal mit Wasserfall"
+  },
+  "fr": {
+    "title": "Tout là-haut sur la vallée",
+    "alt": "Un voyageur avec un appareil photo et son chauffeur-guide prenant un selfie bien au-dessus d’une vallée verte et de sa cascade"
+  },
+  "ru": {
+    "title": "Высоко над долиной",
+    "alt": "Гость с фотоаппаратом и его водитель-гид делают селфи высоко над зелёной долиной с водопадом"
+  },
+  "he": {
+    "title": "גבוה מעל העמק",
+    "alt": "אורח עם מצלמה והנהג־מדריך שלו מצטלמים בסלפי גבוה מעל עמק ירוק עם מפל"
+  }
+}

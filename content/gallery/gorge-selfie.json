@@ -1,0 +1,27 @@
+{
+  "en": {
+    "title": "Above the gorge",
+    "alt": "A guest and their driver-guide taking a selfie above a waterfall in a forested gorge",
+    "type": "image",
+    "category": "hills",
+    "with_guests": true,
+    "order": 225,
+    "image": "/assets/images/gallery/gal-gorge-selfie-1080.webp"
+  },
+  "de": {
+    "title": "Über der Schlucht",
+    "alt": "Ein Gast und sein Fahrer-Guide machen ein Selfie über einem Wasserfall in einer bewaldeten Schlucht"
+  },
+  "fr": {
+    "title": "Au-dessus de la gorge",
+    "alt": "Un voyageur et son chauffeur-guide prenant un selfie au-dessus d’une cascade dans une gorge boisée"
+  },
+  "ru": {
+    "title": "Над ущельем",
+    "alt": "Гость и его водитель-гид делают селфи над водопадом в лесистом ущелье"
+  },
+  "he": {
+    "title": "מעל הערוץ",
+    "alt": "אורח והנהג־מדריך שלו מצטלמים בסלפי מעל מפל בערוץ מיוער"
+  }
+}
