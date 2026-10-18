@@ -1129,6 +1129,22 @@
     });
   });
 
+  /* ---------- Review and Instagram widgets ---------- */
+  // A pasted widget (Elfsight, Trustindex, LightWidget) replaces the section's own cards or photos
+  // once it has drawn something taller than an empty frame. If it never loads, they stay.
+  if ('ResizeObserver' in window) {
+    $$('[data-widget-slot]').forEach((slot) => {
+      const host = slot.closest('[data-widget-host]');
+      if (!host || !slot.children.length) return;
+      const observer = new ResizeObserver(() => {
+        if (slot.offsetHeight < 160) return;
+        host.classList.add('has-widget');
+        observer.disconnect();
+      });
+      observer.observe(slot);
+    });
+  }
+
   /* ---------- Placeholder links (social URLs still to come) ---------- */
   $$('a[data-placeholder]').forEach((link) => {
     link.addEventListener('click', (event) => event.preventDefault());

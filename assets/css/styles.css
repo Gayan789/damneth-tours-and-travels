@@ -2501,6 +2501,33 @@ fieldset {
   }
 }
 
+/* A pasted review widget (Elfsight, Trustindex) sits on a light panel and replaces the cards.
+   main.js adds .has-widget once the widget has drawn something; until then the slot is empty
+   and takes no space. */
+.reviews__body,
+.widget-slot {
+  min-width: 0;
+}
+
+.reviews.has-widget .review-list {
+  display: none;
+}
+
+.reviews.has-widget .reviews__widget {
+  padding: var(--space-5);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-lg);
+  color: var(--color-text);
+  color-scheme: light;
+}
+
+@media (min-width: 48em) {
+  .reviews.has-widget .reviews__widget {
+    padding: var(--space-6);
+  }
+}
+
 /* ---------- 14. Planner (quote form) ---------- */
 .planner {
   overflow-x: clip; /* the offset backdrop photo must not widen the page */
@@ -2909,7 +2936,123 @@ textarea.field__input {
   }
 }
 
-/* ---------- 16. Footer ---------- */
+/* ---------- 16. Instagram feed ---------- */
+.insta__head {
+  display: grid;
+  gap: var(--space-6);
+  margin-bottom: var(--space-8);
+}
+
+.insta__follow {
+  display: grid;
+  justify-items: start;
+  gap: var(--space-3);
+}
+
+.insta__handle {
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text-muted);
+}
+
+.insta__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-2);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+}
+
+.insta__tile {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 1;
+  border-radius: var(--radius-sm);
+  background: var(--color-sand-300);
+}
+
+.insta__tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* On hover a deep ocean wash brings up the Instagram mark, as on the feed itself. */
+.insta__tile::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgb(5 30 40 / 0.5);
+  opacity: 0;
+  transition: opacity var(--duration-base) var(--ease-out);
+}
+
+.insta__glyph {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  z-index: 1;
+  width: 2rem;
+  height: 2rem;
+  color: var(--color-white);
+  opacity: 0;
+  transform: translate(-50%, -50%) scale(0.8);
+  transition:
+    opacity var(--duration-base) var(--ease-out),
+    transform var(--duration-base) var(--ease-out);
+}
+
+.insta__grid:focus-visible .insta__tile::after {
+  opacity: 1;
+}
+
+.insta__grid:focus-visible .insta__glyph {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+@media (hover: hover) {
+  .insta__tile:hover::after {
+    opacity: 1;
+  }
+
+  .insta__tile:hover .insta__glyph {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .insta__tile img {
+    transition: transform var(--duration-slow) var(--ease-out);
+  }
+
+  .insta__tile:hover img {
+    transform: scale(1.06);
+  }
+}
+
+/* A pasted feed (Elfsight, LightWidget) replaces the photo grid once it has drawn something. */
+.insta.has-widget .insta__grid {
+  display: none;
+}
+
+@media (min-width: 64em) {
+  .insta__head {
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: end;
+  }
+
+  .insta__follow {
+    justify-items: end;
+  }
+
+  .insta__grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: var(--space-3);
+  }
+}
+
+/* ---------- 17. Footer ---------- */
 .site-footer {
   padding-top: var(--space-11);
   background: var(--color-bg-deepest);
@@ -3053,7 +3196,7 @@ textarea.field__input {
   color: var(--color-text-muted);
 }
 
-/* ---------- 17. Floating contact stack ---------- */
+/* ---------- 18. Floating contact stack ---------- */
 /* Three round buttons in the bottom-right corner on every screen size. WhatsApp comes first
    in the markup and sits lowest, nearest the thumb; Call and Instagram stack above it. */
 :root {
@@ -3313,7 +3456,7 @@ textarea.field__input {
   }
 }
 
-/* ---------- 18. Inner pages: shared parts ---------- */
+/* ---------- 19. Inner pages: shared parts ---------- */
 
 /* Seven nav links: tighter spacing and type on small desktops, so the logo never
    has to shrink, and smaller type in the mobile menu */
@@ -3812,7 +3955,7 @@ textarea.field__input {
   opacity: 1;
 }
 
-/* ---------- 19. Destinations page ---------- */
+/* ---------- 20. Destinations page ---------- */
 .region {
   padding-block: var(--space-section);
   scroll-margin-top: 4.5rem;
@@ -4061,7 +4204,7 @@ textarea.field__input {
   }
 }
 
-/* ---------- 20. Experiences page ---------- */
+/* ---------- 21. Experiences page ---------- */
 .glance {
   position: relative;
   z-index: var(--z-raised);
@@ -4364,7 +4507,7 @@ textarea.field__input {
   }
 }
 
-/* ---------- 21. Journeys page ---------- */
+/* ---------- 22. Journeys page ---------- */
 .journey {
   padding-block: var(--space-section);
   scroll-margin-top: 0;
@@ -4795,7 +4938,7 @@ textarea.field__input {
   color: var(--color-text-muted);
 }
 
-/* ---------- 22. Journal page ---------- */
+/* ---------- 23. Journal page ---------- */
 .feature-post-wrap {
   position: relative;
   z-index: var(--z-raised);
@@ -5236,7 +5379,7 @@ textarea.field__input {
   }
 }
 
-/* ---------- 23. Trip dock (built by main.js) ---------- */
+/* ---------- 24. Trip dock (built by main.js) ---------- */
 .trip-dock {
   position: fixed;
   right: var(--gutter);
@@ -5359,7 +5502,7 @@ textarea.field__input {
   }
 }
 
-/* ---------- 24. Scroll reveal ---------- */
+/* ---------- 25. Scroll reveal ---------- */
 @media (prefers-reduced-motion: no-preference) {
   .js .reveal {
     opacity: 0;
@@ -5404,7 +5547,7 @@ textarea.field__input {
   color: var(--color-accent);
 }
 
-/* ---------- 25. Gallery page ---------- */
+/* ---------- 26. Gallery page ---------- */
 .jump__count {
   display: inline-grid;
   place-items: center;
@@ -5830,7 +5973,7 @@ video.lightbox__media {
   line-height: var(--leading-snug);
 }
 
-/* ---------- 26. Phones and touch screens ---------- */
+/* ---------- 27. Phones and touch screens ---------- */
 /* A thumb-first layer over everything above: 48px tap targets,
    pressed states you can feel, sideways rows that snap and hint at what is off screen,
    and the menu's quick-contact panel. */
@@ -6316,7 +6459,7 @@ label {
   }
 }
 
-/* ---------- 27. Languages ---------- */
+/* ---------- 28. Languages ---------- */
 /* The switcher needs the script, and so does every language but English */
 .no-js .lang,
 .no-js .lang-row {

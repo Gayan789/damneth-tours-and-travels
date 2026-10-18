@@ -174,6 +174,11 @@
     "fdf9b114": "Voyez à quoi pourraient ressembler une ou deux semaines sur l’île, avec un programme jour par jour pour chacun, puis adaptez-le à vos envies.",
     "8aa80223": "Voir les exemples de circuits <1/>",
     "2888b04f": "Ou commencer un projet sur mesure <1/>",
-    "96a384e8": "Un voyageur penché à la fenêtre d’un train qui serpente à travers les plantations de thé"
+    "96a384e8": "Un voyageur penché à la fenêtre d’un train qui serpente à travers les plantations de thé",
+    "00d024c5": "Sur Instagram",
+    "5fc7b8df": "Photos de la route",
+    "579ede76": "Des voyageurs, des lieux et des moments de nos circuits à travers le Sri Lanka.",
+    "c23eb8ff": "<1/>Suivez-nous sur Instagram<2> (s’ouvre dans un nouvel onglet)</2>",
+    "bc191ff3": "Voir plus de nos photos sur Instagram (s’ouvre dans un nouvel onglet)"
   }
 });

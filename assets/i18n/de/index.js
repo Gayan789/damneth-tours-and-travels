@@ -174,6 +174,11 @@
     "fdf9b114": "Sehen Sie, wie ein oder zwei Wochen auf der Insel aussehen könnten, mit einem Tag-für-Tag-Plan für jede Route – und machen Sie dann Ihre eigene daraus.",
     "8aa80223": "Beispielrouten ansehen <1/>",
     "2888b04f": "Oder eine individuelle Planung starten <1/>",
-    "96a384e8": "Ein Reisender lehnt sich aus einem Zugfenster, während der Zug sich durch das Teeland windet"
+    "96a384e8": "Ein Reisender lehnt sich aus einem Zugfenster, während der Zug sich durch das Teeland windet",
+    "00d024c5": "Auf Instagram",
+    "5fc7b8df": "Fotos von unterwegs",
+    "579ede76": "Gäste, Orte und Momente von unseren Reisen durch Sri Lanka.",
+    "c23eb8ff": "<1/>Folgen Sie uns auf Instagram<2> (öffnet in einem neuen Tab)</2>",
+    "bc191ff3": "Mehr von unseren Fotos auf Instagram (öffnet in einem neuen Tab)"
   }
 });

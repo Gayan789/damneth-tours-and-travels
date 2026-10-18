@@ -865,7 +865,7 @@
     </section>
 
     <!-- ============ 8. Traveller reviews ============ -->
-    <section class="reviews section theme-dark" aria-labelledby="reviews-title">
+    <section class="reviews section theme-dark" aria-labelledby="reviews-title" data-widget-host>
       <div class="reviews__bg">
         <img src="assets/images/review-coconut-hill-1400.webp"
           srcset="assets/images/review-coconut-hill-800.webp 800w, assets/images/review-coconut-hill-1400.webp 1400w, assets/images/review-coconut-hill-2000.webp 2000w"
@@ -881,21 +881,31 @@
           <a class="text-link reviews__google" href="https://share.google/qzxsNmWmjLibG76Lp" target="_blank" rel="noopener noreferrer" data-i18n="003f022a"><svg class="icon" aria-hidden="true"><use href="#i-star"/></svg>Leave us a review on Google<span class="visually-hidden"> (opens in a new tab)</span></a>
         </div>
 
-        <div class="review-list">
-          <figure class="review review--light theme-light reveal">
-            <svg class="review__mark" aria-hidden="true"><use href="#i-quote"/></svg>
-            <blockquote lang="en">
-              <p data-i18n="6fcee3d2">Damneth was amazing! Organized our trip smoothly. Comfortable van, great driver who showed us non-touristy spots along the way. 10/10 service!</p>
-            </blockquote>
-            <figcaption data-i18n="1b337725"><span class="review__avatar"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-users"/></svg></span>Guest review</figcaption>
-          </figure>
-          <figure class="review review--glass reveal" style="--reveal: 1">
-            <svg class="review__mark" aria-hidden="true"><use href="#i-quote"/></svg>
-            <blockquote lang="en">
-              <p data-i18n="eb21ef4c">Very professional tour service. Safe driving, super punctual, and reasonable prices compared to big agencies</p>
-            </blockquote>
-            <figcaption data-i18n="1b337725"><span class="review__avatar"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-users"/></svg></span>Guest review</figcaption>
-          </figure>
+        <div class="reviews__body">
+          <!-- Fallback review cards: shown until a review widget loads in the slot below, and kept if it never does. -->
+          <div class="review-list">
+            <figure class="review review--light theme-light reveal">
+              <svg class="review__mark" aria-hidden="true"><use href="#i-quote"/></svg>
+              <blockquote lang="en">
+                <p data-i18n="6fcee3d2">Damneth was amazing! Organized our trip smoothly. Comfortable van, great driver who showed us non-touristy spots along the way. 10/10 service!</p>
+              </blockquote>
+              <figcaption data-i18n="1b337725"><span class="review__avatar"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-users"/></svg></span>Guest review</figcaption>
+            </figure>
+            <figure class="review review--glass reveal" style="--reveal: 1">
+              <svg class="review__mark" aria-hidden="true"><use href="#i-quote"/></svg>
+              <blockquote lang="en">
+                <p data-i18n="eb21ef4c">Very professional tour service. Safe driving, super punctual, and reasonable prices compared to big agencies</p>
+              </blockquote>
+              <figcaption data-i18n="1b337725"><span class="review__avatar"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-users"/></svg></span>Guest review</figcaption>
+            </figure>
+          </div>
+
+          <div class="reviews__widget widget-slot" data-widget-slot translate="no">
+            <!-- REVIEWS WIDGET: paste your Elfsight or Trustindex embed code on the line below this comment.
+                 Once the widget loads, it takes the place of the two review cards above.
+                 Leave this box empty to keep showing the cards. -->
+
+          </div>
         </div>
       </div>
     </section>
@@ -1079,9 +1089,73 @@
         </div>
       </div>
     </section>
+
+    <!-- ============ 11. Instagram feed ============ -->
+    <section class="insta section section--alt" aria-labelledby="insta-title" data-widget-host>
+      <div class="container">
+        <div class="insta__head">
+          <div class="section-head reveal">
+            <p class="eyebrow" data-i18n="00d024c5">On Instagram</p>
+            <h2 class="section-title section-title--md" id="insta-title" data-i18n="5fc7b8df">Photos from the road</h2>
+            <p class="lead" data-i18n="579ede76">Guests, places and moments from our trips around Sri Lanka.</p>
+          </div>
+          <div class="insta__follow reveal" style="--reveal: 1">
+            <a class="btn btn--primary" href="https://www.instagram.com/damneth_tours_and_travels" target="_blank" rel="noopener noreferrer" data-i18n="c23eb8ff"><svg class="icon" aria-hidden="true"><use href="#i-instagram"/></svg>Follow us on Instagram<span class="visually-hidden"> (opens in a new tab)</span></a>
+            <p class="insta__handle" translate="no" dir="ltr">@damneth_tours_and_travels</p>
+          </div>
+        </div>
+
+        <!-- Fallback photo grid: shown until an Instagram widget loads in the slot below, and kept if it never does. -->
+        <a class="insta__grid reveal" href="https://www.instagram.com/damneth_tours_and_travels" target="_blank" rel="noopener noreferrer" aria-label="See more of our photos on Instagram (opens in a new tab)" data-i18n-attr="aria-label=bc191ff3">
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-waterfall-flag-480.webp"
+              srcset="assets/images/gallery/gal-waterfall-flag-480.webp 480w, assets/images/gallery/gal-waterfall-flag-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="1440" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-rope-swing-480.webp"
+              srcset="assets/images/gallery/gal-rope-swing-480.webp 480w, assets/images/gallery/gal-rope-swing-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="1440" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-elephant-bath-480.webp"
+              srcset="assets/images/gallery/gal-elephant-bath-480.webp 480w, assets/images/gallery/gal-elephant-bath-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="1440" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-picnic-lunch-480.webp"
+              srcset="assets/images/gallery/gal-picnic-lunch-480.webp 480w, assets/images/gallery/gal-picnic-lunch-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="810" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-lagoon-boat-480.webp"
+              srcset="assets/images/gallery/gal-lagoon-boat-480.webp 480w, assets/images/gallery/gal-lagoon-boat-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="1440" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+          <span class="insta__tile">
+            <img src="assets/images/gallery/gal-guardstones-480.webp"
+              srcset="assets/images/gallery/gal-guardstones-480.webp 480w, assets/images/gallery/gal-guardstones-960.webp 960w"
+              sizes="(min-width: 80em) 12rem, (min-width: 64em) 16vw, 32vw" width="1080" height="810" loading="lazy" decoding="async" alt="">
+            <svg class="icon insta__glyph" aria-hidden="true"><use href="#i-instagram"/></svg>
+          </span>
+        </a>
+
+        <div class="insta__widget widget-slot" data-widget-slot translate="no">
+          <!-- INSTAGRAM FEED WIDGET: paste your Elfsight or LightWidget embed code on the line below this comment.
+               Once the feed loads, it takes the place of the photo grid above.
+               Leave this box empty to keep showing the grid. -->
+
+        </div>
+      </div>
+    </section>
   </main>
 
-  <!-- ============ 11. Footer ============ -->
+  <!-- ============ 12. Footer ============ -->
   <footer class="site-footer theme-dark" id="contact">
     <div class="container">
       <div class="footer__cta">
